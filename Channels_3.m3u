@@ -853,3 +853,11 @@ http://it-zone.tech/proxy/1602732
 http://it-zone.tech/proxy/1602732
 #EXTINF:-1 tvg-ID="" tvg-name="XXX- Public Agent" tvg-logo="" group-title="Foradults",XXX- Public Agent
 http://it-zone.tech/proxy/1602750
+#EXTINF:-1 tvg-ID="" tvg-name="C+ RÉU- VIVA" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/vivahd.png" group-title="AF- C+ RÉUNION",C+ RÉU- VIVA
+http://it-zone.tech/proxy/1163367
+#EXTINF:-1 tvg-ID="" tvg-name="C+ RÉU- TV PLUS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tvplus.png" group-title="AF- C+ RÉUNION",C+ RÉU- TV PLUS
+http://it-zone.tech/proxy/1163390
+#EXTINF:-1 tvg-ID="" tvg-name="C+ RÉU- TVM" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/TVM--.jpg" group-title="AF- C+ RÉUNION",C+ RÉU- TVM
+http://it-zone.tech/proxy/1163391
+#EXTINF:-1 tvg-ID="" tvg-name="C+ RÉU- KOLO TV" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/KOLO-TV.jpg" group-title="AF- C+ RÉUNION",C+ RÉU- KOLO TV
+http://it-zone.tech/proxy/1163384
