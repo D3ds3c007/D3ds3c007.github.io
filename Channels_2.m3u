@@ -1519,5 +1519,11 @@ http://it-zone.tech/proxy/1163442
 http://it-zone.tech/proxy/1163443
 #EXTINF:-1 tvg-ID="" tvg-name="C+ RÉU- NOVEGASY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-fHf3U5nKNeeMWLdBj5UqJ5XI7rawRaGPSQ&s" group-title="AF- C+ RÉUNION",C+ RÉU- NOVEGASY
 http://it-zone.tech/proxy/1163347
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Formule 1 - 2023 Race 08" tvg-logo="https://www.nzbserver.com/?page=getimage&messageid=82ku5P9rU3AjY17ZAFdSz%40spot.net&image[height]=260&image[width]=260" group-title="NL- F1 GRAND PRIX 2023",Sky Sports Formule 1 - 2023 Race 08
-http://nettv-premium.com:80/movie/980220241004/nvxy40vrj5/720987.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="C+ RÉU- VIVA" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/vivahd.png" group-title="AF- C+ RÉUNION",C+ RÉU- VIVA
+http://it-zone.tech/proxy/1163367
+#EXTINF:-1 tvg-ID="" tvg-name="C+ RÉU- TV PLUS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tvplus.png" group-title="AF- C+ RÉUNION",C+ RÉU- TV PLUS
+http://it-zone.tech/proxy/1163390
+#EXTINF:-1 tvg-ID="" tvg-name="C+ RÉU- TVM" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/TVM--.jpg" group-title="AF- C+ RÉUNION",C+ RÉU- TVM
+http://it-zone.tech/proxy/1163391
+#EXTINF:-1 tvg-ID="" tvg-name="C+ RÉU- KOLO TV" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/KOLO-TV.jpg" group-title="AF- C+ RÉUNION",C+ RÉU- KOLO TV
+http://it-zone.tech/proxy/1163384
