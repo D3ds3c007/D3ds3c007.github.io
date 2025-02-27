@@ -4,8 +4,6 @@ http://it-zone.tech/proxy/964914
 http://it-zone.tech/proxy/964913
 #EXTINF:-1 tvg-ID="tf1.fr" tvg-name="FR 4K- TF1" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tf1hd.png" group-title="EU- FR 4K UHD",FR 4K- TF1
 http://it-zone.tech/proxy/964912
-#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="FR 4K- TF1+1" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/TF1-PLUS1.png" group-title="EU- FR 4K UHD",FR 4K- TF1+1
-http://it-zone.tech/proxy/964911
 #EXTINF:-1 tvg-ID="tf1seriesfilms.fr" tvg-name="FR 4K- TF1 SERIES FILMS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tf1seriesfilms.png" group-title="EU- FR 4K UHD",FR 4K- TF1 SERIES FILMS
 http://it-zone.tech/proxy/964893
 #EXTINF:-1 tvg-ID="france2.fr" tvg-name="FR 4K- FRANCE 2" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/france2hd.png" group-title="EU- FR 4K UHD",FR 4K- FRANCE 2
@@ -24,8 +22,6 @@ http://it-zone.tech/proxy/964867
 http://it-zone.tech/proxy/964829
 #EXTINF:-1 tvg-ID="canalpluscinema.fr" tvg-name="FR 4K- CANAL+ CINEMA" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/canalpluscinema.png" group-title="EU- FR 4K UHD",FR 4K- CANAL+ CINEMA
 http://it-zone.tech/proxy/964827
-#EXTINF:-1 tvg-ID="canalplusdocs.fr" tvg-name="FR 4K- CANAL+ DOCS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/canalplusdocs.png" group-title="EU- FR 4K UHD",FR 4K- CANAL+ DOCS
-http://it-zone.tech/proxy/964825
 #EXTINF:-1 tvg-ID="canalplusgrandecran.fr" tvg-name="FR 4K- CANAL+ GRAND ECRAN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/da/C%2B_Grand_%C3%89cran.png" group-title="EU- FR 4K UHD",FR 4K- CANAL+ GRAND ECRAN
 http://it-zone.tech/proxy/964826
 #EXTINF:-1 tvg-ID="canalpluskids.fr" tvg-name="FR 4K- CANAL+ KIDS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/canalpluskids.png" group-title="EU- FR 4K UHD",FR 4K- CANAL+ KIDS
@@ -50,10 +46,6 @@ http://it-zone.tech/proxy/964858
 http://it-zone.tech/proxy/964862
 #EXTINF:-1 tvg-ID="ocsgeants.fr" tvg-name="FR 4K- OCS GEANT" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/ocsgeant.png" group-title="EU- FR 4K UHD",FR 4K- OCS GEANT
 http://it-zone.tech/proxy/964859
-#EXTINF:-1 tvg-ID="ocsmax.fr" tvg-name="FR 4K- OCS MAX" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/ocsmax.png" group-title="EU- FR 4K UHD",FR 4K- OCS MAX
-http://it-zone.tech/proxy/964861
-#EXTINF:-1 tvg-ID="01tv.fr" tvg-name="FR 4K- OCS PULP" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2022/11/Entete-OCS-Pulp.png" group-title="EU- FR 4K UHD",FR 4K- OCS PULP
-http://it-zone.tech/proxy/964860
 #EXTINF:-1 tvg-ID="ushuaiatv.fr" tvg-name="FR 4K- USHUAIA TV" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/ushuaiatvhd.png" group-title="EU- FR 4K UHD",FR 4K- USHUAIA TV
 http://it-zone.tech/proxy/964832
 #EXTINF:-1 tvg-ID="chassepeche.fr" tvg-name="FR 4K- CHASSE ET PECHE" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/chasseetpechehd.png" group-title="EU- FR 4K UHD",FR 4K- CHASSE ET PECHE
@@ -80,12 +72,18 @@ http://it-zone.tech/proxy/964863
 http://it-zone.tech/proxy/964868
 #EXTINF:-1 tvg-ID="arte.fr" tvg-name="FR 4K- ARTE" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/artehd.png" group-title="EU- FR 4K UHD",FR 4K- ARTE
 http://it-zone.tech/proxy/964904
+#EXTINF:-1 tvg-ID="" tvg-name="FR- TECH & CO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2l8IgfDyJweXM8YfttV7xzQB81Thlcpj_hw&s" group-title="EU- FR INFORMATION",FR- TECH & CO
+http://it-zone.tech/proxy/1743154
+#EXTINF:-1 tvg-ID="" tvg-name="FR- B SMART" tvg-logo="http://102.177.177.154/logos/picons/logos/france/B_SMART_logo.png" group-title="EU- FR INFORMATION",FR- B SMART
+http://it-zone.tech/proxy/1742952
+#EXTINF:-1 tvg-ID="bfmbusiness.fr" tvg-name="FR- BFM BUSINESS SD" tvg-logo="http://102.177.177.154/logos/picons/logos/france/BFM-BUSINESS-FHD.png" group-title="EU- FR INFORMATION",FR- BFM BUSINESS SD
+http://it-zone.tech/proxy/964238
+#EXTINF:-1 tvg-ID="bfmbusiness.fr" tvg-name="FR- BFM BUSINESS HD" tvg-logo="http://102.177.177.154/logos/picons/logos/france/BFM-BUSINESS-FHD.png" group-title="EU- FR INFORMATION",FR- BFM BUSINESS HD
+http://it-zone.tech/proxy/964239
+#EXTINF:-1 tvg-ID="bfmbusiness.fr" tvg-name="FR- BFM BUSINESS FHD" tvg-logo="http://102.177.177.154/logos/picons/logos/france/BFM-BUSINESS-FHD.png" group-title="EU- FR INFORMATION",FR- BFM BUSINESS FHD
+http://it-zone.tech/proxy/964240
 #EXTINF:-1 tvg-ID="bfmtv.fr" tvg-name="FR 4K- BFM TV" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bfmtv.png" group-title="EU- FR 4K UHD",FR 4K- BFM TV
 http://it-zone.tech/proxy/964897
-#EXTINF:-1 tvg-ID="bfmbusiness.fr" tvg-name="FR 4K- BFM BUSSINESS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bfmbusiness.png" group-title="EU- FR 4K UHD",FR 4K- BFM BUSSINESS
-http://it-zone.tech/proxy/964884
-#EXTINF:-1 tvg-ID="01tv.fr" tvg-name="FR 4K- BSMART" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bsmart.png" group-title="EU- FR 4K UHD",FR 4K- BSMART
-http://it-zone.tech/proxy/964877
 #EXTINF:-1 tvg-ID="c8.fr" tvg-name="FR 4K- C8" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/c8.png" group-title="EU- FR 4K UHD",FR 4K- C8
 http://it-zone.tech/proxy/964903
 #EXTINF:-1 tvg-ID="cnews.fr" tvg-name="FR 4K- CNEWS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/cnews.png" group-title="EU- FR 4K UHD",FR 4K- CNEWS
@@ -96,12 +94,8 @@ http://it-zone.tech/proxy/964895
 http://it-zone.tech/proxy/964879
 #EXTINF:-1 tvg-ID="france24.fr" tvg-name="FR 4K- FRANCE 24" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/france24hd.png" group-title="EU- FR 4K UHD",FR 4K- FRANCE 24
 http://it-zone.tech/proxy/964906
-#EXTINF:-1 tvg-ID="franceinfo.fr" tvg-name="FR 4K- FRANCE INFO" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/franceinfo.png" group-title="EU- FR 4K UHD",FR 4K- FRANCE INFO
-http://it-zone.tech/proxy/964887
 #EXTINF:-1 tvg-ID="i24news.fr" tvg-name="FR 4K- I24 NEWS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/i24news.png" group-title="EU- FR 4K UHD",FR 4K- I24 NEWS
 http://it-zone.tech/proxy/964878
-#EXTINF:-1 tvg-ID="01tv.fr" tvg-name="FR 4K- JONE" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/jone.png" group-title="EU- FR 4K UHD",FR 4K- JONE
-http://it-zone.tech/proxy/964851
 #EXTINF:-1 tvg-ID="kto.fr" tvg-name="FR 4K- KTO" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/kto.png" group-title="EU- FR 4K UHD",FR 4K- KTO
 http://it-zone.tech/proxy/964835
 #EXTINF:-1 tvg-ID="lci.fr" tvg-name="FR 4K- LCI" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/lcihd.png" group-title="EU- FR 4K UHD",FR 4K- LCI
@@ -112,18 +106,18 @@ http://it-zone.tech/proxy/964886
 http://it-zone.tech/proxy/964898
 #EXTINF:-1 tvg-ID="polarplus.fr" tvg-name="FR 4K- POLAR+" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/polarplus.png" group-title="EU- FR 4K UHD",FR 4K- POLAR+
 http://it-zone.tech/proxy/964845
-#EXTINF:-1 tvg-ID="01tv.fr" tvg-name="FR 4K- TOP SANTE" tvg-logo="https://media.info/l/o/7/7384.1601931106.png" group-title="EU- FR 4K UHD",FR 4K- TOP SANTE
-http://it-zone.tech/proxy/964872
 #EXTINF:-1 tvg-ID="scienceandvie.fr" tvg-name="FR 4K- SCIENCE ET VIE" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/scienceetvie.png" group-title="EU- FR 4K UHD",FR 4K- SCIENCE ET VIE
 http://it-zone.tech/proxy/964833
 #EXTINF:-1 tvg-ID="paramountchannel.fr" tvg-name="FR 4K- PARAMOUNT CHANNEL" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/paramountchannelhd.png" group-title="EU- FR 4K UHD",FR 4K- PARAMOUNT CHANNEL
 http://it-zone.tech/proxy/964816
-#EXTINF:-1 tvg-ID="01tv.fr" tvg-name="FR 4K- PARAMOUNT DECALE" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/PARAMOUNT-DECALE.png" group-title="EU- FR 4K UHD",FR 4K- PARAMOUNT DECALE
-http://it-zone.tech/proxy/964864
+#EXTINF:-1 tvg-ID="paramountchannel.fr" tvg-name="FR- PARAMOUNT DECALE SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/paramount.png" group-title="EU- FR CINEMA",FR- PARAMOUNT DECALE SD
+http://it-zone.tech/proxy/963888
+#EXTINF:-1 tvg-ID="paramountchannel.fr" tvg-name="FR- PARAMOUNT DECALE HD" tvg-logo="http://premium-tv.live/logos/picons/logos/france/PARAMOUNT-D%C3%89CAL%C3%89.png" group-title="EU- FR CINEMA",FR- PARAMOUNT DECALE HD
+http://it-zone.tech/proxy/963889
+#EXTINF:-1 tvg-ID="paramountchannel.fr" tvg-name="FR- PARAMOUNT DECALE FHD" tvg-logo="http://premium-tv.live/logos/picons/logos/france/PARAMOUNT-D%C3%89CAL%C3%89.png" group-title="EU- FR CINEMA",FR- PARAMOUNT DECALE FHD
+http://it-zone.tech/proxy/96389
 #EXTINF:-1 tvg-ID="parispremiere.fr" tvg-name="FR 4K- PARIS PREMIERE" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/parispremiere.png" group-title="EU- FR 4K UHD",FR 4K- PARIS PREMIERE
 http://it-zone.tech/proxy/964870
-#EXTINF:-1 tvg-ID="publicsenat.fr" tvg-name="FR 4K- PUBLIC SENATE" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/PUBLIC-S%C3%89NAT.png" group-title="EU- FR 4K UHD",FR 4K- PUBLIC SENATE
-http://it-zone.tech/proxy/964885
 #EXTINF:-1 tvg-ID="rmcdecouverte.fr" tvg-name="FR 4K- RMC DECOUVERTE" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcdecouvertehd.png" group-title="EU- FR 4K UHD",FR 4K- RMC DECOUVERTE
 http://it-zone.tech/proxy/964890
 #EXTINF:-1 tvg-ID="rmcstory.fr" tvg-name="FR 4K- RMC STORY" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcstory.png" group-title="EU- FR 4K UHD",FR 4K- RMC STORY
@@ -134,16 +128,10 @@ http://it-zone.tech/proxy/964815
 http://it-zone.tech/proxy/964882
 #EXTINF:-1 tvg-ID="tcm.fr" tvg-name="FR 4K- TCM CINEMA" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tcmcinema.png" group-title="EU- FR 4K UHD",FR 4K- TCM CINEMA
 http://it-zone.tech/proxy/964866
-#EXTINF:-1 tvg-ID="01tv.fr" tvg-name="FR 4K- TECH AND CO" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2020/01/tech.png" group-title="EU- FR 4K UHD",FR 4K- TECH AND CO
-http://it-zone.tech/proxy/964881
 #EXTINF:-1 tvg-ID="toonami.fr" tvg-name="FR 4K- TOONAMI" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/toonami.png" group-title="EU- FR 4K UHD",FR 4K- TOONAMI
 http://it-zone.tech/proxy/964852
-#EXTINF:-1 tvg-ID="01tv.fr" tvg-name="FR 4K- TRACE SPORT" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tracesports.png" group-title="EU- FR 4K UHD",FR 4K- TRACE SPORT
-http://it-zone.tech/proxy/964838
 #EXTINF:-1 tvg-ID="01tv.fr" tvg-name="FR 4K- AUTOMOTO" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/automoto.png" group-title="EU- FR 4K UHD",FR 4K- AUTOMOTO
 http://it-zone.tech/proxy/964839
-#EXTINF:-1 tvg-ID="" tvg-name="FR 4K- CHAINE EVENEMENT" tvg-logo="" group-title="EU- FR 4K UHD",FR 4K- CHAINE EVENEMENT
-http://it-zone.tech/proxy/964817
 #EXTINF:-1 tvg-ID="cherie25.fr" tvg-name="FR 4K- CHERIE 25" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/cherie25.png" group-title="EU- FR 4K UHD",FR 4K- CHERIE 25
 http://it-zone.tech/proxy/964889
 #EXTINF:-1 tvg-ID="disneychannel.fr" tvg-name="FR 4K- DISNEY CHANNEL" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/disneychannel.png" group-title="EU- FR 4K UHD",FR 4K- DISNEY CHANNEL
@@ -156,24 +144,14 @@ http://it-zone.tech/proxy/964822
 http://it-zone.tech/proxy/964818
 #EXTINF:-1 tvg-ID="golfchannel.fr" tvg-name="FR 4K- GOLF CHANNEL" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/golfchannel.jpg" group-title="EU- FR 4K UHD",FR 4K- GOLF CHANNEL
 http://it-zone.tech/proxy/964840
-#EXTINF:-1 tvg-ID="01tv.fr" tvg-name="FR 4K- GONG" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/gong.png" group-title="EU- FR 4K UHD",FR 4K- GONG
-http://it-zone.tech/proxy/964850
-#EXTINF:-1 tvg-ID="01tv.fr" tvg-name="FR 4K- GONG MAX" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/GONG-MAX.png" group-title="EU- FR 4K UHD",FR 4K- GONG MAX
-http://it-zone.tech/proxy/964849
-#EXTINF:-1 tvg-ID="01tv.fr" tvg-name="FR 4K- GOURMAND TV" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/gourmandtv.jpg" group-title="EU- FR 4K UHD",FR 4K- GOURMAND TV
-http://it-zone.tech/proxy/964843
 #EXTINF:-1 tvg-ID="gulli.fr" tvg-name="FR 4K- GULLI" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/gulli.png" group-title="EU- FR 4K UHD",FR 4K- GULLI
 http://it-zone.tech/proxy/964894
 #EXTINF:-1 tvg-ID="01tv.fr" tvg-name="FR 4K- L EQUIPE" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/lequipe.png" group-title="EU- FR 4K UHD",FR 4K- L EQUIPE
 http://it-zone.tech/proxy/964892
-#EXTINF:-1 tvg-ID="01tv.fr" tvg-name="FR 4K- LUCKY JACK" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/luckyjack.png" group-title="EU- FR 4K UHD",FR 4K- LUCKY JACK
-http://it-zone.tech/proxy/964836
 #EXTINF:-1 tvg-ID="mezzo.fr" tvg-name="FR 4K- MEZZO" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/mezzo.png" group-title="EU- FR 4K UHD",FR 4K- MEZZO
 http://it-zone.tech/proxy/964831
 #EXTINF:-1 tvg-ID="mezzolive.fr" tvg-name="FR 4K- MEZZO LIVE" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/mezzolivehd.png" group-title="EU- FR 4K UHD",FR 4K- MEZZO LIVE
 http://it-zone.tech/proxy/964830
-#EXTINF:-1 tvg-ID="" tvg-name="FR 4K- NAUTICAL" tvg-logo="" group-title="EU- FR 4K UHD",FR 4K- NAUTICAL
-http://it-zone.tech/proxy/964837
 #EXTINF:-1 tvg-ID="nickelodeon.fr" tvg-name="FR 4K- NICKELODEON" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/nickelodeonhd.png" group-title="EU- FR 4K UHD",FR 4K- NICKELODEON
 http://it-zone.tech/proxy/964847
 #EXTINF:-1 tvg-ID="nickjr.fr" tvg-name="FR 4K- NICKELODEON JUNIOR" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/nickelodeonjunior.png" group-title="EU- FR 4K UHD",FR 4K- NICKELODEON JUNIOR
@@ -396,12 +374,6 @@ http://it-zone.tech/proxy/963612
 http://it-zone.tech/proxy/963613
 #EXTINF:-1 tvg-ID="syfy.fr" tvg-name="FR- SYFY FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/syfyhd.png" group-title="EU- FR GENERAL",FR- SYFY FHD
 http://it-zone.tech/proxy/963614
-#EXTINF:-1 tvg-ID="tv5mondefrancebelgiquesuisse.fr" tvg-name="FR- TV5 MONDE SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tv5monde.png" group-title="EU- FR INFORMATION",FR- TV5 MONDE SD
-http://it-zone.tech/proxy/964259
-#EXTINF:-1 tvg-ID="tv5mondefrancebelgiquesuisse.fr" tvg-name="FR- TV5 MONDE HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tv5monde.png" group-title="EU- FR INFORMATION",FR- TV5 MONDE HD
-http://it-zone.tech/proxy/964260
-#EXTINF:-1 tvg-ID="tv5mondefrancebelgiquesuisse.fr" tvg-name="FR- TV5 MONDE FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tv5monde.png" group-title="EU- FR INFORMATION",FR- TV5 MONDE FHD
-http://it-zone.tech/proxy/964261
 #EXTINF:-1 tvg-ID="bfmbusiness.fr" tvg-name="FR- BFM BUSINESS SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bfmbusiness.png" group-title="EU- FR INFORMATION",FR- BFM BUSINESS SD
 http://it-zone.tech/proxy/964238
 #EXTINF:-1 tvg-ID="bfmbusiness.fr" tvg-name="FR- BFM BUSINESS HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bfmbusiness.png" group-title="EU- FR INFORMATION",FR- BFM BUSINESS HD
@@ -982,6 +954,8 @@ http://it-zone.tech/proxy/964121
 http://it-zone.tech/proxy/1702182
 #EXTINF:-1 tvg-ID="" tvg-name="BOOTCAMP" tvg-logo="https://img.freepik.com/vecteurs-premium/meilleur-embleme-emission-television-tv-haute-definition-incurvee-vecteur_118692-717.jpg" group-title="EU- FR PLAY EMISSION",BOOTCAMP
 http://it-zone.tech/proxy/1701111
+#EXTINF:-1 tvg-ID="" tvg-name="RMC MYSTERE" tvg-logo="https://img.freepik.com/vecteurs-premium/meilleur-embleme-emission-television-tv-haute-definition-incurvee-vecteur_118692-717.jpg" group-title="EU- FR PLAY EMISSION",RMC MYSTERE
+http://it-zone.tech/proxy/1743160
 #EXTINF:-1 tvg-ID="" tvg-name="LA PLANÈTE DES SINGES" tvg-logo="https://static.vecteezy.com/ti/vecteur-libre/p1/17377516-vecteur-de-banniere-de-cinema-en-ligne-realiste-theme-de-l-industrie-cinematographique-boite-de-pop-corn-elements-de-la-salle-de-cinema-rideau-de-theatre-illustration-vectoriel.jpg" group-title="EU- FR PLAY  CINE",LA PLANÈTE DES SINGES
 http://it-zone.tech/proxy/1701110
 #EXTINF:-1 tvg-ID="" tvg-name="DOC BRUT X" tvg-logo="https://img.freepik.com/vecteurs-premium/meilleur-embleme-emission-television-tv-haute-definition-incurvee-vecteur_118692-717.jpg" group-title="EU- FR PLAY EMISSION",DOC BRUT X
@@ -1018,8 +992,6 @@ http://it-zone.tech/proxy/1671242
 http://it-zone.tech/proxy/1671241
 #EXTINF:-1 tvg-ID="" tvg-name="CINE ÉMOTION" tvg-logo="https://static.vecteezy.com/ti/vecteur-libre/p1/17377516-vecteur-de-banniere-de-cinema-en-ligne-realiste-theme-de-l-industrie-cinematographique-boite-de-pop-corn-elements-de-la-salle-de-cinema-rideau-de-theatre-illustration-vectoriel.jpg" group-title="EU- FR PLAY  CINE",CINE ÉMOTION
 http://it-zone.tech/proxy/1671240
-#EXTINF:-1 tvg-ID="" tvg-name="RAKUTEN DOCUMENTAIRE" tvg-logo="https://img.freepik.com/vecteurs-premium/meilleur-embleme-emission-television-tv-haute-definition-incurvee-vecteur_118692-717.jpg" group-title="EU- FR PLAY EMISSION",RAKUTEN DOCUMENTAIRE
-http://it-zone.tech/proxy/1663324
 #EXTINF:-1 tvg-ID="" tvg-name="VEVO POP TV" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/music-logo%2C-guitar-logo%2C-music-3d-gold-logo-design-template-9071469bac7f2b3aebe8479257c04cdd_screen.jpg?ts=1671117576" group-title="EU- FR PLAY MUSIC",VEVO POP TV
 http://it-zone.tech/proxy/1661094
 #EXTINF:-1 tvg-ID="" tvg-name="VEVO HIP HOP R&B TV" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/music-logo%2C-guitar-logo%2C-music-3d-gold-logo-design-template-9071469bac7f2b3aebe8479257c04cdd_screen.jpg?ts=1671117576" group-title="EU- FR PLAY MUSIC",VEVO HIP HOP R&B TV
@@ -1046,15 +1018,8 @@ http://it-zone.tech/proxy/1661079
 http://it-zone.tech/proxy/1656986
 #EXTINF:-1 tvg-ID="" tvg-name="RAKUTEN THRILLER" tvg-logo="https://static.vecteezy.com/ti/vecteur-libre/p1/17377516-vecteur-de-banniere-de-cinema-en-ligne-realiste-theme-de-l-industrie-cinematographique-boite-de-pop-corn-elements-de-la-salle-de-cinema-rideau-de-theatre-illustration-vectoriel.jpg" group-title="EU- FR PLAY  CINE",RAKUTEN THRILLER
 http://it-zone.tech/proxy/1656985
-#EXTINF:-1 tvg-ID="" tvg-name="RAKUTEN ROMANCE" tvg-logo="https://static.vecteezy.com/ti/vecteur-libre/p1/17377516-vecteur-de-banniere-de-cinema-en-ligne-realiste-theme-de-l-industrie-cinematographique-boite-de-pop-corn-elements-de-la-salle-de-cinema-rideau-de-theatre-illustration-vectoriel.jpg" group-title="EU- FR PLAY  CINE",RAKUTEN ROMANCE
-http://it-zone.tech/proxy/1656984
 #EXTINF:-1 tvg-ID="" tvg-name="RAKUTEN FILM FRANÇAIS" tvg-logo="https://static.vecteezy.com/ti/vecteur-libre/p1/17377516-vecteur-de-banniere-de-cinema-en-ligne-realiste-theme-de-l-industrie-cinematographique-boite-de-pop-corn-elements-de-la-salle-de-cinema-rideau-de-theatre-illustration-vectoriel.jpg" group-title="EU- FR PLAY  CINE",RAKUTEN FILM FRANÇAIS
 http://it-zone.tech/proxy/1656983
-#EXTINF:-1 tvg-ID="" tvg-name="RAKUTEN FAMILLE" tvg-logo="https://static.vecteezy.com/ti/vecteur-libre/p1/17377516-vecteur-de-banniere-de-cinema-en-ligne-realiste-theme-de-l-industrie-cinematographique-boite-de-pop-corn-elements-de-la-salle-de-cinema-rideau-de-theatre-illustration-vectoriel.jpg" group-title="EU- FR PLAY  CINE",RAKUTEN FAMILLE
-http://it-zone.tech/proxy/1656982
-#EXTINF:-1 tvg-ID="" tvg-name="RAKUTEN COMEDY" tvg-logo="https://static.vecteezy.com/ti/vecteur-libre/p1/17377516-vecteur-de-banniere-de-cinema-en-ligne-realiste-theme-de-l-industrie-cinematographique-boite-de-pop-corn-elements-de-la-salle-de-cinema-rideau-de-theatre-illustration-vectoriel.jpg" group-title="EU- FR PLAY  CINE",RAKUTEN COMEDY
-http://it-zone.tech/proxy/1656981
-
 #EXTINF:-1 tvg-ID="" tvg-name="FR- L' EQUIPE 21 LIVE 2" tvg-logo="https://hoyeeh.com/upload/1Equipetv.png" group-title="EU- FR SPORTS",FR- L' EQUIPE 21 LIVE 2
 http://it-zone.tech/proxy/1661087
 #EXTINF:-1 tvg-ID="" tvg-name="FR- L' EQUIPE 21 LIVE 1" tvg-logo="https://hoyeeh.com/upload/1Equipetv.png" group-title="EU- FR SPORTS",FR- L' EQUIPE 21 LIVE 1
@@ -1105,18 +1070,6 @@ http://it-zone.tech/proxy/1036203
 http://it-zone.tech/proxy/1036202
 #EXTINF:-1 tvg-ID="primevideoligue4.fr" tvg-name="DAZN LIGUE 4" tvg-logo="https://media.culturepsg.com/image/news/dazn_ligue_1_logo_mc_donalds.jpg" group-title="EU- FR DAZN LIGUE",DAZN LIGUE 4
 http://it-zone.tech/proxy/1036201
-#EXTINF:-1 tvg-ID="primevideoligue5.fr" tvg-name="DAZN LIGUE 5" tvg-logo="https://media.culturepsg.com/image/news/dazn_ligue_1_logo_mc_donalds.jpg" group-title="EU- FR DAZN LIGUE",DAZN LIGUE 5
-http://it-zone.tech/proxy/1036200
-#EXTINF:-1 tvg-ID="primevideoligue6.fr" tvg-name="DAZN LIGUE 6" tvg-logo="https://media.culturepsg.com/image/news/dazn_ligue_1_logo_mc_donalds.jpg" group-title="EU- FR DAZN LIGUE",DAZN LIGUE 6
-http://it-zone.tech/proxy/1036199
-#EXTINF:-1 tvg-ID="primevideoligue7.fr" tvg-name="DAZN LIGUE 7" tvg-logo="https://media.culturepsg.com/image/news/dazn_ligue_1_logo_mc_donalds.jpg" group-title="EU- FR DAZN LIGUE",DAZN LIGUE 7
-http://it-zone.tech/proxy/1036198
-#EXTINF:-1 tvg-ID="primevideoligue8.fr" tvg-name="DAZN LIGUE 8" tvg-logo="https://media.culturepsg.com/image/news/dazn_ligue_1_logo_mc_donalds.jpg" group-title="EU- FR DAZN LIGUE",DAZN LIGUE 8
-http://it-zone.tech/proxy/1036197
-#EXTINF:-1 tvg-ID="" tvg-name="DAZN Multiplex" tvg-logo="https://media.culturepsg.com/image/news/dazn_ligue_1_logo_mc_donalds.jpg" group-title="EU- FR DAZN LIGUE",DAZN Multiplex
-http://it-zone.tech/proxy/1036196
-#EXTINF:-1 tvg-ID="" tvg-name="LIGUE1 Dimanche Soir Football" tvg-logo="https://media.culturepsg.com/image/news/dazn_ligue_1_logo_mc_donalds.jpg" group-title="EU- FR DAZN LIGUE",LIGUE1 Dimanche Soir Football
-http://it-zone.tech/proxy/1036205
 #EXTINF:-1 tvg-ID="" tvg-name="SKWEEK  24/7 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/SWEEK-logo_noir.png" group-title="EU- FR SKWEEK EVENT",SKWEEK  24/7 FHD
 http://it-zone.tech/proxy/1092332
 #EXTINF:-1 tvg-ID="canalplussport360.fr" tvg-name="FR- CANAL+ SPORT 360 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="EU- FR SPORTS",FR- CANAL+ SPORT 360 SD
@@ -1133,22 +1086,12 @@ http://it-zone.tech/proxy/963901
 http://it-zone.tech/proxy/963902
 #EXTINF:-1 tvg-ID="canalpluspremierleague.fr" tvg-name="FR- CANAL+ PREMIER LEAGUE SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/CANAL+-PREMIER-LEAGUE.png" group-title="EU- FR SPORTS",FR- CANAL+ PREMIER LEAGUE SD
 http://it-zone.tech/proxy/963906
-#EXTINF:-1 tvg-ID="canalpluspremierleague.fr" tvg-name="FR- CANAL+ PREMIER LEAGUE HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/CANAL+-PREMIER-LEAGUE.png" group-title="EU- FR SPORTS",FR- CANAL+ PREMIER LEAGUE HD
-http://it-zone.tech/proxy/963907
-#EXTINF:-1 tvg-ID="canalpluspremierleague.fr" tvg-name="FR- CANAL+ PREMIER LEAGUE FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/CANAL+-PREMIER-LEAGUE.png" group-title="EU- FR SPORTS",FR- CANAL+ PREMIER LEAGUE FHD
-http://it-zone.tech/proxy/963908
 #EXTINF:-1 tvg-ID="canalplussport.fr" tvg-name="FR- CANAL+ SPORT SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/canalplussporthd.png" group-title="EU- FR SPORTS",FR- CANAL+ SPORT SD
 http://it-zone.tech/proxy/963897
 #EXTINF:-1 tvg-ID="canalplussport.fr" tvg-name="FR- CANAL+ SPORT HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/canalplussporthd.png" group-title="EU- FR SPORTS",FR- CANAL+ SPORT HD
 http://it-zone.tech/proxy/963898
 #EXTINF:-1 tvg-ID="canalplussport.fr" tvg-name="FR- CANAL+ SPORT FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/canalplussporthd.png" group-title="EU- FR SPORTS",FR- CANAL+ SPORT FHD
 http://it-zone.tech/proxy/963899
-#EXTINF:-1 tvg-ID="" tvg-name="FR- CANAL + TOP 14 SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/CANAL+TOP14.png" group-title="EU- FR SPORTS",FR- CANAL + TOP 14 SD
-http://it-zone.tech/proxy/963909
-#EXTINF:-1 tvg-ID="" tvg-name="FR- CANAL + TOP 14 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/CANAL+TOP14.png" group-title="EU- FR SPORTS",FR- CANAL + TOP 14 HD
-http://it-zone.tech/proxy/963910
-#EXTINF:-1 tvg-ID="" tvg-name="FR- CANAL + TOP 14 FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/CANAL+TOP14.png" group-title="EU- FR SPORTS",FR- CANAL + TOP 14 FHD
-http://it-zone.tech/proxy/963911
 #EXTINF:-1 tvg-ID="" tvg-name="FR- L'EQUIPE 21 SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/lequipe21.png" group-title="EU- FR SPORTS",FR- L'EQUIPE 21 SD
 http://it-zone.tech/proxy/963927
 #EXTINF:-1 tvg-ID="" tvg-name="FR- L'EQUIPE 21 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/lequipe21.png" group-title="EU- FR SPORTS",FR- L'EQUIPE 21 HD
@@ -1173,8 +1116,6 @@ http://it-zone.tech/proxy/963941
 http://it-zone.tech/proxy/963940
 #EXTINF:-1 tvg-ID="automotolachaine.fr" tvg-name="FR- AUTO MOTO LA CHAINE SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/automotorsportsvt.png" group-title="EU- FR SPORTS",FR- AUTO MOTO LA CHAINE SD
 http://it-zone.tech/proxy/963939
-#EXTINF:-1 tvg-ID="eurosport1.fr" tvg-name="FR- EUROSPORT 1 SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/eurosport1.png" group-title="EU- FR SPORTS",FR- EUROSPORT 1 SD
-http://it-zone.tech/proxy/963921
 #EXTINF:-1 tvg-ID="eurosport1.fr" tvg-name="FR- EUROSPORT 1 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/eurosport1.png" group-title="EU- FR SPORTS",FR- EUROSPORT 1 HD
 http://it-zone.tech/proxy/963922
 #EXTINF:-1 tvg-ID="eurosport1.fr" tvg-name="FR- EUROSPORT 1 FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/eurosport1.png" group-title="EU- FR SPORTS",FR- EUROSPORT 1 FHD
@@ -1191,10 +1132,6 @@ http://it-zone.tech/proxy/963933
 http://it-zone.tech/proxy/963934
 #EXTINF:-1 tvg-ID="golfplus.fr" tvg-name="FR- GOLF+ FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/golfplus.png" group-title="EU- FR SPORTS",FR- GOLF+ FHD
 http://it-zone.tech/proxy/963935
-#EXTINF:-1 tvg-ID="golfchannel.fr" tvg-name="FR- GOLF CHANNEL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/golfchannel.jpg" group-title="EU- FR SPORTS",FR- GOLF CHANNEL SD
-http://it-zone.tech/proxy/963930
-#EXTINF:-1 tvg-ID="golfchannel.fr" tvg-name="FR- GOLF CHANNEL HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/golfchannel.jpg" group-title="EU- FR SPORTS",FR- GOLF CHANNEL HD
-http://it-zone.tech/proxy/963931
 #EXTINF:-1 tvg-ID="golfchannel.fr" tvg-name="FR- GOLF CHANNEL FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/golfchannel.jpg" group-title="EU- FR SPORTS",FR- GOLF CHANNEL FHD
 http://it-zone.tech/proxy/963932
 #EXTINF:-1 tvg-ID="nauticalchannel.fr" tvg-name="FR- NAUTICAL CHANNEL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/NAUTICAL-CHANNEL-HD.png" group-title="EU- FR SPORTS",FR- NAUTICAL CHANNEL SD
@@ -1225,26 +1162,6 @@ http://it-zone.tech/proxy/964923
 http://it-zone.tech/proxy/964924
 #EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 360 8" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/eurosport360hd.png" group-title="EU- FR EUROSPORT 360",EUROSPORT 360 8
 http://it-zone.tech/proxy/964925
-#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 360 9" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/eurosport360hd.png" group-title="EU- FR EUROSPORT 360",EUROSPORT 360 9
-http://it-zone.tech/proxy/964926
-#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 360 10" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/eurosport360hd.png" group-title="EU- FR EUROSPORT 360",EUROSPORT 360 10
-http://it-zone.tech/proxy/964927
-#EXTINF:-1 tvg-ID="" tvg-name="SKWEEK EVENT 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/SWEEK-logo_noir.png" group-title="EU- FR SKWEEK EVENT",SKWEEK EVENT 1 FHD
-http://it-zone.tech/proxy/968892
-#EXTINF:-1 tvg-ID="" tvg-name="SKWEEK EVENT 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/SWEEK-logo_noir.png" group-title="EU- FR SKWEEK EVENT",SKWEEK EVENT 2 FHD
-http://it-zone.tech/proxy/968893
-#EXTINF:-1 tvg-ID="" tvg-name="SKWEEK EVENT 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/SWEEK-logo_noir.png" group-title="EU- FR SKWEEK EVENT",SKWEEK EVENT 3 FHD
-http://it-zone.tech/proxy/968894
-#EXTINF:-1 tvg-ID="" tvg-name="SKWEEK EVENT 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/SWEEK-logo_noir.png" group-title="EU- FR SKWEEK EVENT",SKWEEK EVENT 4 FHD
-http://it-zone.tech/proxy/968895
-#EXTINF:-1 tvg-ID="" tvg-name="SKWEEK EVENT 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/SWEEK-logo_noir.png" group-title="EU- FR SKWEEK EVENT",SKWEEK EVENT 5 FHD
-http://it-zone.tech/proxy/968896
-#EXTINF:-1 tvg-ID="" tvg-name="SKWEEK EVENT 6 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/SWEEK-logo_noir.png" group-title="EU- FR SKWEEK EVENT",SKWEEK EVENT 6 FHD
-http://it-zone.tech/proxy/968897
-#EXTINF:-1 tvg-ID="" tvg-name="SKWEEK EVENT 7 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/SWEEK-logo_noir.png" group-title="EU- FR SKWEEK EVENT",SKWEEK EVENT 7 FHD
-http://it-zone.tech/proxy/968898
-#EXTINF:-1 tvg-ID="" tvg-name="SKWEEK EVENT 8 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/SWEEK-logo_noir.png" group-title="EU- FR SKWEEK EVENT",SKWEEK EVENT 8 FHD
-http://it-zone.tech/proxy/968899
 #EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="FR- BEIN  SPORTS 1 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/beinsportshd.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS 1 HD
 http://it-zone.tech/proxy/65653
 #EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="FR- BEIN  SPORTS 2 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/beinsportshd.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS 2 HD
@@ -1345,38 +1262,14 @@ http://it-zone.tech/proxy/936432
 http://it-zone.tech/proxy/936436
 #EXTINF:-1 tvg-ID="beinsportsmax10.fr" tvg-name="FR- BEIN  SPORTS MAX 10 HEVC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/beinsportshd.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 10 HEVC
 http://it-zone.tech/proxy/936437
+#EXTINF:-1 tvg-ID="" tvg-name="FR- RMC TALK SPORT" tvg-logo="http://102.177.177.154/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="EU- FR RMC SPORTS",FR- RMC TALK SPORT
+http://it-zone.tech/proxy/1742957
 #EXTINF:-1 tvg-ID="rmcsport1.fr" tvg-name="FR- RMC SPORT 1 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 1 HD
 http://it-zone.tech/proxy/65639
 #EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="FR- RMC SPORT 2 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 2 HD
 http://it-zone.tech/proxy/65638
 #EXTINF:-1 tvg-ID="rmcsport3.fr" tvg-name="FR- RMC SPORT 3 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 3 HD
 http://it-zone.tech/proxy/65637
-#EXTINF:-1 tvg-ID="rmcsport4.fr" tvg-name="FR- RMC SPORT  4 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT  4 HD
-http://it-zone.tech/proxy/65636
-#EXTINF:-1 tvg-ID="rmcsportlive5.fr" tvg-name="FR- RMC SPORT 5 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 5 HD
-http://it-zone.tech/proxy/65635
-#EXTINF:-1 tvg-ID="rmcsportlive6.fr" tvg-name="FR- RMC SPORT 6 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 6 HD
-http://it-zone.tech/proxy/65634
-#EXTINF:-1 tvg-ID="rmcsportlive7.fr" tvg-name="FR- RMC SPORT 7 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 7 HD
-http://it-zone.tech/proxy/65633
-#EXTINF:-1 tvg-ID="rmcsportlive8.fr" tvg-name="FR- RMC SPORT 8 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 8 HD
-http://it-zone.tech/proxy/65632
-#EXTINF:-1 tvg-ID="rmcsportlive9.fr" tvg-name="FR- RMC SPORT 9 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 9 HD
-http://it-zone.tech/proxy/65631
-#EXTINF:-1 tvg-ID="rmcsportlive10.fr" tvg-name="FR- RMC SPORT 10 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 10 HD
-http://it-zone.tech/proxy/65630
-#EXTINF:-1 tvg-ID="" tvg-name="FR- RMC SPORT 11 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 11 HD
-http://it-zone.tech/proxy/962578
-#EXTINF:-1 tvg-ID="rmcsportlive12.fr" tvg-name="FR- RMC SPORT 12 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 12 HD
-http://it-zone.tech/proxy/962579
-#EXTINF:-1 tvg-ID="rmcsportlive13.fr" tvg-name="FR- RMC SPORT 13 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 13 HD
-http://it-zone.tech/proxy/962580
-#EXTINF:-1 tvg-ID="rmcsportlive14.fr" tvg-name="FR- RMC SPORT  14 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT  14 HD
-http://it-zone.tech/proxy/962581
-#EXTINF:-1 tvg-ID="rmcsportlive15.fr" tvg-name="FR- RMC SPORT  Live 15 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT  Live 15 HD
-http://it-zone.tech/proxy/962582
-#EXTINF:-1 tvg-ID="rmcsportlive16.fr" tvg-name="FR- RMC SPORT 16 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 16 HD
-http://it-zone.tech/proxy/962583
 #EXTINF:-1 tvg-ID="" tvg-name="FR- RMC SPORT 17 HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 17 HD
 http://it-zone.tech/proxy/962584
 #EXTINF:-1 tvg-ID="rmcsport1.fr" tvg-name="FR- RMC SPORT 1 FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 1 FHD
@@ -1389,30 +1282,6 @@ http://it-zone.tech/proxy/52865
 http://it-zone.tech/proxy/52866
 #EXTINF:-1 tvg-ID="rmcsportlive5.fr" tvg-name="FR- RMC SPORT 5 FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 5 FHD
 http://it-zone.tech/proxy/936342
-#EXTINF:-1 tvg-ID="rmcsportlive6.fr" tvg-name="FR- RMC SPORT 6 FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 6 FHD
-http://it-zone.tech/proxy/936343
-#EXTINF:-1 tvg-ID="rmcsportlive7.fr" tvg-name="FR- RMC SPORT 7 FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 7 FHD
-http://it-zone.tech/proxy/936344
-#EXTINF:-1 tvg-ID="rmcsportlive8.fr" tvg-name="FR- RMC SPORT 8 FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 8 FHD
-http://it-zone.tech/proxy/936345
-#EXTINF:-1 tvg-ID="rmcsportlive9.fr" tvg-name="FR- RMC SPORT 9 FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 9 FHD
-http://it-zone.tech/proxy/936346
-#EXTINF:-1 tvg-ID="rmcsportlive10.fr" tvg-name="FR- RMC SPORT 10 FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 10 FHD
-http://it-zone.tech/proxy/936347
-#EXTINF:-1 tvg-ID="rmcsportlive11.fr" tvg-name="FR- RMC SPORT 11 FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 11 FHD
-http://it-zone.tech/proxy/962588
-#EXTINF:-1 tvg-ID="rmcsportlive12.fr" tvg-name="FR- RMC SPORT 12 FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 12 FHD
-http://it-zone.tech/proxy/962589
-#EXTINF:-1 tvg-ID="rmcsportlive13.fr" tvg-name="FR- RMC SPORT 13 FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 13 FHD
-http://it-zone.tech/proxy/962590
-#EXTINF:-1 tvg-ID="rmcsportlive14.fr" tvg-name="FR- RMC SPORT  14 FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT  14 FHD
-http://it-zone.tech/proxy/962591
-#EXTINF:-1 tvg-ID="rmcsportlive15.fr" tvg-name="FR- RMC SPORT 15 FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 15 FHD
-http://it-zone.tech/proxy/962592
-#EXTINF:-1 tvg-ID="rmcsportlive16.fr" tvg-name="FR- RMC SPORT 16 FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 16 FHD
-http://it-zone.tech/proxy/962593
-#EXTINF:-1 tvg-ID="01tv.fr" tvg-name="FR- RMC SPORT 17 FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 17 FHD
-http://it-zone.tech/proxy/962594
 #EXTINF:-1 tvg-ID="" tvg-name="FR- RMC SPORT 1 SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 1 SD
 http://it-zone.tech/proxy/121406
 #EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="FR- RMC SPORT 2 SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 2 SD
@@ -1423,30 +1292,6 @@ http://it-zone.tech/proxy/121408
 http://it-zone.tech/proxy/121409
 #EXTINF:-1 tvg-ID="" tvg-name="FR- RMC SPORT 5 SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 5 SD
 http://it-zone.tech/proxy/936354
-#EXTINF:-1 tvg-ID="" tvg-name="FR- RMC SPORT 6 SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 6 SD
-http://it-zone.tech/proxy/936355
-#EXTINF:-1 tvg-ID="" tvg-name="FR- RMC SPORT 7 SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 7 SD
-http://it-zone.tech/proxy/936356
-#EXTINF:-1 tvg-ID="" tvg-name="FR- RMC SPORT 8 SD" tvg-logo="Het http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 8 SD
-http://it-zone.tech/proxy/936357
-#EXTINF:-1 tvg-ID="" tvg-name="FR- RMC SPORT 9 SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 9 SD
-http://it-zone.tech/proxy/936358
-#EXTINF:-1 tvg-ID="" tvg-name="FR- RMC SPORT 10 SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 10 SD
-http://it-zone.tech/proxy/936359
-#EXTINF:-1 tvg-ID="" tvg-name="FR- RMC SPORT 11 SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 11 SD
-http://it-zone.tech/proxy/962598
-#EXTINF:-1 tvg-ID="" tvg-name="FR- RMC SPORT 12 SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 12 SD
-http://it-zone.tech/proxy/962599
-#EXTINF:-1 tvg-ID="" tvg-name="FR- RMC SPORT 13 SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 13 SD
-http://it-zone.tech/proxy/962600
-#EXTINF:-1 tvg-ID="" tvg-name="FR- RMC SPORT  14 SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT  14 SD
-http://it-zone.tech/proxy/962601
-#EXTINF:-1 tvg-ID="" tvg-name="FR- RMC SPORT 15 SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 15 SD
-http://it-zone.tech/proxy/962602
-#EXTINF:-1 tvg-ID="" tvg-name="FR- RMC SPORT 16 SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 16 SD
-http://it-zone.tech/proxy/962603
-#EXTINF:-1 tvg-ID="" tvg-name="FR- RMC SPORT 17 SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 17 SD
-http://it-zone.tech/proxy/962604
 #EXTINF:-1 tvg-ID="rmcsport1.fr" tvg-name="FR- RMC SPORT 1 4K" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 1 4K
 http://it-zone.tech/proxy/962618
 #EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="FR- RMC SPORT 2 4K" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 2 4K
@@ -1457,28 +1302,6 @@ http://it-zone.tech/proxy/962620
 http://it-zone.tech/proxy/962621
 #EXTINF:-1 tvg-ID="rmcsportlive5.fr" tvg-name="FR- RMC SPORT 5 4K" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 5 4K
 http://it-zone.tech/proxy/962622
-#EXTINF:-1 tvg-ID="rmcsportlive6.fr" tvg-name="FR- RMC SPORT 6 4K" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 6 4K
-http://it-zone.tech/proxy/962623
-#EXTINF:-1 tvg-ID="rmcsportlive7.fr" tvg-name="FR- RMC SPORT 7 4K" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 7 4K
-http://it-zone.tech/proxy/962624
-#EXTINF:-1 tvg-ID="rmcsportlive8.fr" tvg-name="FR- RMC SPORT 8 4K" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 8 4K
-http://it-zone.tech/proxy/962625
-#EXTINF:-1 tvg-ID="rmcsportlive9.fr" tvg-name="FR- RMC SPORT 9 4K" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 9 4K
-http://it-zone.tech/proxy/962626
-#EXTINF:-1 tvg-ID="rmcsportlive11.fr" tvg-name="FR- RMC SPORT 11 4K" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 11 4K
-http://it-zone.tech/proxy/962627
-#EXTINF:-1 tvg-ID="rmcsportlive12.fr" tvg-name="FR- RMC SPORT 12 4K" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 12 4K
-http://it-zone.tech/proxy/962628
-#EXTINF:-1 tvg-ID="rmcsportlive13.fr" tvg-name="FR- RMC SPORT 13 4K" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 13 4K
-http://it-zone.tech/proxy/962629
-#EXTINF:-1 tvg-ID="rmcsportlive14.fr" tvg-name="FR- RMC SPORT  14 4K" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT  14 4K
-http://it-zone.tech/proxy/962630
-#EXTINF:-1 tvg-ID="rmcsportlive15.fr" tvg-name="FR- RMC SPORT 15 4K" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 15 4K
-http://it-zone.tech/proxy/962631
-#EXTINF:-1 tvg-ID="rmcsportlive16.fr" tvg-name="FR- RMC SPORT 16 4K" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 16 4K
-http://it-zone.tech/proxy/962632
-#EXTINF:-1 tvg-ID="01tv.fr" tvg-name="FR- RMC SPORT 17 4K" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/rmcsportuhd.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 17 4K
-http://it-zone.tech/proxy/962633
 #EXTINF:-1 tvg-ID="" tvg-name="MULTISPORTS 1" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/multisports.png" group-title="EU- FR MULTISPORT",MULTISPORTS 1
 http://it-zone.tech/proxy/637724
 #EXTINF:-1 tvg-ID="" tvg-name="MULTISPORTS 2" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/multisports.png" group-title="EU- FR MULTISPORT",MULTISPORTS 2
@@ -1527,5 +1350,7 @@ http://it-zone.tech/proxy/1163390
 http://it-zone.tech/proxy/1163391
 #EXTINF:-1 tvg-ID="" tvg-name="C+ RÉU- KOLO TV" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/KOLO-TV.jpg" group-title="AF- C+ RÉUNION",C+ RÉU- KOLO TV
 http://it-zone.tech/proxy/1163384
-#EXTINF:-1 tvg-ID="" tvg-name="RMC MYSTERE" tvg-logo="https://img.freepik.com/vecteurs-premium/meilleur-embleme-emission-television-tv-haute-definition-incurvee-vecteur_118692-717.jpg" group-title="EU- FR EMISSION PLAY",RMC MYSTERE
-http://it-zone.tech/proxy/1743160
+#EXTINF:-1 tvg-ID="" tvg-name="C+ RÉU- RTA" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/rta.png" group-title="AF- C+ RÉUNION",C+ RÉU- RTA
+http://it-zone.tech/proxy/1163397
+#EXTINF:-1 tvg-ID="" tvg-name="C+ RÉU- RECORD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/recordtv.png" group-title="AF- C+ RÉUNION",C+ RÉU- RECORD
+http://it-zone.tech/proxy/1163394
