@@ -1,3 +1,4 @@
+#EXTM3U x-tvg-url="https://xmltvfr.fr/xmltv/xmltv.xml"
 #EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="FR 4K- CANAL+ UHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/canalplus4kultrahd.png" group-title="EU- FR 4K UHD",FR 4K- CANAL+ UHD
 http://it-zone.tech/proxy/964914
 #EXTINF:-1 tvg-ID="tf1.fr" tvg-name="FR 4K- TF1 UHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tf1hd.png" group-title="EU- FR 4K UHD",FR 4K- TF1 UHD
@@ -146,7 +147,7 @@ http://it-zone.tech/proxy/964818
 http://it-zone.tech/proxy/964840
 #EXTINF:-1 tvg-ID="gulli.fr" tvg-name="FR 4K- GULLI" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/gulli.png" group-title="EU- FR 4K UHD",FR 4K- GULLI
 http://it-zone.tech/proxy/964894
-#EXTINF:-1 tvg-ID="" tvg-name="FR 4K- L EQUIPE" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/lequipe.png" group-title="EU- FR 4K UHD",FR 4K- L EQUIPE
+#EXTINF:-1 tvg-ID="01tv.fr" tvg-name="FR 4K- L EQUIPE" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/lequipe.png" group-title="EU- FR 4K UHD",FR 4K- L EQUIPE
 http://it-zone.tech/proxy/964892
 #EXTINF:-1 tvg-ID="mezzo.fr" tvg-name="FR 4K- MEZZO" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/mezzo.png" group-title="EU- FR 4K UHD",FR 4K- MEZZO
 http://it-zone.tech/proxy/964831
