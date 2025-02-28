@@ -97,7 +97,7 @@ http://it-zone.tech/proxy/964879
 http://it-zone.tech/proxy/964906
 #EXTINF:-1 tvg-ID="i24NEWSFrench.il" tvg-name="FR 4K- I24 NEWS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/i24news.png" group-title="EU- FR 4K UHD",FR 4K- I24 NEWS
 http://it-zone.tech/proxy/964878
-#EXTINF:-1 tvg-ID="kto.fr" tvg-name="FR 4K- KTO" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/kto.png" group-title="EU- FR 4K UHD",FR 4K- KTO
+#EXTINF:-1 tvg-ID="re#160278" tvg-name="FR 4K- KTO" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/kto.png" group-title="EU- FR 4K UHD",FR 4K- KTO
 http://it-zone.tech/proxy/964835
 #EXTINF:-1 tvg-ID="lci.fr" tvg-name="FR 4K- LCI" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/lcihd.png" group-title="EU- FR 4K UHD",FR 4K- LCI
 http://it-zone.tech/proxy/964888
@@ -357,11 +357,11 @@ http://it-zone.tech/proxy/963603
 http://it-zone.tech/proxy/963604
 #EXTINF:-1 tvg-ID="serieclub.fr" tvg-name="FR- SERIE CLUB FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/serieclubhd.png" group-title="EU- FR GENERAL",FR- SERIE CLUB FHD
 http://it-zone.tech/proxy/963605
-#EXTINF:-1 tvg-ID="syfy.fr" tvg-name="FR- SYFY SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/syfyhd.png" group-title="EU- FR GENERAL",FR- SYFY SD
+#EXTINF:-1 tvg-ID="re#160078" tvg-name="FR- SYFY SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/syfyhd.png" group-title="EU- FR GENERAL",FR- SYFY SD
 http://it-zone.tech/proxy/963612
-#EXTINF:-1 tvg-ID="syfy.fr" tvg-name="FR- SYFY HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/syfyhd.png" group-title="EU- FR GENERAL",FR- SYFY HD
+#EXTINF:-1 tvg-ID="re#160078" tvg-name="FR- SYFY HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/syfyhd.png" group-title="EU- FR GENERAL",FR- SYFY HD
 http://it-zone.tech/proxy/963613
-#EXTINF:-1 tvg-ID="syfy.fr" tvg-name="FR- SYFY FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/syfyhd.png" group-title="EU- FR GENERAL",FR- SYFY FHD
+#EXTINF:-1 tvg-ID="re#160078" tvg-name="FR- SYFY FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/syfyhd.png" group-title="EU- FR GENERAL",FR- SYFY FHD
 http://it-zone.tech/proxy/963614
 #EXTINF:-1 tvg-ID="bfmbusiness.fr" tvg-name="FR- BFM BUSINESS SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bfmbusiness.png" group-title="EU- FR INFORMATION",FR- BFM BUSINESS SD
 http://it-zone.tech/proxy/964238
@@ -405,11 +405,11 @@ http://it-zone.tech/proxy/964253
 http://it-zone.tech/proxy/964254
 #EXTINF:-1 tvg-ID="i24NEWSFrench.il" tvg-name="FR- I24 NEWS FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/i24news.png" group-title="EU- FR INFORMATION",FR- I24 NEWS FHD
 http://it-zone.tech/proxy/964255
-#EXTINF:-1 tvg-ID="kto.fr" tvg-name="FR- KTO SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/kto.png" group-title="EU- FR INFORMATION",FR- KTO SD
+#EXTINF:-1 tvg-ID="re#160278" tvg-name="FR- KTO SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/kto.png" group-title="EU- FR INFORMATION",FR- KTO SD
 http://it-zone.tech/proxy/964229
-#EXTINF:-1 tvg-ID="kto.fr" tvg-name="FR- KTO HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/kto.png" group-title="EU- FR INFORMATION",FR- KTO HD
+#EXTINF:-1 tvg-ID="re#160278" tvg-name="FR- KTO HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/kto.png" group-title="EU- FR INFORMATION",FR- KTO HD
 http://it-zone.tech/proxy/964230
-#EXTINF:-1 tvg-ID="kto.fr" tvg-name="FR- KTO FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/kto.png" group-title="EU- FR INFORMATION",FR- KTO FHD
+#EXTINF:-1 tvg-ID="re#160278" tvg-name="FR- KTO FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/kto.png" group-title="EU- FR INFORMATION",FR- KTO FHD
 http://it-zone.tech/proxy/964231
 #EXTINF:-1 tvg-ID="lachainemeteo.fr" tvg-name="FR- LA CHAINE METEO SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/lachainemeteo.png" group-title="EU- FR INFORMATION",FR- LA CHAINE METEO SD
 http://it-zone.tech/proxy/964232
@@ -693,11 +693,11 @@ http://it-zone.tech/proxy/964184
 http://it-zone.tech/proxy/964185
 #EXTINF:-1 tvg-ID="bet.fr" tvg-name="FR- BET FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/BET-HD.jpg" group-title="EU- FR MUSIC",FR- BET FHD
 http://it-zone.tech/proxy/964186
-#EXTINF:-1 tvg-ID="" tvg-name="FR- C STAR HITS SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/cstarhitsfrance.png" group-title="EU- FR MUSIC",FR- C STAR HITS SD
+#EXTINF:-1 tvg-ID="pf#200074" tvg-name="FR- C STAR HITS SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/cstarhitsfrance.png" group-title="EU- FR MUSIC",FR- C STAR HITS SD
 http://it-zone.tech/proxy/964211
-#EXTINF:-1 tvg-ID="" tvg-name="FR- C STAR HITS HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/cstarhitsfrance.png" group-title="EU- FR MUSIC",FR- C STAR HITS HD
+#EXTINF:-1 tvg-ID="pf#200074" tvg-name="FR- C STAR HITS HD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/cstarhitsfrance.png" group-title="EU- FR MUSIC",FR- C STAR HITS HD
 http://it-zone.tech/proxy/964212
-#EXTINF:-1 tvg-ID="" tvg-name="FR- C STAR HITS FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/cstarhitsfrance.png" group-title="EU- FR MUSIC",FR- C STAR HITS FHD
+#EXTINF:-1 tvg-ID="pf#200074" tvg-name="FR- C STAR HITS FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/cstarhitsfrance.png" group-title="EU- FR MUSIC",FR- C STAR HITS FHD
 http://it-zone.tech/proxy/964213
 #EXTINF:-1 tvg-ID="m6music.fr" tvg-name="FR- M6 MUSIC SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/m6musichd.png" group-title="EU- FR MUSIC",FR- M6 MUSIC SD
 http://it-zone.tech/proxy/964137
