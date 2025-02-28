@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://xmltvfr.fr/xmltv/xmltv.xml"
+#EXTM3U x-tvg-url="http://it-zone.tech/epg/epg.xml"
 #EXTINF:-1 tvg-shift="3" tvg-ID="canalplus.fr" tvg-name="FR 4K- CANAL+ UHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/canalplus4kultrahd.png" group-title="EU- FR 4K UHD",FR 4K- CANAL+ UHD
 http://it-zone.tech/proxy/964914
 #EXTINF:-1 tvg-shift="3" tvg-ID="tf1.fr" tvg-name="FR 4K- TF1 UHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tf1hd.png" group-title="EU- FR 4K UHD",FR 4K- TF1 UHD
