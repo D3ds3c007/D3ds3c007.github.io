@@ -1,4 +1,3 @@
-#EXTM3U x-tvg-url="https://it-zone.tech/epg/epg.xml"
 #EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="FR 4K- CANAL+ UHD" tvg-logo="https://i.imgur.com/5HcyMnW.png" group-title="EU- FR 4K UHD",FR 4K- CANAL+ UHD
 https://it-zone.tech/proxy/964914
 #EXTINF:-1 tvg-ID="tf1.fr" tvg-name="FR 4K- TF1 UHD" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="EU- FR 4K UHD",FR 4K- TF1 UHD
