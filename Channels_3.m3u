@@ -1,729 +1,729 @@
-#EXTM3U x-tvg-url="https://it-zone.tech/epg/epg.xml"
+#EXTM3U x-tvg-url="http://tv.it-zone.tech.tech/epg/epg.xml"
 #EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="FR 4K- CANAL+ UHD" tvg-logo="https://i.imgur.com/5HcyMnW.png" group-title="EU- FR 4K UHD",FR 4K- CANAL+ UHD
-https://it-zone.tech/proxy/964914
+http://tv.it-zone.tech.tech/proxy/964914
 #EXTINF:-1 tvg-ID="tf1.fr" tvg-name="FR 4K- TF1 UHD" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="EU- FR 4K UHD",FR 4K- TF1 UHD
-https://it-zone.tech/proxy/964913
+http://tv.it-zone.tech.tech/proxy/964913
 #EXTINF:-1 tvg-ID="tf1.fr" tvg-name="FR 4K- TF1" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="EU- FR 4K UHD",FR 4K- TF1
-https://it-zone.tech/proxy/964912
+http://tv.it-zone.tech.tech/proxy/964912
 #EXTINF:-1 tvg-ID="tf1seriesfilms.fr" tvg-name="FR 4K- TF1 SERIES FILMS" tvg-logo="https://i.imgur.com/4CJIDKQ.png" group-title="EU- FR 4K UHD",FR 4K- TF1 SERIES FILMS
-https://it-zone.tech/proxy/964893
+http://tv.it-zone.tech.tech/proxy/964893
 #EXTINF:-1 tvg-ID="france2.fr" tvg-name="FR 4K- FRANCE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png" group-title="EU- FR 4K UHD",FR 4K- FRANCE 2
-https://it-zone.tech/proxy/964910
+http://tv.it-zone.tech.tech/proxy/964910
 #EXTINF:-1 tvg-ID="france3.fr" tvg-name="FR 4K- FRANCE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png" group-title="EU- FR 4K UHD",FR 4K- FRANCE 3
-https://it-zone.tech/proxy/964909
+http://tv.it-zone.tech.tech/proxy/964909
 #EXTINF:-1 tvg-ID="france4.fr" tvg-name="FR 4K- FRANCE 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png" group-title="EU- FR 4K UHD",FR 4K- FRANCE 4
-https://it-zone.tech/proxy/964908
+http://tv.it-zone.tech.tech/proxy/964908
 #EXTINF:-1 tvg-ID="france5.fr" tvg-name="FR 4K- FRANCE 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png" group-title="EU- FR 4K UHD",FR 4K- FRANCE 5
-https://it-zone.tech/proxy/964907
+http://tv.it-zone.tech.tech/proxy/964907
 #EXTINF:-1 tvg-ID="m6.fr" tvg-name="FR 4K- M6" tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="EU- FR 4K UHD",FR 4K- M6
-https://it-zone.tech/proxy/964905
+http://tv.it-zone.tech.tech/proxy/964905
 #EXTINF:-1 tvg-ID="action.fr" tvg-name="FR 4K- ACTION" tvg-logo="https://i.imgur.com/Zv9VsVq.png" group-title="EU- FR 4K UHD",FR 4K- ACTION
-https://it-zone.tech/proxy/964867
+http://tv.it-zone.tech.tech/proxy/964867
 #EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="FR 4K- CANAL+" tvg-logo="https://i.imgur.com/5HcyMnW.png" group-title="EU- FR 4K UHD",FR 4K- CANAL+
-https://it-zone.tech/proxy/964829
+http://tv.it-zone.tech.tech/proxy/964829
 #EXTINF:-1 tvg-ID="canalpluscinema.fr" tvg-name="FR 4K- CANAL+ CINEMA" group-title="EU- FR 4K UHD",FR 4K- CANAL+ CINEMA
-https://it-zone.tech/proxy/964827
+http://tv.it-zone.tech.tech/proxy/964827
 #EXTINF:-1 tvg-ID="canalplusgrandecran.fr" tvg-name="FR 4K- CANAL+ GRAND ECRAN" tvg-logo="https://i0.wp.com/www.planetecsat.com/wp-content/uploads/2022/01/CANALP_GRAND_ECRAN_1lignes_RVB_2021_06_07-07-01-22.png?w=509&ssl=1" group-title="EU- FR 4K UHD",FR 4K- CANAL+ GRAND ECRAN
-https://it-zone.tech/proxy/964826
+http://tv.it-zone.tech.tech/proxy/964826
 #EXTINF:-1 tvg-ID="canalpluskids.fr" tvg-name="FR 4K- CANAL+ KIDS" tvg-logo="https://i.imgur.com/xknv5py.png" group-title="EU- FR 4K UHD",FR 4K- CANAL+ KIDS
-https://it-zone.tech/proxy/964824
+http://tv.it-zone.tech.tech/proxy/964824
 #EXTINF:-1 tvg-ID="canalplusseries.fr" tvg-name="FR 4K- CANAL+ SERIES" tvg-logo="https://i.imgur.com/JxXXTGk.png" group-title="EU- FR 4K UHD",FR 4K- CANAL+ SERIES
-https://it-zone.tech/proxy/964828
+http://tv.it-zone.tech.tech/proxy/964828
 #EXTINF:-1 tvg-ID="canalplussport.fr" tvg-name="FR 4K- CANAL+ SPORT" tvg-logo="https://i.imgur.com/EOXnU15.png" group-title="EU- FR 4K UHD",FR 4K- CANAL+ SPORT
-https://it-zone.tech/proxy/964823
+http://tv.it-zone.tech.tech/proxy/964823
 #EXTINF:-1 tvg-ID="cineplusclassic.fr" tvg-name="FR 4K- CINE+ CLASSIC" tvg-logo="https://i.imgur.com/y2zeLS3.jpeg" group-title="EU- FR 4K UHD",FR 4K- CINE+ CLASSIC
-https://it-zone.tech/proxy/964853
+http://tv.it-zone.tech.tech/proxy/964853
 #EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="FR 4K- CINE+ CLUB" tvg-logo="https://i.imgur.com/OJfAUMj.png" group-title="EU- FR 4K UHD",FR 4K- CINE+ CLUB
-https://it-zone.tech/proxy/964854
+http://tv.it-zone.tech.tech/proxy/964854
 #EXTINF:-1 tvg-ID="cineplusemotion.fr" tvg-name="FR 4K- CINE+ EMOTION" tvg-logo="https://i.imgur.com/upYjPvc.jpeg" group-title="EU- FR 4K UHD",FR 4K- CINE+ EMOTION
-https://it-zone.tech/proxy/964856
+http://tv.it-zone.tech.tech/proxy/964856
 #EXTINF:-1 tvg-ID="cineplusamiz.fr" tvg-name="FR 4K- CINE+ FAMIZ" group-title="EU- FR 4K UHD",FR 4K- CINE+ FAMIZ
-https://it-zone.tech/proxy/964855
+http://tv.it-zone.tech.tech/proxy/964855
 #EXTINF:-1 tvg-ID="cineplusfrisson.fr" tvg-name="FR 4K- CINE+ FRISSON" tvg-logo="https://i.imgur.com/MwFtbnR.jpeg" group-title="EU- FR 4K UHD",FR 4K- CINE+ FRISSON
-https://it-zone.tech/proxy/964857
+http://tv.it-zone.tech.tech/proxy/964857
 #EXTINF:-1 tvg-ID="cinepluspremier.fr" tvg-name="FR 4K- CINE+ PREMIER" tvg-logo="https://i.imgur.com/b20LLN6.png" group-title="EU- FR 4K UHD",FR 4K- CINE+ PREMIER
-https://it-zone.tech/proxy/964858
+http://tv.it-zone.tech.tech/proxy/964858
 #EXTINF:-1 tvg-ID="comedieplus.fr" tvg-name="FR 4K- COMEDIE+" tvg-logo="https://i.imgur.com/ArgX0Af.png" group-title="EU- FR 4K UHD",FR 4K- COMEDIE+
-https://it-zone.tech/proxy/964862
+http://tv.it-zone.tech.tech/proxy/964862
 #EXTINF:-1 tvg-ID="ocsgeants.fr" tvg-name="FR 4K- OCS GEANT" tvg-logo="https://i.imgur.com/sd0HZ4L.png" group-title="EU- FR 4K UHD",FR 4K- OCS GEANT
-https://it-zone.tech/proxy/964859
+http://tv.it-zone.tech.tech/proxy/964859
 #EXTINF:-1 tvg-ID="ushuaiatv.fr" tvg-name="FR 4K- USHUAIA TV" tvg-logo="https://i.imgur.com/WjjlqbP.png" group-title="EU- FR 4K UHD",FR 4K- USHUAIA TV
-https://it-zone.tech/proxy/964832
+http://tv.it-zone.tech.tech/proxy/964832
 #EXTINF:-1 tvg-ID="chassepeche.fr" tvg-name="FR 4K- CHASSE ET PECHE" tvg-logo="https://i.imgur.com/ZIS2ZQ1.png" group-title="EU- FR 4K UHD",FR 4K- CHASSE ET PECHE
-https://it-zone.tech/proxy/964834
+http://tv.it-zone.tech.tech/proxy/964834
 #EXTINF:-1 tvg-ID="RTL9.lu" tvg-name="FR 4K- RTL9" tvg-logo="https://i.imgur.com/nFqjVNW.png" group-title="EU- FR 4K UHD",FR 4K- RTL9
-https://it-zone.tech/proxy/964871
+http://tv.it-zone.tech.tech/proxy/964871
 #EXTINF:-1 tvg-ID="w9.fr" tvg-name="FR 4K- W9" tvg-logo="https://i.imgur.com/reYeMuE.png" group-title="EU- FR 4K UHD",FR 4K- W9
-https://it-zone.tech/proxy/964902
+http://tv.it-zone.tech.tech/proxy/964902
 #EXTINF:-1 tvg-ID="teva.fr" tvg-name="FR 4K- TEVA" tvg-logo="https://i.imgur.com/kDW0hN5.png" group-title="EU- FR 4K UHD",FR 4K- TEVA
-https://it-zone.tech/proxy/964869
+http://tv.it-zone.tech.tech/proxy/964869
 #EXTINF:-1 tvg-ID="tfx.fr" tvg-name="FR 4K- TFX" tvg-logo="https://i.imgur.com/d91GcVf.png" group-title="EU- FR 4K UHD",FR 4K- TFX
-https://it-zone.tech/proxy/964899
+http://tv.it-zone.tech.tech/proxy/964899
 #EXTINF:-1 tvg-ID="tmc.fr" tvg-name="FR 4K- TMC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/512px-TMC_logo.svg.png" group-title="EU- FR 4K UHD",FR 4K- TMC
-https://it-zone.tech/proxy/964901
+http://tv.it-zone.tech.tech/proxy/964901
 #EXTINF:-1 tvg-ID="" tvg-name="FR 4K- TMC+1" group-title="EU- FR 4K UHD",FR 4K- TMC+1
-https://it-zone.tech/proxy/964900
+http://tv.it-zone.tech.tech/proxy/964900
 #EXTINF:-1 tvg-ID="mg#180566" tvg-name="FR 4K- TREK" group-title="EU- FR 4K UHD",FR 4K- TREK
-https://it-zone.tech/proxy/964842
+http://tv.it-zone.tech.tech/proxy/964842
 #EXTINF:-1 tvg-ID="TV5MondeFranceBelgiumSwitzerlandMonaco.fr" tvg-name="FR 4K- TV5 MONDE" tvg-logo="https://i.imgur.com/WmRbudc.png" group-title="EU- FR 4K UHD",FR 4K- TV5 MONDE
-https://it-zone.tech/proxy/964880
+http://tv.it-zone.tech.tech/proxy/964880
 #EXTINF:-1 tvg-ID="6ter.fr" tvg-name="FR 4K- 6TER" tvg-logo="https://i.imgur.com/2nd5Cox.png" group-title="EU- FR 4K UHD",FR 4K- 6TER
-https://it-zone.tech/proxy/964863
+http://tv.it-zone.tech.tech/proxy/964863
 #EXTINF:-1 tvg-ID="ab1.fr" tvg-name="FR 4K- AB1" tvg-logo="https://i.imgur.com/9C7UsOe.png" group-title="EU- FR 4K UHD",FR 4K- AB1
-https://it-zone.tech/proxy/964868
+http://tv.it-zone.tech.tech/proxy/964868
 #EXTINF:-1 tvg-ID="arte.fr" tvg-name="FR 4K- ARTE" tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="EU- FR 4K UHD",FR 4K- ARTE
-https://it-zone.tech/proxy/964904
+http://tv.it-zone.tech.tech/proxy/964904
 #EXTINF:-1 tvg-ID="" tvg-name="FR- TECH & CO" group-title="EU- FR INFORMATION",FR- TECH & CO
-https://it-zone.tech/proxy/1743154
+http://tv.it-zone.tech.tech/proxy/1743154
 #EXTINF:-1 tvg-ID="" tvg-name="FR- B SMART" group-title="EU- FR INFORMATION",FR- B SMART
-https://it-zone.tech/proxy/1742952
+http://tv.it-zone.tech.tech/proxy/1742952
 #EXTINF:-1 tvg-ID="bfmbusiness.fr" tvg-name="FR- BFM BUSINESS SD" tvg-logo="https://i.imgur.com/psqIHn4.png" group-title="EU- FR INFORMATION",FR- BFM BUSINESS SD
-https://it-zone.tech/proxy/964238TV
+http://tv.it-zone.tech.tech/proxy/964238TV
 #EXTINF:-1 tvg-ID="bfmtv.fr" tvg-name="FR 4K- BFM TV" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="EU- FR 4K UHD",FR 4K- BFM TV
-https://it-zone.tech/proxy/964897
+http://tv.it-zone.tech.tech/proxy/964897
 #EXTINF:-1 tvg-ID="c8.fr" tvg-name="FR 4K- C8" tvg-logo="https://i.imgur.com/40mdgqQ.png" group-title="EU- FR 4K UHD",FR 4K- C8
-https://it-zone.tech/proxy/964903
+http://tv.it-zone.tech.tech/proxy/964903
 #EXTINF:-1 tvg-ID="cnews.fr" tvg-name="FR 4K- CNEWS" tvg-logo="https://i.imgur.com/sSNhk2g.png" group-title="EU- FR 4K UHD",FR 4K- CNEWS
-https://it-zone.tech/proxy/964896
+http://tv.it-zone.tech.tech/proxy/964896
 #EXTINF:-1 tvg-ID="pf#200074" tvg-name="FR 4K- CSTAR" group-title="EU- FR 4K UHD",FR 4K- CSTAR
-https://it-zone.tech/proxy/964895
+http://tv.it-zone.tech.tech/proxy/964895
 #EXTINF:-1 tvg-ID="EuronewsFrench.fr" tvg-name="FR 4K- EURONEWS" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="EU- FR 4K UHD",FR 4K- EURONEWS
-https://it-zone.tech/proxy/964879
+http://tv.it-zone.tech.tech/proxy/964879
 #EXTINF:-1 tvg-ID="France24French.fr" tvg-name="FR 4K- FRANCE 24" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="EU- FR 4K UHD",FR 4K- FRANCE 24
-https://it-zone.tech/proxy/964906
+http://tv.it-zone.tech.tech/proxy/964906
 #EXTINF:-1 tvg-ID="i24NEWSFrench.il" tvg-name="FR 4K- I24 NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" group-title="EU- FR 4K UHD",FR 4K- I24 NEWS
-https://it-zone.tech/proxy/964878
+http://tv.it-zone.tech.tech/proxy/964878
 #EXTINF:-1 tvg-ID="re#160278" tvg-name="FR 4K- KTO" group-title="EU- FR 4K UHD",FR 4K- KTO
-https://it-zone.tech/proxy/964835
+http://tv.it-zone.tech.tech/proxy/964835
 #EXTINF:-1 tvg-ID="lci.fr" tvg-name="FR 4K- LCI" tvg-logo="https://i.imgur.com/DED8EXs.png" group-title="EU- FR 4K UHD",FR 4K- LCI
-https://it-zone.tech/proxy/964888
+http://tv.it-zone.tech.tech/proxy/964888
 #EXTINF:-1 tvg-ID="LCP.fr" tvg-name="FR 4K- LCP" tvg-logo="https://i.imgur.com/k7UImOJ.png" group-title="EU- FR 4K UHD",FR 4K- LCP
-https://it-zone.tech/proxy/964886
+http://tv.it-zone.tech.tech/proxy/964886
 #EXTINF:-1 tvg-ID="nrj12.fr" tvg-name="FR 4K- NRJ12" tvg-logo="https://i.imgur.com/Lv66Gcv.png" group-title="EU- FR 4K UHD",FR 4K- NRJ12
-https://it-zone.tech/proxy/964898
+http://tv.it-zone.tech.tech/proxy/964898
 #EXTINF:-1 tvg-ID="polarplus.fr" tvg-name="FR 4K- POLAR+" tvg-logo="https://i.imgur.com/RjnuWFU.png" group-title="EU- FR 4K UHD",FR 4K- POLAR+
-https://it-zone.tech/proxy/964845
+http://tv.it-zone.tech.tech/proxy/964845
 #EXTINF:-1 tvg-ID="ad#180373" tvg-name="FR 4K- SCIENCE ET VIE" group-title="EU- FR 4K UHD",FR 4K- SCIENCE ET VIE
-https://it-zone.tech/proxy/964833
+http://tv.it-zone.tech.tech/proxy/964833
 #EXTINF:-1 tvg-ID="paramountchannel.fr" tvg-name="FR 4K- PARAMOUNT CHANNEL" tvg-logo="https://i.imgur.com/BqmDlC2.png" group-title="EU- FR 4K UHD",FR 4K- PARAMOUNT CHANNEL
-https://it-zone.tech/proxy/964816
+http://tv.it-zone.tech.tech/proxy/964816
 #EXTINF:-1 tvg-ID="paramountchannel.fr" tvg-name="FR- PARAMOUNT DECALE SD" tvg-logo="https://i.imgur.com/BqmDlC2.png" group-title="EU- FR CINEMA",FR- PARAMOUNT DECALE SD
-https://it-zone.tech/proxy/963888
+http://tv.it-zone.tech.tech/proxy/963888
 #EXTINF:-1 tvg-ID="parispremiere.fr" tvg-name="FR 4K- PARIS PREMIERE" tvg-logo="https://i.imgur.com/ily4bEm.png" group-title="EU- FR 4K UHD",FR 4K- PARIS PREMIERE
-https://it-zone.tech/proxy/964870
+http://tv.it-zone.tech.tech/proxy/964870
 #EXTINF:-1 tvg-ID="rmcdecouverte.fr" tvg-name="FR 4K- RMC DECOUVERTE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/langfr-350px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="EU- FR 4K UHD",FR 4K- RMC DECOUVERTE
-https://it-zone.tech/proxy/964890
+http://tv.it-zone.tech.tech/proxy/964890
 #EXTINF:-1 tvg-ID="rmcstory.fr" tvg-name="FR 4K- RMC STORY" tvg-logo="https://i.imgur.com/h53nsyJ.png" group-title="EU- FR 4K UHD",FR 4K- RMC STORY
-https://it-zone.tech/proxy/964891
+http://tv.it-zone.tech.tech/proxy/964891
 #EXTINF:-1 tvg-ID="serieclub.fr" tvg-name="FR 4K- SERIE CLUB" tvg-logo="https://i.imgur.com/V8wRRg5.png" group-title="EU- FR 4K UHD",FR 4K- SERIE CLUB
-https://it-zone.tech/proxy/964815
+http://tv.it-zone.tech.tech/proxy/964815
 #EXTINF:-1 tvg-ID="2837" tvg-name="FR 4K- SPORT EN FRANCE" group-title="EU- FR 4K UHD",FR 4K- SPORT EN FRANCE
-https://it-zone.tech/proxy/964882
+http://tv.it-zone.tech.tech/proxy/964882
 #EXTINF:-1 tvg-ID="pf#200374" tvg-name="FR 4K- TCM CINEMA" group-title="EU- FR 4K UHD",FR 4K- TCM CINEMA
-https://it-zone.tech/proxy/964866
+http://tv.it-zone.tech.tech/proxy/964866
 #EXTINF:-1 tvg-ID="toonami.fr" tvg-name="FR 4K- TOONAMI" group-title="EU- FR 4K UHD",FR 4K- TOONAMI
-https://it-zone.tech/proxy/964852
+http://tv.it-zone.tech.tech/proxy/964852
 #EXTINF:-1 tvg-ID="Automotolachaine.fr" tvg-name="FR 4K- AUTOMOTO" tvg-logo="https://i.imgur.com/ebf2uc7.png" group-title="EU- FR 4K UHD",FR 4K- AUTOMOTO
-https://it-zone.tech/proxy/964839
+http://tv.it-zone.tech.tech/proxy/964839
 #EXTINF:-1 tvg-ID="cherie25.fr" tvg-name="FR 4K- CHERIE 25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Ch%C3%A9rie_25.svg/512px-Logo_Ch%C3%A9rie_25.svg.png" group-title="EU- FR 4K UHD",FR 4K- CHERIE 25
-https://it-zone.tech/proxy/964889
+http://tv.it-zone.tech.tech/proxy/964889
 #EXTINF:-1 tvg-ID="disneychannel.fr" tvg-name="FR 4K- DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="EU- FR 4K UHD",FR 4K- DISNEY CHANNEL
-https://it-zone.tech/proxy/964846
+http://tv.it-zone.tech.tech/proxy/964846
 #EXTINF:-1 tvg-ID="equidia.fr" tvg-name="FR 4K- EQUIDIA" tvg-logo="https://i.imgur.com/QPpbRcZ.png" group-title="EU- FR 4K UHD",FR 4K- EQUIDIA
-https://it-zone.tech/proxy/964841
+http://tv.it-zone.tech.tech/proxy/964841
 #EXTINF:-1 tvg-ID="eurosport1.fr" tvg-name="FR 4K- EUROSPORT 1" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="EU- FR 4K UHD",FR 4K- EUROSPORT 1
-https://it-zone.tech/proxy/964822
+http://tv.it-zone.tech.tech/proxy/964822
 #EXTINF:-1 tvg-ID="golfplus.fr" tvg-name="FR 4K- GOLF+" tvg-logo="https://i.imgur.com/WHnddkg.png" group-title="EU- FR 4K UHD",FR 4K- GOLF+
-https://it-zone.tech/proxy/964818
+http://tv.it-zone.tech.tech/proxy/964818
 #EXTINF:-1 tvg-ID="golfchannel.fr" tvg-name="FR 4K- GOLF CHANNEL" group-title="EU- FR 4K UHD",FR 4K- GOLF CHANNEL
-https://it-zone.tech/proxy/964840
+http://tv.it-zone.tech.tech/proxy/964840
 #EXTINF:-1 tvg-ID="gulli.fr" tvg-name="FR 4K- GULLI" tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="EU- FR 4K UHD",FR 4K- GULLI
-https://it-zone.tech/proxy/964894
+http://tv.it-zone.tech.tech/proxy/964894
 #EXTINF:-1 tvg-ID="LEquipe.fr" tvg-name="FR 4K- L EQUIPE" tvg-logo="https://i.imgur.com/t35zhM9.png" group-title="EU- FR 4K UHD",FR 4K- L EQUIPE
-https://it-zone.tech/proxy/964892
+http://tv.it-zone.tech.tech/proxy/964892
 #EXTINF:-1 tvg-ID="mezzo.fr" tvg-name="FR 4K- MEZZO" tvg-logo="https://i.imgur.com/auNdGeW.png" group-title="EU- FR 4K UHD",FR 4K- MEZZO
-https://it-zone.tech/proxy/964831
+http://tv.it-zone.tech.tech/proxy/964831
 #EXTINF:-1 tvg-ID="mezzolive.fr" tvg-name="FR 4K- MEZZO LIVE" tvg-logo="https://i.imgur.com/H9ytKPN.png" group-title="EU- FR 4K UHD",FR 4K- MEZZO LIVE
-https://it-zone.tech/proxy/964830
+http://tv.it-zone.tech.tech/proxy/964830
 #EXTINF:-1 tvg-ID="nickelodeon.fr" tvg-name="FR 4K- NICKELODEON" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="EU- FR 4K UHD",FR 4K- NICKELODEON
-https://it-zone.tech/proxy/964847
+http://tv.it-zone.tech.tech/proxy/964847
 #EXTINF:-1 tvg-ID="NickelodeonJunior.fr" tvg-name="FR 4K- NICKELODEON JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/512px-Nickelodeon_Junior.png" group-title="EU- FR 4K UHD",FR 4K- NICKELODEON JUNIOR
-https://it-zone.tech/proxy/964848
+http://tv.it-zone.tech.tech/proxy/964848
 #EXTINF:-1 tvg-ID="Nickelodeon4Teen.fr" tvg-name="FR 4K- NICKELODEON TEEN" group-title="EU- FR 4K UHD",FR 4K- NICKELODEON TEEN
-https://it-zone.tech/proxy/964844
+http://tv.it-zone.tech.tech/proxy/964844
 #EXTINF:-1 tvg-ID="tf1.fr" tvg-name="FR- TF1 SD" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="EU- FR GENERAL",FR- TF1 SD
-https://it-zone.tech/proxy/963549
+http://tv.it-zone.tech.tech/proxy/963549
 #EXTINF:-1 tvg-ID="tf1seriesfilms.fr" tvg-name="FR- TF1 SERIES FILMS SD" tvg-logo="https://i.imgur.com/4CJIDKQ.png" group-title="EU- FR GENERAL",FR- TF1 SERIES FILMS SD
-https://it-zone.tech/proxy/963582
+http://tv.it-zone.tech.tech/proxy/963582
 #EXTINF:-1 tvg-ID="france2.fr" tvg-name="FR- FRANCE 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png" group-title="EU- FR GENERAL",FR- FRANCE 2 SD
-https://it-zone.tech/proxy/963555
+http://tv.it-zone.tech.tech/proxy/963555
 #EXTINF:-1 tvg-ID="france3.fr" tvg-name="FR- FRANCE 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png" group-title="EU- FR GENERAL",FR- FRANCE 3 SD
-https://it-zone.tech/proxy/963558
+http://tv.it-zone.tech.tech/proxy/963558
 #EXTINF:-1 tvg-ID="france4.fr" tvg-name="FR- FRANCE 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png" group-title="EU- FR GENERAL",FR- FRANCE 4 SD
-https://it-zone.tech/proxy/963561
+http://tv.it-zone.tech.tech/proxy/963561
 #EXTINF:-1 tvg-ID="france5.fr" tvg-name="FR- FRANCE 5 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png" group-title="EU- FR GENERAL",FR- FRANCE 5 SD
-https://it-zone.tech/proxy/963564
+http://tv.it-zone.tech.tech/proxy/963564
 #EXTINF:-1 tvg-ID="m6.fr" tvg-name="FR- M6 SD" tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="EU- FR GENERAL",FR- M6 SD
-https://it-zone.tech/proxy/963567
+http://tv.it-zone.tech.tech/proxy/963567
 #EXTINF:-1 tvg-ID="" tvg-name="FR- TV5 MONDE SD" group-title="EU- FR GENERAL",FR- TV5 MONDE SD
-https://it-zone.tech/proxy/1061447
+http://tv.it-zone.tech.tech/proxy/1061447
 #EXTINF:-1 tvg-ID="w9.fr" tvg-name="FR- W9 SD" tvg-logo="https://i.imgur.com/reYeMuE.png" group-title="EU- FR GENERAL",FR- W9 SD
-https://it-zone.tech/proxy/963594
+http://tv.it-zone.tech.tech/proxy/963594
 #EXTINF:-1 tvg-ID="RTL9.lu" tvg-name="FR- RTL9 SD" tvg-logo="https://i.imgur.com/nFqjVNW.png" group-title="EU- FR GENERAL",FR- RTL9 SD
-https://it-zone.tech/proxy/963591
+http://tv.it-zone.tech.tech/proxy/963591
 #EXTINF:-1 tvg-ID="c8.fr" tvg-name="FR- C8 SD" tvg-logo="https://i.imgur.com/40mdgqQ.png" group-title="EU- FR GENERAL",FR- C8 SD
-https://it-zone.tech/proxy/963597
+http://tv.it-zone.tech.tech/proxy/963597
 #EXTINF:-1 tvg-ID="ab1.fr" tvg-name="FR- AB1 SD" tvg-logo="https://i.imgur.com/9C7UsOe.png" group-title="EU- FR GENERAL",FR- AB1 SD
-https://it-zone.tech/proxy/963588
+http://tv.it-zone.tech.tech/proxy/963588
 #EXTINF:-1 tvg-ID="tmc.fr" tvg-name="FR- TMC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/512px-TMC_logo.svg.png" group-title="EU- FR GENERAL",FR- TMC SD
-https://it-zone.tech/proxy/963573
+http://tv.it-zone.tech.tech/proxy/963573
 #EXTINF:-1 tvg-ID="TFX.fr" tvg-name="FR- TFX SD" tvg-logo="https://i.imgur.com/d91GcVf.png" group-title="EU- FR GENERAL",FR- TFX SD
-https://it-zone.tech/proxy/963579
+http://tv.it-zone.tech.tech/proxy/963579
 #EXTINF:-1 tvg-ID="teva.fr" tvg-name="FR- TEVA SD" tvg-logo="https://i.imgur.com/kDW0hN5.png" group-title="EU- FR GENERAL",FR- TEVA SD
-https://it-zone.tech/proxy/963585
+http://tv.it-zone.tech.tech/proxy/963585
 #EXTINF:-1 tvg-ID="ad#180001" tvg-name="FR- 13EME RUE  SD" group-title="EU- FR GENERAL",FR- 13EME RUE  SD
-https://it-zone.tech/proxy/968994
+http://tv.it-zone.tech.tech/proxy/968994
 #EXTINF:-1 tvg-ID="warnertv.fr" tvg-name="FR- WARNER TV SD" group-title="EU- FR GENERAL",FR- WARNER TV SD
-https://it-zone.tech/proxy/963615
+http://tv.it-zone.tech.tech/proxy/963615
 #EXTINF:-1 tvg-ID="tvbreizh.fr" tvg-name="FR- TV BREIZH SD" tvg-logo="https://i.imgur.com/O8W4yhn.png" group-title="EU- FR GENERAL",FR- TV BREIZH SD
-https://it-zone.tech/proxy/963606
+http://tv.it-zone.tech.tech/proxy/963606
 #EXTINF:-1 tvg-ID="6ter.fr" tvg-name="FR- 6TER SD" tvg-logo="https://i.imgur.com/2nd5Cox.png" group-title="EU- FR GENERAL",FR- 6TER SD
-https://it-zone.tech/proxy/963570
+http://tv.it-zone.tech.tech/proxy/963570
 #EXTINF:-1 tvg-ID="ad#180335" tvg-name="FR- A+ SD" group-title="EU- FR GENERAL",FR- A+ SD
-https://it-zone.tech/proxy/963660
+http://tv.it-zone.tech.tech/proxy/963660
 #EXTINF:-1 tvg-ID="arte.fr" tvg-name="FR- ARTE SD" tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="EU- FR GENERAL",FR- ARTE SD
-https://it-zone.tech/proxy/963663
+http://tv.it-zone.tech.tech/proxy/963663
 #EXTINF:-1 tvg-ID="bet.fr" tvg-name="FR- BET SD" tvg-logo="https://i.imgur.com/HOtpa6H.png" group-title="EU- FR GENERAL",FR- BET SD
-https://it-zone.tech/proxy/963639
+http://tv.it-zone.tech.tech/proxy/963639
 #EXTINF:-1 tvg-ID="cherie25.fr" tvg-name="FR- CHERIE 25 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Ch%C3%A9rie_25.svg/512px-Logo_Ch%C3%A9rie_25.svg.png" group-title="EU- FR GENERAL",FR- CHERIE 25 SD
-https://it-zone.tech/proxy/963630
+http://tv.it-zone.tech.tech/proxy/963630
 #EXTINF:-1 tvg-ID="comedycentral.fr" tvg-name="FR- COMEDIE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="EU- FR GENERAL",FR- COMEDIE SD
-https://it-zone.tech/proxy/963624
+http://tv.it-zone.tech.tech/proxy/963624
 #EXTINF:-1 tvg-ID="pf#200074" tvg-name="FR- CSTAR SD" group-title="EU- FR GENERAL",FR- CSTAR SD
-https://it-zone.tech/proxy/963600
+http://tv.it-zone.tech.tech/proxy/963600
 #EXTINF:-1 tvg-ID="nollywood.fr" tvg-name="FR- NOLLYWOOD SD" group-title="EU- FR GENERAL",FR- NOLLYWOOD SD
-https://it-zone.tech/proxy/963657
+http://tv.it-zone.tech.tech/proxy/963657
 #EXTINF:-1 tvg-ID="novelastv.fr" tvg-name="FR- NOVELAS TV SD" tvg-logo="https://i.imgur.com/HZw19jM.png" group-title="EU- FR GENERAL",FR- NOVELAS TV SD
-https://it-zone.tech/proxy/963672
+http://tv.it-zone.tech.tech/proxy/963672
 #EXTINF:-1 tvg-ID="nrj12.fr" tvg-name="FR- NRJ 12 SD" tvg-logo="https://i.imgur.com/Lv66Gcv.png" group-title="EU- FR GENERAL",FR- NRJ 12 SD
-https://it-zone.tech/proxy/963633
+http://tv.it-zone.tech.tech/proxy/963633
 #EXTINF:-1 tvg-ID="01tv.fr" tvg-name="FR- OLYMPIA TV SD" group-title="EU- FR GENERAL",FR- OLYMPIA TV SD
-https://it-zone.tech/proxy/963666
+http://tv.it-zone.tech.tech/proxy/963666
 #EXTINF:-1 tvg-ID="parispremiere.fr" tvg-name="FR- PARIS PREMIERE SD" tvg-logo="https://i.imgur.com/ily4bEm.png" group-title="EU- FR GENERAL",FR- PARIS PREMIERE SD
-https://it-zone.tech/proxy/963621
+http://tv.it-zone.tech.tech/proxy/963621
 #EXTINF:-1 tvg-ID="polarplus.fr" tvg-name="FR- POLAR+ SD" tvg-logo="https://i.imgur.com/RjnuWFU.png" group-title="EU- FR GENERAL",FR- POLAR+ SD
-https://it-zone.tech/proxy/963618
+http://tv.it-zone.tech.tech/proxy/963618
 #EXTINF:-1 tvg-ID="rmcstory.fr" tvg-name="FR- RMC STORY SD" tvg-logo="https://i.imgur.com/h53nsyJ.png" group-title="EU- FR GENERAL",FR- RMC STORY SD
-https://it-zone.tech/proxy/963627
+http://tv.it-zone.tech.tech/proxy/963627
 #EXTINF:-1 tvg-ID="serieclub.fr" tvg-name="FR- SERIE CLUB SD" tvg-logo="https://i.imgur.com/V8wRRg5.png" group-title="EU- FR GENERAL",FR- SERIE CLUB SD
-https://it-zone.tech/proxy/963603
+http://tv.it-zone.tech.tech/proxy/963603
 #EXTINF:-1 tvg-ID="re#160078" tvg-name="FR- SYFY SD" group-title="EU- FR GENERAL",FR- SYFY SD
-https://it-zone.tech/proxy/963612
+http://tv.it-zone.tech.tech/proxy/963612
 #EXTINF:-1 tvg-ID="bfmbusiness.fr" tvg-name="FR- BFM BUSINESS SD" tvg-logo="https://i.imgur.com/psqIHn4.png" group-title="EU- FR INFORMATION",FR- BFM BUSINESS SD
-https://it-zone.tech/proxy/964238
+http://tv.it-zone.tech.tech/proxy/964238
 #EXTINF:-1 tvg-ID="bfmtv.fr" tvg-name="FR- BFM TV SD" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="EU- FR INFORMATION",FR- BFM TV SD
-https://it-zone.tech/proxy/964235
+http://tv.it-zone.tech.tech/proxy/964235
 #EXTINF:-1 tvg-ID="cnews.fr" tvg-name="FR- CNEWS SD" tvg-logo="https://i.imgur.com/sSNhk2g.png" group-title="EU- FR INFORMATION",FR- CNEWS SD
-https://it-zone.tech/proxy/964262
+http://tv.it-zone.tech.tech/proxy/964262
 #EXTINF:-1 tvg-ID="EuronewsFrench.fr" tvg-name="FR- EURONEWS SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="EU- FR INFORMATION",FR- EURONEWS SD
-https://it-zone.tech/proxy/964256
+http://tv.it-zone.tech.tech/proxy/964256
 #EXTINF:-1 tvg-ID="France24French.fr" tvg-name="FR- FRANCE 24 SD" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="EU- FR INFORMATION",FR- FRANCE 24 SD
-https://it-zone.tech/proxy/964241
+http://tv.it-zone.tech.tech/proxy/964241
 #EXTINF:-1 tvg-ID="franceinfo.fr" tvg-name="FR- FRANCE INFO SD" tvg-logo="https://i.imgur.com/eITXz6A.png" group-title="EU- FR INFORMATION",FR- FRANCE INFO SD
-https://it-zone.tech/proxy/964250
+http://tv.it-zone.tech.tech/proxy/964250
 #EXTINF:-1 tvg-ID="i24NEWSFrench.il" tvg-name="FR- I24 NEWS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" group-title="EU- FR INFORMATION",FR- I24 NEWS SD
-https://it-zone.tech/proxy/964253
+http://tv.it-zone.tech.tech/proxy/964253
 #EXTINF:-1 tvg-ID="re#160278" tvg-name="FR- KTO SD" group-title="EU- FR INFORMATION",FR- KTO SD
-https://it-zone.tech/proxy/964229
+http://tv.it-zone.tech.tech/proxy/964229
 #EXTINF:-1 tvg-ID="lachainemeteo.fr" tvg-name="FR- LA CHAINE METEO SD" tvg-logo="https://i.imgur.com/dFHAmkT.png" group-title="EU- FR INFORMATION",FR- LA CHAINE METEO SD
-https://it-zone.tech/proxy/964232
+http://tv.it-zone.tech.tech/proxy/964232
 #EXTINF:-1 tvg-ID="lci.fr" tvg-name="FR- LCI SD" tvg-logo="https://i.imgur.com/DED8EXs.png" group-title="EU- FR INFORMATION",FR- LCI SD
-https://it-zone.tech/proxy/964244
+http://tv.it-zone.tech.tech/proxy/964244
 #EXTINF:-1 tvg-ID="LCP.fr" tvg-name="FR- LCP SD" tvg-logo="https://i.imgur.com/k7UImOJ.png" group-title="EU- FR INFORMATION",FR- LCP SD
-https://it-zone.tech/proxy/964247
+http://tv.it-zone.tech.tech/proxy/964247
 #EXTINF:-1 tvg-ID="" tvg-name="FR- BFM DICI HAUTE-PROVENCE" group-title="EU- FR REGIONAL",FR- BFM DICI HAUTE-PROVENCE
-https://it-zone.tech/proxy/964617
+http://tv.it-zone.tech.tech/proxy/964617
 #EXTINF:-1 tvg-ID="bfmgrandlille.fr" tvg-name="FR- BFM Grand Lille" group-title="EU- FR REGIONAL",FR- BFM Grand Lille
-https://it-zone.tech/proxy/964618
+http://tv.it-zone.tech.tech/proxy/964618
 #EXTINF:-1 tvg-ID="" tvg-name="FR- BFM Lyon Métropole" group-title="EU- FR REGIONAL",FR- BFM Lyon Métropole
-https://it-zone.tech/proxy/964592
+http://tv.it-zone.tech.tech/proxy/964592
 #EXTINF:-1 tvg-ID="BFMParis.fr" tvg-name="FR- BFM Paris" group-title="EU- FR REGIONAL",FR- BFM Paris
-https://it-zone.tech/proxy/964591
+http://tv.it-zone.tech.tech/proxy/964591
 #EXTINF:-1 tvg-ID="moselletv.fr" tvg-name="FR- TV8 Moselle-Est" group-title="EU- FR REGIONAL",FR- TV8 Moselle-Est
-https://it-zone.tech/proxy/964616
+http://tv.it-zone.tech.tech/proxy/964616
 #EXTINF:-1 tvg-ID="action.fr" tvg-name="FR- ACTION SD" tvg-logo="https://i.imgur.com/Zv9VsVq.png" group-title="EU- FR CINEMA",FR- ACTION SD
-https://it-zone.tech/proxy/963891
+http://tv.it-zone.tech.tech/proxy/963891
 #EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="FR- CANAL+ SD" tvg-logo="https://i.imgur.com/5HcyMnW.png" group-title="EU- FR CINEMA",FR- CANAL+ SD
-https://it-zone.tech/proxy/963837
+http://tv.it-zone.tech.tech/proxy/963837
 #EXTINF:-1 tvg-ID="re#160263" tvg-name="FR- CANAL+ BOX OFFICE SD" group-title="EU- FR CINEMA",FR- CANAL+ BOX OFFICE SD
-https://it-zone.tech/proxy/963846
+http://tv.it-zone.tech.tech/proxy/963846
 #EXTINF:-1 tvg-ID="re#160014" tvg-name="FR- CANAL+ CINEMA SD" group-title="EU- FR CINEMA",FR- CANAL+ CINEMA SD
-https://it-zone.tech/proxy/963849
+http://tv.it-zone.tech.tech/proxy/963849
 #EXTINF:-1 tvg-ID="canalplusgrandecran.fr" tvg-name="FR- CANAL+ GRAND ECRAN SD" tvg-logo="https://i0.wp.com/www.planetecsat.com/wp-content/uploads/2022/01/CANALP_GRAND_ECRAN_1lignes_RVB_2021_06_07-07-01-22.png?w=509&ssl=1" group-title="EU- FR CINEMA",FR- CANAL+ GRAND ECRAN SD
-https://it-zone.tech/proxy/963843
+http://tv.it-zone.tech.tech/proxy/963843
 #EXTINF:-1 tvg-ID="canalpluskids.fr" tvg-name="FR- CANAL + KIDS  SD" tvg-logo="https://i.imgur.com/xknv5py.png" group-title="EU- FR CINEMA",FR- CANAL + KIDS  SD
-https://it-zone.tech/proxy/963852
+http://tv.it-zone.tech.tech/proxy/963852
 #EXTINF:-1 tvg-ID="re#160312" tvg-name="FR- CANAL+ SERIES SD" group-title="EU- FR CINEMA",FR- CANAL+ SERIES SD
-https://it-zone.tech/proxy/963840
+http://tv.it-zone.tech.tech/proxy/963840
 #EXTINF:-1 tvg-ID="cineplusclassic.fr" tvg-name="FR- CINE+ CLASSIC SD" tvg-logo="https://i.imgur.com/y2zeLS3.jpeg" group-title="EU- FR CINEMA",FR- CINE+ CLASSIC SD
-https://it-zone.tech/proxy/963867
+http://tv.it-zone.tech.tech/proxy/963867
 #EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="FR- CINE+ CLUB SD" tvg-logo="https://i.imgur.com/OJfAUMj.png" group-title="EU- FR CINEMA",FR- CINE+ CLUB SD
-https://it-zone.tech/proxy/963870
+http://tv.it-zone.tech.tech/proxy/963870
 #EXTINF:-1 tvg-ID="cineplusemotion.fr" tvg-name="FR- CINE+ EMOTION SD" tvg-logo="https://i.imgur.com/upYjPvc.jpeg" group-title="EU- FR CINEMA",FR- CINE+ EMOTION SD
-https://it-zone.tech/proxy/963861
+http://tv.it-zone.tech.tech/proxy/963861
 #EXTINF:-1 tvg-ID="re#160026" tvg-name="FR- CINE+ FAMIZ SD" group-title="EU- FR CINEMA",FR- CINE+ FAMIZ SD
-https://it-zone.tech/proxy/963864
+http://tv.it-zone.tech.tech/proxy/963864
 #EXTINF:-1 tvg-ID="cineplusfrisson.fr" tvg-name="FR- CINE+ FRISSON SD" tvg-logo="https://i.imgur.com/MwFtbnR.jpeg" group-title="EU- FR CINEMA",FR- CINE+ FRISSON SD
-https://it-zone.tech/proxy/963858
+http://tv.it-zone.tech.tech/proxy/963858
 #EXTINF:-1 tvg-ID="cinepluspremier.fr" tvg-name="FR- CINE+ PREMIER SD" tvg-logo="https://i.imgur.com/b20LLN6.png" group-title="EU- FR CINEMA",FR- CINE+ PREMIER SD
-https://it-zone.tech/proxy/963855
+http://tv.it-zone.tech.tech/proxy/963855
 #EXTINF:-1 tvg-ID="ocschoc.fr" tvg-name="FR- OCS PULPSD" tvg-logo="https://i.imgur.com/euruHoB.png" group-title="EU- FR CINEMA",FR- OCS PULPSD
-https://it-zone.tech/proxy/963876
+http://tv.it-zone.tech.tech/proxy/963876
 #EXTINF:-1 tvg-ID="ocsgeants.fr" tvg-name="FR- OCS GEANT SD" tvg-logo="https://i.imgur.com/sd0HZ4L.png" group-title="EU- FR CINEMA",FR- OCS GEANT SD
-https://it-zone.tech/proxy/963879
+http://tv.it-zone.tech.tech/proxy/963879
 #EXTINF:-1 tvg-ID="ocsmax.fr" tvg-name="FR- OCS MAX SD" tvg-logo="https://i.imgur.com/nYS8K4A.png" group-title="EU- FR CINEMA",FR- OCS MAX SD
-https://it-zone.tech/proxy/963873
+http://tv.it-zone.tech.tech/proxy/963873
 #EXTINF:-1 tvg-ID="paramountchannel.fr" tvg-name="FR- PARAMOUNT CHANNEL SD" tvg-logo="https://i.imgur.com/BqmDlC2.png" group-title="EU- FR CINEMA",FR- PARAMOUNT CHANNEL SD
-https://it-zone.tech/proxy/963885
+http://tv.it-zone.tech.tech/proxy/963885
 #EXTINF:-1 tvg-ID="paramountchannel.fr" tvg-name="FR- PARAMOUNT DECALE SD" tvg-logo="https://i.imgur.com/BqmDlC2.png" group-title="EU- FR CINEMA",FR- PARAMOUNT DECALE SD
-https://it-zone.tech/proxy/963888
+http://tv.it-zone.tech.tech/proxy/963888
 #EXTINF:-1 tvg-ID="pf#200374" tvg-name="FR- TCM CINEMA SD" group-title="EU- FR CINEMA",FR- TCM CINEMA SD
-https://it-zone.tech/proxy/963882
+http://tv.it-zone.tech.tech/proxy/963882
 #EXTINF:-1 tvg-ID="boomerang.fr" tvg-name="FR- BOOMERANG SD" group-title="EU- FR ENFANTS",FR- BOOMERANG SD
-https://it-zone.tech/proxy/963984
+http://tv.it-zone.tech.tech/proxy/963984
 #EXTINF:-1 tvg-ID="pf#200502" tvg-name="FR- CARTOON NETWORK SD" group-title="EU- FR ENFANTS",FR- CARTOON NETWORK SD
-https://it-zone.tech/proxy/963991
+http://tv.it-zone.tech.tech/proxy/963991
 #EXTINF:-1 tvg-ID="canalj.fr" tvg-name="FR- CANAL J SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_J_2019_Logo.png/512px-Canal_J_2019_Logo.png" group-title="EU- FR ENFANTS",FR- CANAL J SD
-https://it-zone.tech/proxy/964006
+http://tv.it-zone.tech.tech/proxy/964006
 #EXTINF:-1 tvg-ID="" tvg-name="FR- DISNEY + SD" group-title="EU- FR ENFANTS",FR- DISNEY + SD
-https://it-zone.tech/proxy/963954
+http://tv.it-zone.tech.tech/proxy/963954
 #EXTINF:-1 tvg-ID="disneychannel.fr" tvg-name="FR- DISNEY CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="EU- FR ENFANTS",FR- DISNEY CHANNEL SD
-https://it-zone.tech/proxy/963957
+http://tv.it-zone.tech.tech/proxy/963957
 #EXTINF:-1 tvg-ID="disneyjunior.fr" tvg-name="FR- DISNEY JUNIOR SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="EU- FR ENFANTS",FR- DISNEY JUNIOR SD
-https://it-zone.tech/proxy/963963
+http://tv.it-zone.tech.tech/proxy/963963
 #EXTINF:-1 tvg-ID="gameoneplus1.fr" tvg-name="FR- GAME ONE+1 SD" group-title="EU- FR ENFANTS",FR- GAME ONE+1 SD
-https://it-zone.tech/proxy/964021
+http://tv.it-zone.tech.tech/proxy/964021
 #EXTINF:-1 tvg-ID="gameone.fr" tvg-name="FR- GAME ONE SD" tvg-logo="https://i.imgur.com/UHkaObv.png" group-title="EU- FR ENFANTS",FR- GAME ONE SD
-https://it-zone.tech/proxy/964018
+http://tv.it-zone.tech.tech/proxy/964018
 #EXTINF:-1 tvg-ID="gulli.fr" tvg-name="FR- GULLI SD" tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="EU- FR ENFANTS",FR- GULLI SD
-https://it-zone.tech/proxy/963975
+http://tv.it-zone.tech.tech/proxy/963975
 #EXTINF:-1 tvg-ID="jone.fr" tvg-name="FR- J-ONE SD" tvg-logo="https://i.imgur.com/cicreDo.png" group-title="EU- FR ENFANTS",FR- J-ONE SD
-https://it-zone.tech/proxy/964009
+http://tv.it-zone.tech.tech/proxy/964009
 #EXTINF:-1 tvg-ID="mangas.fr" tvg-name="FR- MANGAS SD" tvg-logo="https://i.imgur.com/wmmEOza.png" group-title="EU- FR ENFANTS",FR- MANGAS SD
-https://it-zone.tech/proxy/964015
+http://tv.it-zone.tech.tech/proxy/964015
 #EXTINF:-1 tvg-ID="nickelodeonplus1.fr" tvg-name="FR- NICKELODEON+1 SD" group-title="EU- FR ENFANTS",FR- NICKELODEON+1 SD
-https://it-zone.tech/proxy/963997
+http://tv.it-zone.tech.tech/proxy/963997
 #EXTINF:-1 tvg-ID="nickelodeonteen.fr" tvg-name="FR- NICKELODEON 4 TEEN SD" tvg-logo="https://i.imgur.com/OWRUPA4.png" group-title="EU- FR ENFANTS",FR- NICKELODEON 4 TEEN SD
-https://it-zone.tech/proxy/964003
+http://tv.it-zone.tech.tech/proxy/964003
 #EXTINF:-1 tvg-ID="nickelodeon.fr" tvg-name="FR- NICKELODEON SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="EU- FR ENFANTS",FR- NICKELODEON SD
-https://it-zone.tech/proxy/963994
+http://tv.it-zone.tech.tech/proxy/963994
 #EXTINF:-1 tvg-ID="NickelodeonJunior.fr" tvg-name="FR- NICKELODEON JUNIOR SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/512px-Nickelodeon_Junior.png" group-title="EU- FR ENFANTS",FR- NICKELODEON JUNIOR SD
-https://it-zone.tech/proxy/964000
+http://tv.it-zone.tech.tech/proxy/964000
 #EXTINF:-1 tvg-ID="PiwiPlus.fr" tvg-name="FR- PIWI+ SD" tvg-logo="https://i.imgur.com/Ahckjj2.png" group-title="EU- FR ENFANTS",FR- PIWI+ SD
-https://it-zone.tech/proxy/963972
+http://tv.it-zone.tech.tech/proxy/963972
 #EXTINF:-1 tvg-ID="teletoonplus1.fr" tvg-name="FR- TELETOON + SD" tvg-logo="https://i.imgur.com/RUweNk7.png" group-title="EU- FR ENFANTS",FR- TELETOON + SD
-https://it-zone.tech/proxy/963987
+http://tv.it-zone.tech.tech/proxy/963987
 #EXTINF:-1 tvg-ID="tiji.fr" tvg-name="FR- TIJI SD" tvg-logo="https://i.imgur.com/ZjsfAGb.png" group-title="EU- FR ENFANTS",FR- TIJI SD
-https://it-zone.tech/proxy/963978
+http://tv.it-zone.tech.tech/proxy/963978
 #EXTINF:-1 tvg-ID="toonami.fr" tvg-name="FR- TOONAMI SD" group-title="EU- FR ENFANTS",FR- TOONAMI SD
-https://it-zone.tech/proxy/964012
+http://tv.it-zone.tech.tech/proxy/964012
 #EXTINF:-1 tvg-ID="bet.fr" tvg-name="FR- BET SD" tvg-logo="https://i.imgur.com/HOtpa6H.png" group-title="EU- FR MUSIC",FR- BET SD
-https://it-zone.tech/proxy/964184
+http://tv.it-zone.tech.tech/proxy/964184
 #EXTINF:-1 tvg-ID="pf#200074" tvg-name="FR- C STAR HITS SD" group-title="EU- FR MUSIC",FR- C STAR HITS SD
-https://it-zone.tech/proxy/964211
+http://tv.it-zone.tech.tech/proxy/964211
 #EXTINF:-1 tvg-ID="m6music.fr" tvg-name="FR- M6 MUSIC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png" group-title="EU- FR MUSIC",FR- M6 MUSIC SD
-https://it-zone.tech/proxy/964137
+http://tv.it-zone.tech.tech/proxy/964137
 #EXTINF:-1 tvg-ID="mcm.fr" tvg-name="FR- MCM SD" tvg-logo="https://i.imgur.com/F5WNCp0.png" group-title="EU- FR MUSIC",FR- MCM SD
-https://it-zone.tech/proxy/964149
+http://tv.it-zone.tech.tech/proxy/964149
 #EXTINF:-1 tvg-ID="mcmtop.fr" tvg-name="FR- MCM TOP SD" group-title="EU- FR MUSIC",FR- MCM TOP SD
-https://it-zone.tech/proxy/964152
+http://tv.it-zone.tech.tech/proxy/964152
 #EXTINF:-1 tvg-ID="melody.fr" tvg-name="FR- MELODY SD" tvg-logo="https://i.imgur.com/9GVyQ6x.png" group-title="EU- FR MUSIC",FR- MELODY SD
-https://it-zone.tech/proxy/964196
+http://tv.it-zone.tech.tech/proxy/964196
 #EXTINF:-1 tvg-ID="mezzolive.fr" tvg-name="FR- MEZZO LIVE SD" tvg-logo="https://i.imgur.com/H9ytKPN.png" group-title="EU- FR MUSIC",FR- MEZZO LIVE SD
-https://it-zone.tech/proxy/964193
+http://tv.it-zone.tech.tech/proxy/964193
 #EXTINF:-1 tvg-ID="mezzo.fr" tvg-name="FR- MEZZO SD" tvg-logo="https://i.imgur.com/auNdGeW.png" group-title="EU- FR MUSIC",FR- MEZZO SD
-https://it-zone.tech/proxy/964190
+http://tv.it-zone.tech.tech/proxy/964190
 #EXTINF:-1 tvg-ID="nrjhits.fr" tvg-name="FR- NRJ HITS SD" tvg-logo="https://i.imgur.com/2xDVwOh.png" group-title="EU- FR MUSIC",FR- NRJ HITS SD
-https://it-zone.tech/proxy/964158
+http://tv.it-zone.tech.tech/proxy/964158
 #EXTINF:-1 tvg-ID="" tvg-name="FR- NRJ TV SD" group-title="EU- FR MUSIC",FR- NRJ TV SD
-https://it-zone.tech/proxy/964155
+http://tv.it-zone.tech.tech/proxy/964155
 #EXTINF:-1 tvg-ID="rfmtv.fr" tvg-name="FR- RFM TV SD" tvg-logo="https://i.imgur.com/FVDTJxW.png" group-title="EU- FR MUSIC",FR- RFM TV SD
-https://it-zone.tech/proxy/964161
+http://tv.it-zone.tech.tech/proxy/964161
 #EXTINF:-1 tvg-ID="animaux.fr" tvg-name="FR- ANIMAUX SD" tvg-logo="https://i.imgur.com/FM9FVAG.png" group-title="EU- FR CULTURE",FR- ANIMAUX SD
-https://it-zone.tech/proxy/964122
+http://tv.it-zone.tech.tech/proxy/964122
 #EXTINF:-1 tvg-ID="canalplusdocs.fr" tvg-name="FR- CANAL+ DOCS SD" tvg-logo="https://i.imgur.com/WFXhE8f.png" group-title="EU- FR CULTURE",FR- CANAL+ DOCS SD
-https://it-zone.tech/proxy/964077
+http://tv.it-zone.tech.tech/proxy/964077
 #EXTINF:-1 tvg-ID="chassepeche.fr" tvg-name="FR- CHASSE ET PECHE SD" tvg-logo="https://i.imgur.com/ZIS2ZQ1.png" group-title="EU- FR CULTURE",FR- CHASSE ET PECHE SD
-https://it-zone.tech/proxy/964128
+http://tv.it-zone.tech.tech/proxy/964128
 #EXTINF:-1 tvg-ID="ad#180760" tvg-name="FR- CRIME DISTRICT SD" group-title="EU- FR CULTURE",FR- CRIME DISTRICT SD
-https://it-zone.tech/proxy/964098
+http://tv.it-zone.tech.tech/proxy/964098
 #EXTINF:-1 tvg-ID="ad#180792" tvg-name="FR- DISCOVERY CHANNEL SD" group-title="EU- FR CULTURE",FR- DISCOVERY CHANNEL SD
-https://it-zone.tech/proxy/964080
+http://tv.it-zone.tech.tech/proxy/964080
 #EXTINF:-1 tvg-ID="discoveryscience.fr" tvg-name="FR- DISCOVERY SCIENCE SD" group-title="EU- FR CULTURE",FR- DISCOVERY SCIENCE SD
-https://it-zone.tech/proxy/964086
+http://tv.it-zone.tech.tech/proxy/964086
 #EXTINF:-1 tvg-ID="pf#201098" tvg-name="FR- DISCOVERY INVESTIGATION SD" group-title="EU- FR CULTURE",FR- DISCOVERY INVESTIGATION SD
-https://it-zone.tech/proxy/964083
+http://tv.it-zone.tech.tech/proxy/964083
 #EXTINF:-1 tvg-ID="pf#201098" tvg-name="FR- DISCVERY INVESTIGATION OFHD" group-title="EU- FR CULTURE",FR- DISCVERY INVESTIGATION OFHD
-https://it-zone.tech/proxy/964085
+http://tv.it-zone.tech.tech/proxy/964085
 #EXTINF:-1 tvg-ID="pf#200079" tvg-name="FR- HISTOIRE SD" group-title="EU- FR CULTURE",FR- HISTOIRE SD
-https://it-zone.tech/proxy/964113
+http://tv.it-zone.tech.tech/proxy/964113
 #EXTINF:-1 tvg-ID="museum.fr" tvg-name="FR- MUSEUM CHANNEL SD" group-title="EU- FR CULTURE",FR- MUSEUM CHANNEL SD
-https://it-zone.tech/proxy/964134
+http://tv.it-zone.tech.tech/proxy/964134
 #EXTINF:-1 tvg-ID="NationalGeographic.fr" tvg-name="FR- NATIONAL GEOGRAPHIC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="EU- FR CULTURE",FR- NATIONAL GEOGRAPHIC SD
-https://it-zone.tech/proxy/964101
+http://tv.it-zone.tech.tech/proxy/964101
 #EXTINF:-1 tvg-ID="NationalGeographicWild.fr" tvg-name="FR- NATIONAL GEO WILD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="EU- FR CULTURE",FR- NATIONAL GEO WILD SD
-https://it-zone.tech/proxy/964104
+http://tv.it-zone.tech.tech/proxy/964104
 #EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="FR- PLANETE+ CI SD" tvg-logo="https://i.imgur.com/RMbMGMg.png" group-title="EU- FR CULTURE",FR- PLANETE+ CI SD
-https://it-zone.tech/proxy/964095
+http://tv.it-zone.tech.tech/proxy/964095
 #EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="FR- PLANETE + SD" tvg-logo="https://i.imgur.com/RMbMGMg.png" group-title="EU- FR CULTURE",FR- PLANETE + SD
-https://it-zone.tech/proxy/964089
+http://tv.it-zone.tech.tech/proxy/964089
 #EXTINF:-1 tvg-ID="PlanetePlusAventure.fr" tvg-name="FR- PLANETE AVENTURE SD" tvg-logo="https://i.imgur.com/h09sbN0.png" group-title="EU- FR CULTURE",FR- PLANETE AVENTURE SD
-https://it-zone.tech/proxy/964092
+http://tv.it-zone.tech.tech/proxy/964092
 #EXTINF:-1 tvg-ID="rmcdecouverte.fr" tvg-name="FR- RMC DECOUVERTE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/langfr-350px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="EU- FR CULTURE",FR- RMC DECOUVERTE SD
-https://it-zone.tech/proxy/964107
+http://tv.it-zone.tech.tech/proxy/964107
 #EXTINF:-1 tvg-ID="ad#180373" tvg-name="FR- SCIENCES & VIE SD" group-title="EU- FR CULTURE",FR- SCIENCES & VIE SD
-https://it-zone.tech/proxy/964110
+http://tv.it-zone.tech.tech/proxy/964110
 #EXTINF:-1 tvg-ID="seasons.fr" tvg-name="FR- SEASON SD" tvg-logo="https://i.imgur.com/vBti1As.png" group-title="EU- FR CULTURE",FR- SEASON SD
-https://it-zone.tech/proxy/964125
+http://tv.it-zone.tech.tech/proxy/964125
 #EXTINF:-1 tvg-ID="ad#180727" tvg-name="FR- TOUTE L'HISTOIRE SD" group-title="EU- FR CULTURE",FR- TOUTE L'HISTOIRE SD
-https://it-zone.tech/proxy/964116
+http://tv.it-zone.tech.tech/proxy/964116
 #EXTINF:-1 tvg-ID="mg#180566" tvg-name="FR- TREK SD" group-title="EU- FR CULTURE",FR- TREK SD
-https://it-zone.tech/proxy/964131
+http://tv.it-zone.tech.tech/proxy/964131
 #EXTINF:-1 tvg-ID="ushuaiatv.fr" tvg-name="FR- USHUAIA TV SD" tvg-logo="https://i.imgur.com/WjjlqbP.png" group-title="EU- FR CULTURE",FR- USHUAIA TV SD
-https://it-zone.tech/proxy/964119
+http://tv.it-zone.tech.tech/proxy/964119
 #EXTINF:-1 tvg-ID="" tvg-name="BANLIEUE COMEDIE" group-title="EU- FR PLAY  CINE",BANLIEUE COMEDIE
-https://it-zone.tech/proxy/1702182
+http://tv.it-zone.tech.tech/proxy/1702182
 #EXTINF:-1 tvg-ID="" tvg-name="BOOTCAMP" group-title="EU- FR PLAY EMISSION",BOOTCAMP
-https://it-zone.tech/proxy/1701111
+http://tv.it-zone.tech.tech/proxy/1701111
 #EXTINF:-1 tvg-ID="3952" tvg-name="RMC MYSTERE" group-title="EU- FR PLAY EMISSION",RMC MYSTERE
-https://it-zone.tech/proxy/1743160
+http://tv.it-zone.tech.tech/proxy/1743160
 #EXTINF:-1 tvg-ID="" tvg-name="LA PLANÈTE DES SINGES" group-title="EU- FR PLAY  CINE",LA PLANÈTE DES SINGES
-https://it-zone.tech/proxy/1701110
+http://tv.it-zone.tech.tech/proxy/1701110
 #EXTINF:-1 tvg-ID="" tvg-name="DOC BRUT X" group-title="EU- FR PLAY EMISSION",DOC BRUT X
-https://it-zone.tech/proxy/1701109
+http://tv.it-zone.tech.tech/proxy/1701109
 #EXTINF:-1 tvg-ID="" tvg-name="LES ZAMOURS TV" group-title="EU- FR PLAY EMISSION",LES ZAMOURS TV
-https://it-zone.tech/proxy/1672656
+http://tv.it-zone.tech.tech/proxy/1672656
 #EXTINF:-1 tvg-ID="" tvg-name="ALERTE COBRA" group-title="EU- FR  PLAY  SERIE",ALERTE COBRA
-https://it-zone.tech/proxy/1672655
+http://tv.it-zone.tech.tech/proxy/1672655
 #EXTINF:-1 tvg-ID="" tvg-name="Z NATION" group-title="EU- FR  PLAY  SERIE",Z NATION
-https://it-zone.tech/proxy/1672654
+http://tv.it-zone.tech.tech/proxy/1672654
 #EXTINF:-1 tvg-ID="" tvg-name="SERIE CRIME" group-title="EU- FR  PLAY  SERIE",SERIE CRIME
-https://it-zone.tech/proxy/1671445
+http://tv.it-zone.tech.tech/proxy/1671445
 #EXTINF:-1 tvg-ID="" tvg-name="RAKUTEN ACTION" group-title="EU- FR PLAY  CINE",RAKUTEN ACTION
-https://it-zone.tech/proxy/1671314
+http://tv.it-zone.tech.tech/proxy/1671314
 #EXTINF:-1 tvg-ID="" tvg-name="RAKUTEN TOP FILM" group-title="EU- FR PLAY  CINE",RAKUTEN TOP FILM
-https://it-zone.tech/proxy/1671313
+http://tv.it-zone.tech.tech/proxy/1671313
 #EXTINF:-1 tvg-ID="" tvg-name="RAKUTEN DRAME" group-title="EU- FR PLAY  CINE",RAKUTEN DRAME
-https://it-zone.tech/proxy/1671312
+http://tv.it-zone.tech.tech/proxy/1671312
 #EXTINF:-1 tvg-ID="" tvg-name="RAKUTEN HALLOWEEN" group-title="EU- FR PLAY  CINE",RAKUTEN HALLOWEEN
-https://it-zone.tech/proxy/1671311
+http://tv.it-zone.tech.tech/proxy/1671311
 #EXTINF:-1 tvg-ID="" tvg-name="RAKUTEN THRILLER" group-title="EU- FR PLAY  CINE",RAKUTEN THRILLER
-https://it-zone.tech/proxy/1671310
+http://tv.it-zone.tech.tech/proxy/1671310
 #EXTINF:-1 tvg-ID="" tvg-name="BABY SHARK" group-title="EU- FR PLAY ENFANTS",BABY SHARK
-https://it-zone.tech/proxy/1671302
+http://tv.it-zone.tech.tech/proxy/1671302
 #EXTINF:-1 tvg-ID="" tvg-name="CAILLOU TV" group-title="EU- FR PLAY ENFANTS",CAILLOU TV
-https://it-zone.tech/proxy/1671301
+http://tv.it-zone.tech.tech/proxy/1671301
 #EXTINF:-1 tvg-ID="" tvg-name="WASABI" group-title="EU- FR PLAY ENFANTS",WASABI
-https://it-zone.tech/proxy/1671244
+http://tv.it-zone.tech.tech/proxy/1671244
 #EXTINF:-1 tvg-ID="" tvg-name="XILAM TV" group-title="EU- FR PLAY ENFANTS",XILAM TV
-https://it-zone.tech/proxy/1671243
+http://tv.it-zone.tech.tech/proxy/1671243
 #EXTINF:-1 tvg-ID="" tvg-name="CINE SCREAM IN" group-title="EU- FR PLAY  CINE",CINE SCREAM IN
-https://it-zone.tech/proxy/1671242
+http://tv.it-zone.tech.tech/proxy/1671242
 #EXTINF:-1 tvg-ID="" tvg-name="CINE NANAR" group-title="EU- FR PLAY  CINE",CINE NANAR
-https://it-zone.tech/proxy/1671241
+http://tv.it-zone.tech.tech/proxy/1671241
 #EXTINF:-1 tvg-ID="" tvg-name="CINE ÉMOTION" group-title="EU- FR PLAY  CINE",CINE ÉMOTION
-https://it-zone.tech/proxy/1671240
+http://tv.it-zone.tech.tech/proxy/1671240
 #EXTINF:-1 tvg-ID="" tvg-name="VEVO POP TV" group-title="EU- FR PLAY MUSIC",VEVO POP TV
-https://it-zone.tech/proxy/1661094
+http://tv.it-zone.tech.tech/proxy/1661094
 #EXTINF:-1 tvg-ID="" tvg-name="VEVO HIP HOP R&B TV" group-title="EU- FR PLAY MUSIC",VEVO HIP HOP R&B TV
-https://it-zone.tech/proxy/1661093
+http://tv.it-zone.tech.tech/proxy/1661093
 #EXTINF:-1 tvg-ID="" tvg-name="SECRET DE NOS RÉGIONS" group-title="EU- FR PLAY EMISSION",SECRET DE NOS RÉGIONS
-https://it-zone.tech/proxy/1661092
+http://tv.it-zone.tech.tech/proxy/1661092
 #EXTINF:-1 tvg-ID="" tvg-name="LES ANGES" group-title="EU- FR PLAY EMISSION",LES ANGES
-https://it-zone.tech/proxy/1661091
+http://tv.it-zone.tech.tech/proxy/1661091
 #EXTINF:-1 tvg-ID="" tvg-name="LE MEILLEUR DE ARTHUR" group-title="EU- FR PLAY EMISSION",LE MEILLEUR DE ARTHUR
-https://it-zone.tech/proxy/1661089
+http://tv.it-zone.tech.tech/proxy/1661089
 #EXTINF:-1 tvg-ID="" tvg-name="L'ESPRIT SORCIER TV" group-title="EU- FR PLAY EMISSION",L'ESPRIT SORCIER TV
-https://it-zone.tech/proxy/1661088
+http://tv.it-zone.tech.tech/proxy/1661088
 #EXTINF:-1 tvg-ID="" tvg-name="CLUBBING TV" group-title="EU- FR PLAY MUSIC",CLUBBING TV
-https://it-zone.tech/proxy/1661085
+http://tv.it-zone.tech.tech/proxy/1661085
 #EXTINF:-1 tvg-ID="" tvg-name="CINE COURT MÉTRAGE" group-title="EU- FR PLAY  CINE",CINE COURT MÉTRAGE
-https://it-zone.tech/proxy/1661084
+http://tv.it-zone.tech.tech/proxy/1661084
 #EXTINF:-1 tvg-ID="" tvg-name="L'EFFET PAPILLON" group-title="EU- FR PLAY EMISSION",L'EFFET PAPILLON
-https://it-zone.tech/proxy/1661083
+http://tv.it-zone.tech.tech/proxy/1661083
 #EXTINF:-1 tvg-ID="" tvg-name="LA VÉRITÉ QUI COMPTE" group-title="EU- FR PLAY EMISSION",LA VÉRITÉ QUI COMPTE
-https://it-zone.tech/proxy/1661082
+http://tv.it-zone.tech.tech/proxy/1661082
 #EXTINF:-1 tvg-ID="" tvg-name="MOTUS LA CHAINE" group-title="EU- FR PLAY EMISSION",MOTUS LA CHAINE
-https://it-zone.tech/proxy/1661079
+http://tv.it-zone.tech.tech/proxy/1661079
 #EXTINF:-1 tvg-ID="" tvg-name="YU-Gi-HO" group-title="EU- FR PLAY MANGA",YU-Gi-HO
-https://it-zone.tech/proxy/1656986
+http://tv.it-zone.tech.tech/proxy/1656986
 #EXTINF:-1 tvg-ID="" tvg-name="RAKUTEN THRILLER" group-title="EU- FR PLAY  CINE",RAKUTEN THRILLER
-https://it-zone.tech/proxy/1656985
+http://tv.it-zone.tech.tech/proxy/1656985
 #EXTINF:-1 tvg-ID="" tvg-name="RAKUTEN FILM FRANÇAIS" group-title="EU- FR PLAY  CINE",RAKUTEN FILM FRANÇAIS
-https://it-zone.tech/proxy/1656983
+http://tv.it-zone.tech.tech/proxy/1656983
 #EXTINF:-1 tvg-ID="" tvg-name="FR- L' EQUIPE 21 LIVE 2" group-title="EU- FR SPORTS",FR- L' EQUIPE 21 LIVE 2
-https://it-zone.tech/proxy/1661087
+http://tv.it-zone.tech.tech/proxy/1661087
 #EXTINF:-1 tvg-ID="" tvg-name="FR- L' EQUIPE 21 LIVE 1" group-title="EU- FR SPORTS",FR- L' EQUIPE 21 LIVE 1
-https://it-zone.tech/proxy/1661086
+http://tv.it-zone.tech.tech/proxy/1661086
 #EXTINF:-1 tvg-ID="pl#24001" tvg-name="FR- CANAL+ LIVE 1" group-title="EU- FR CANAL+ LIVE",FR- CANAL+ LIVE 1
-https://it-zone.tech/proxy/1551388
+http://tv.it-zone.tech.tech/proxy/1551388
 #EXTINF:-1 tvg-ID="CanalPlusLive2.fr" tvg-name="FR- CANAL+ LIVE 2" group-title="EU- FR CANAL+ LIVE",FR- CANAL+ LIVE 2
-https://it-zone.tech/proxy/1551387
+http://tv.it-zone.tech.tech/proxy/1551387
 #EXTINF:-1 tvg-ID="pl#24003" tvg-name="FR- CANAL+ LIVE 3" group-title="EU- FR CANAL+ LIVE",FR- CANAL+ LIVE 3
-https://it-zone.tech/proxy/1551386
+http://tv.it-zone.tech.tech/proxy/1551386
 #EXTINF:-1 tvg-ID="pl#24004" tvg-name="FR- CANAL+ LIVE 4" group-title="EU- FR CANAL+ LIVE",FR- CANAL+ LIVE 4
-https://it-zone.tech/proxy/1551369
+http://tv.it-zone.tech.tech/proxy/1551369
 #EXTINF:-1 tvg-ID="CanalPlusLive5.fr" tvg-name="FR- CANAL+ LIVE 5" group-title="EU- FR CANAL+ LIVE",FR- CANAL+ LIVE 5
-https://it-zone.tech/proxy/1551385
+http://tv.it-zone.tech.tech/proxy/1551385
 #EXTINF:-1 tvg-ID="CanalPlusLive6.fr" tvg-name="FR- CANAL+ LIVE 6" group-title="EU- FR CANAL+ LIVE",FR- CANAL+ LIVE 6
-https://it-zone.tech/proxy/1551384
+http://tv.it-zone.tech.tech/proxy/1551384
 #EXTINF:-1 tvg-ID="CanalPlusLive7.fr" tvg-name="FR- CANAL+ LIVE 7" group-title="EU- FR CANAL+ LIVE",FR- CANAL+ LIVE 7
-https://it-zone.tech/proxy/1551383
+http://tv.it-zone.tech.tech/proxy/1551383
 #EXTINF:-1 tvg-ID="CanalPlusLive8.fr" tvg-name="FR- CANAL+ LIVE 8" group-title="EU- FR CANAL+ LIVE",FR- CANAL+ LIVE 8
-https://it-zone.tech/proxy/1551381
+http://tv.it-zone.tech.tech/proxy/1551381
 #EXTINF:-1 tvg-ID="CanalPlusLive9.fr" tvg-name="FR- CANAL+ LIVE 9" group-title="EU- FR CANAL+ LIVE",FR- CANAL+ LIVE 9
-https://it-zone.tech/proxy/1551380
+http://tv.it-zone.tech.tech/proxy/1551380
 #EXTINF:-1 tvg-ID="CanalPlusLive10.fr" tvg-name="FR- CANAL+ LIVE 10" group-title="EU- FR CANAL+ LIVE",FR- CANAL+ LIVE 10
-https://it-zone.tech/proxy/1551379
+http://tv.it-zone.tech.tech/proxy/1551379
 #EXTINF:-1 tvg-ID="CanalPlusLive11.fr" tvg-name="FR- CANAL+ LIVE 11" group-title="EU- FR CANAL+ LIVE",FR- CANAL+ LIVE 11
-https://it-zone.tech/proxy/1551378
+http://tv.it-zone.tech.tech/proxy/1551378
 #EXTINF:-1 tvg-ID="CanalPlusLive12.fr" tvg-name="FR- CANAL+ LIVE 12" group-title="EU- FR CANAL+ LIVE",FR- CANAL+ LIVE 12
-https://it-zone.tech/proxy/1551377
+http://tv.it-zone.tech.tech/proxy/1551377
 #EXTINF:-1 tvg-ID="CanalPlusLive13.fr" tvg-name="FR- CANAL+ LIVE 13" group-title="EU- FR CANAL+ LIVE",FR- CANAL+ LIVE 13
-https://it-zone.tech/proxy/1551376
+http://tv.it-zone.tech.tech/proxy/1551376
 #EXTINF:-1 tvg-ID="CanalPlusLive14.fr" tvg-name="FR- CANAL+ LIVE 14" group-title="EU- FR CANAL+ LIVE",FR- CANAL+ LIVE 14
-https://it-zone.tech/proxy/1551375
+http://tv.it-zone.tech.tech/proxy/1551375
 #EXTINF:-1 tvg-ID="CanalPlusLive15.fr" tvg-name="FR- CANAL+ LIVE 15" group-title="EU- FR CANAL+ LIVE",FR- CANAL+ LIVE 15
-https://it-zone.tech/proxy/1551374
+http://tv.it-zone.tech.tech/proxy/1551374
 #EXTINF:-1 tvg-ID="CanalPlusLive16.fr" tvg-name="FR- CANAL+ LIVE 16" group-title="EU- FR CANAL+ LIVE",FR- CANAL+ LIVE 16
-https://it-zone.tech/proxy/1551373
+http://tv.it-zone.tech.tech/proxy/1551373
 #EXTINF:-1 tvg-ID="CanalPlusLive17.fr" tvg-name="FR- CANAL+ LIVE 17" group-title="EU- FR CANAL+ LIVE",FR- CANAL+ LIVE 17
-https://it-zone.tech/proxy/1551372
+http://tv.it-zone.tech.tech/proxy/1551372
 #EXTINF:-1 tvg-ID="CanalPlusLive18.fr" tvg-name="FR- CANAL+ LIVE 18" group-title="EU- FR CANAL+ LIVE",FR- CANAL+ LIVE 18
-https://it-zone.tech/proxy/1551371
+http://tv.it-zone.tech.tech/proxy/1551371
 #EXTINF:-1 tvg-ID="CanalPlusLive19.fr" tvg-name="FR- CANAL+ LIVE 19" group-title="EU- FR CANAL+ LIVE",FR- CANAL+ LIVE 19
-https://it-zone.tech/proxy/1551370
+http://tv.it-zone.tech.tech/proxy/1551370
 #EXTINF:-1 tvg-ID="" tvg-name="DAZN LIGUE 1" group-title="EU- FR DAZN LIGUE",DAZN LIGUE 1
-https://it-zone.tech/proxy/1036204
+http://tv.it-zone.tech.tech/proxy/1036204
 #EXTINF:-1 tvg-ID="primevideoligue2.fr" tvg-name="DAZN LIGUE 2" group-title="EU- FR DAZN LIGUE",DAZN LIGUE 2
-https://it-zone.tech/proxy/1036203
+http://tv.it-zone.tech.tech/proxy/1036203
 #EXTINF:-1 tvg-ID="primevideoligue3.fr" tvg-name="DAZN LIGUE 3" group-title="EU- FR DAZN LIGUE",DAZN LIGUE 3
-https://it-zone.tech/proxy/1036202
+http://tv.it-zone.tech.tech/proxy/1036202
 #EXTINF:-1 tvg-ID="primevideoligue4.fr" tvg-name="DAZN LIGUE 4" group-title="EU- FR DAZN LIGUE",DAZN LIGUE 4
-https://it-zone.tech/proxy/1036201
+http://tv.it-zone.tech.tech/proxy/1036201
 #EXTINF:-1 tvg-ID="canalplussport360.fr" tvg-name="FR- CANAL+ SPORT 360 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="EU- FR SPORTS",FR- CANAL+ SPORT 360 SD
-https://it-zone.tech/proxy/963903
+http://tv.it-zone.tech.tech/proxy/963903
 #EXTINF:-1 tvg-ID="canalplusfoot.fr" tvg-name="FR- CANAL+ FOOT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png" group-title="EU- FR SPORTS",FR- CANAL+ FOOT SD
-https://it-zone.tech/proxy/963900
+http://tv.it-zone.tech.tech/proxy/963900
 #EXTINF:-1 tvg-ID="canalpluspremierleague.fr" tvg-name="FR- CANAL+ PREMIER LEAGUE SD" tvg-logo="https://i.imgur.com/aKFlhRO.png" group-title="EU- FR SPORTS",FR- CANAL+ PREMIER LEAGUE SD
-https://it-zone.tech/proxy/963906
+http://tv.it-zone.tech.tech/proxy/963906
 #EXTINF:-1 tvg-ID="canalplussport.fr" tvg-name="FR- CANAL+ SPORT SD" tvg-logo="https://i.imgur.com/EOXnU15.png" group-title="EU- FR SPORTS",FR- CANAL+ SPORT SD
-https://it-zone.tech/proxy/963897
+http://tv.it-zone.tech.tech/proxy/963897
 #EXTINF:-1 tvg-ID="LEquipe21.fr" tvg-name="FR- L'EQUIPE 21 SD" group-title="EU- FR SPORTS",FR- L'EQUIPE 21 SD
-https://it-zone.tech/proxy/963927
+http://tv.it-zone.tech.tech/proxy/963927
 #EXTINF:-1 tvg-ID="equidia.fr" tvg-name="FR- EQUIDIA LIVE SD" tvg-logo="https://i.imgur.com/QPpbRcZ.png" group-title="EU- FR SPORTS",FR- EQUIDIA LIVE SD
-https://it-zone.tech/proxy/963945
+http://tv.it-zone.tech.tech/proxy/963945
 #EXTINF:-1 tvg-ID="infosportplus.fr" tvg-name="FR- INFOSPORT+ SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Infosport%2B_%282016%29.svg/langfr-512px-Infosport%2B_%282016%29.svg.png" group-title="EU- FR SPORTS",FR- INFOSPORT+ SD
-https://it-zone.tech/proxy/964407
+http://tv.it-zone.tech.tech/proxy/964407
 #EXTINF:-1 tvg-ID="Automotolachaine.fr" tvg-name="FR- AUTO MOTO LA CHAINE SD" tvg-logo="https://i.imgur.com/ebf2uc7.png" group-title="EU- FR SPORTS",FR- AUTO MOTO LA CHAINE SD
-https://it-zone.tech/proxy/963939
+http://tv.it-zone.tech.tech/proxy/963939
 #EXTINF:-1 tvg-ID="eurosport2.fr" tvg-name="FR- EUROSPORT 2 SD" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="EU- FR SPORTS",FR- EUROSPORT 2 SD
-https://it-zone.tech/proxy/963924
+http://tv.it-zone.tech.tech/proxy/963924
 #EXTINF:-1 tvg-ID="golfplus.fr" tvg-name="FR- GOLF + SD" tvg-logo="https://i.imgur.com/WHnddkg.png" group-title="EU- FR SPORTS",FR- GOLF + SD
-https://it-zone.tech/proxy/963933
+http://tv.it-zone.tech.tech/proxy/963933
 #EXTINF:-1 tvg-ID="nauticalchannel.fr" tvg-name="FR- NAUTICAL CHANNEL SD" group-title="EU- FR SPORTS",FR- NAUTICAL CHANNEL SD
-https://it-zone.tech/proxy/963948
+http://tv.it-zone.tech.tech/proxy/963948
 #EXTINF:-1 tvg-ID="2837" tvg-name="FR- Sport en France SD" group-title="EU- FR SPORTS",FR- Sport en France SD
-https://it-zone.tech/proxy/963951
+http://tv.it-zone.tech.tech/proxy/963951
 #EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 360 1" group-title="EU- FR EUROSPORT 360",EUROSPORT 360 1
-https://it-zone.tech/proxy/964918
+http://tv.it-zone.tech.tech/proxy/964918
 #EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 360 2" group-title="EU- FR EUROSPORT 360",EUROSPORT 360 2
-https://it-zone.tech/proxy/964919
+http://tv.it-zone.tech.tech/proxy/964919
 #EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 360 3" group-title="EU- FR EUROSPORT 360",EUROSPORT 360 3
-https://it-zone.tech/proxy/964920
+http://tv.it-zone.tech.tech/proxy/964920
 #EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 360 4" group-title="EU- FR EUROSPORT 360",EUROSPORT 360 4
-https://it-zone.tech/proxy/964921
+http://tv.it-zone.tech.tech/proxy/964921
 #EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 360 5" group-title="EU- FR EUROSPORT 360",EUROSPORT 360 5
-https://it-zone.tech/proxy/964922
+http://tv.it-zone.tech.tech/proxy/964922
 #EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 360 6" group-title="EU- FR EUROSPORT 360",EUROSPORT 360 6
-https://it-zone.tech/proxy/964923
+http://tv.it-zone.tech.tech/proxy/964923
 #EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 360 7" group-title="EU- FR EUROSPORT 360",EUROSPORT 360 7
-https://it-zone.tech/proxy/964924
+http://tv.it-zone.tech.tech/proxy/964924
 #EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 360 8" group-title="EU- FR EUROSPORT 360",EUROSPORT 360 8
-https://it-zone.tech/proxy/964925
+http://tv.it-zone.tech.tech/proxy/964925
 #EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="FR- BEIN SPORT 1 SD" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="EU- FR BEIN SPORTS",FR- BEIN SPORT 1 SD
-https://it-zone.tech/proxy/121403
+http://tv.it-zone.tech.tech/proxy/121403
 #EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="FR- BEIN SPORT 2 SD" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="EU- FR BEIN SPORTS",FR- BEIN SPORT 2 SD
-https://it-zone.tech/proxy/121404
+http://tv.it-zone.tech.tech/proxy/121404
 #EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="FR- BEIN SPORT 3 SD" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="EU- FR BEIN SPORTS",FR- BEIN SPORT 3 SD
-https://it-zone.tech/proxy/121405
+http://tv.it-zone.tech.tech/proxy/121405
 #EXTINF:-1 tvg-ID="beinsportsmax4.fr" tvg-name="FR- BEIN  SPORTS MAX 4 SD" tvg-logo="https://i.imgur.com/bwHNMLh.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 4 SD
-https://it-zone.tech/proxy/936424
+http://tv.it-zone.tech.tech/proxy/936424
 #EXTINF:-1 tvg-ID="beinsportsmax5.fr" tvg-name="FR- BEIN  SPORTS MAX 5 SD" tvg-logo="https://i.imgur.com/8Hj8ZiT.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 5 SD
-https://it-zone.tech/proxy/936428
+http://tv.it-zone.tech.tech/proxy/936428
 #EXTINF:-1 tvg-ID="beinsportsmax6.fr" tvg-name="FR- BEIN  SPORTS MAX 6 SD" tvg-logo="https://i.imgur.com/Eh1130b.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 6 SD
-https://it-zone.tech/proxy/936427
+http://tv.it-zone.tech.tech/proxy/936427
 #EXTINF:-1 tvg-ID="beinsportsmax7.fr" tvg-name="FR- BEIN  SPORTS MAX 7 SD" tvg-logo="https://i.imgur.com/sMH0tFc.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 7 SD
-https://it-zone.tech/proxy/936426
+http://tv.it-zone.tech.tech/proxy/936426
 #EXTINF:-1 tvg-ID="beinsportsmax8.fr" tvg-name="FR- BEIN  SPORTS MAX 8 SD" tvg-logo="https://i.imgur.com/VTzzoQP.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 8 SD
-https://it-zone.tech/proxy/936425
+http://tv.it-zone.tech.tech/proxy/936425
 #EXTINF:-1 tvg-ID="beinsportsmax9.fr" tvg-name="FR- BEIN SPORTS MAX 9 SD" tvg-logo="https://i.imgur.com/dMTBut1.png" group-title="EU- FR BEIN SPORTS",FR- BEIN SPORTS MAX 9 SD
-https://it-zone.tech/proxy/936429
+http://tv.it-zone.tech.tech/proxy/936429
 #EXTINF:-1 tvg-ID="beinsportsmax10.fr" tvg-name="FR- BEIN  SPORTS MAX 10 SD" tvg-logo="https://i.imgur.com/lVB4Ao9.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 10 SD
-https://it-zone.tech/proxy/936430
+http://tv.it-zone.tech.tech/proxy/936430
 #EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="FR- BEIN  SPORTS 1 4K" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS 1 4K
-https://it-zone.tech/proxy/962495
+http://tv.it-zone.tech.tech/proxy/962495
 #EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="FR- BEIN  SPORTS 2 4K" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS 2 4K
-https://it-zone.tech/proxy/962496
+http://tv.it-zone.tech.tech/proxy/962496
 #EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="FR- BEIN  SPORTS 3 4K FR" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS 3 4K FR
-https://it-zone.tech/proxy/962497
+http://tv.it-zone.tech.tech/proxy/962497
 #EXTINF:-1 tvg-ID="beinsportsmax4.fr" tvg-name="FR- BEIN  SPORTS MAX 4 4K" tvg-logo="https://i.imgur.com/bwHNMLh.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 4 4K
-https://it-zone.tech/proxy/962498
+http://tv.it-zone.tech.tech/proxy/962498
 #EXTINF:-1 tvg-ID="beinsportsmax5.fr" tvg-name="FR- BEIN  SPORTS MAX 5 4K" tvg-logo="https://i.imgur.com/8Hj8ZiT.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 5 4K
-https://it-zone.tech/proxy/962499
+http://tv.it-zone.tech.tech/proxy/962499
 #EXTINF:-1 tvg-ID="beinsportsmax6.fr" tvg-name="FR- BEIN  SPORTS MAX 6 4K" tvg-logo="https://i.imgur.com/Eh1130b.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 6 4K
-https://it-zone.tech/proxy/962500
+http://tv.it-zone.tech.tech/proxy/962500
 #EXTINF:-1 tvg-ID="beinsportsmax7.fr" tvg-name="FR- BEIN  SPORTS MAX 7 4K" tvg-logo="https://i.imgur.com/sMH0tFc.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 7 4K
-https://it-zone.tech/proxy/962501
+http://tv.it-zone.tech.tech/proxy/962501
 #EXTINF:-1 tvg-ID="beinsportsmax8.fr" tvg-name="FR- BEIN  SPORTS MAX 8 4K" tvg-logo="https://i.imgur.com/VTzzoQP.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 8 4K
-https://it-zone.tech/proxy/962502
+http://tv.it-zone.tech.tech/proxy/962502
 #EXTINF:-1 tvg-ID="beinsportsmax9.fr" tvg-name="FR- BEIN SPORTS MAX 9 4K" tvg-logo="https://i.imgur.com/dMTBut1.png" group-title="EU- FR BEIN SPORTS",FR- BEIN SPORTS MAX 9 4K
-https://it-zone.tech/proxy/962503
+http://tv.it-zone.tech.tech/proxy/962503
 #EXTINF:-1 tvg-ID="beinsportsmax10.fr" tvg-name="FR- BEIN  SPORTS MAX 10 4K" tvg-logo="https://i.imgur.com/lVB4Ao9.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 10 4K
-https://it-zone.tech/proxy/962504
+http://tv.it-zone.tech.tech/proxy/962504
 #EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="FR- BEIN  SPORTS 1 HEVC" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS 1 HEVC
-https://it-zone.tech/proxy/130543
+http://tv.it-zone.tech.tech/proxy/130543
 #EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="FR- BEIN  SPORTS 2 HEVC" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS 2 HEVC
-https://it-zone.tech/proxy/130544
+http://tv.it-zone.tech.tech/proxy/130544
 #EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="FR- BEIN  SPORTS 3 HEVC FR" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS 3 HEVC FR
-https://it-zone.tech/proxy/130545
+http://tv.it-zone.tech.tech/proxy/130545
 #EXTINF:-1 tvg-ID="beinsportsmax4.fr" tvg-name="FR- BEIN  SPORTS MAX 4 HEVC" tvg-logo="https://i.imgur.com/bwHNMLh.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 4 HEVC
-https://it-zone.tech/proxy/936431
+http://tv.it-zone.tech.tech/proxy/936431
 #EXTINF:-1 tvg-ID="beinsportsmax5.fr" tvg-name="FR- BEIN  SPORTS MAX 5 HEVC" tvg-logo="https://i.imgur.com/8Hj8ZiT.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 5 HEVC
-https://it-zone.tech/proxy/936435
+http://tv.it-zone.tech.tech/proxy/936435
 #EXTINF:-1 tvg-ID="beinsportsmax6.fr" tvg-name="FR- BEIN  SPORTS MAX 6 HEVC" tvg-logo="https://i.imgur.com/Eh1130b.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 6 HEVC
-https://it-zone.tech/proxy/936434
+http://tv.it-zone.tech.tech/proxy/936434
 #EXTINF:-1 tvg-ID="beinsportsmax7.fr" tvg-name="FR- BEIN  SPORTS MAX 7 HEVC" tvg-logo="https://i.imgur.com/sMH0tFc.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 7 HEVC
-https://it-zone.tech/proxy/936433
+http://tv.it-zone.tech.tech/proxy/936433
 #EXTINF:-1 tvg-ID="" tvg-name="FR- BEIN  SPORTS MAX 8 HEVC" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 8 HEVC
-https://it-zone.tech/proxy/936432
+http://tv.it-zone.tech.tech/proxy/936432
 #EXTINF:-1 tvg-ID="beinsportsmax9.fr" tvg-name="FR- BEIN SPORTS MAX 9 HEVC" tvg-logo="https://i.imgur.com/dMTBut1.png" group-title="EU- FR BEIN SPORTS",FR- BEIN SPORTS MAX 9 HEVC
-https://it-zone.tech/proxy/936436
+http://tv.it-zone.tech.tech/proxy/936436
 #EXTINF:-1 tvg-ID="beinsportsmax10.fr" tvg-name="FR- BEIN  SPORTS MAX 10 HEVC" tvg-logo="https://i.imgur.com/lVB4Ao9.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 10 HEVC
-https://it-zone.tech/proxy/936437
+http://tv.it-zone.tech.tech/proxy/936437
 #EXTINF:-1 tvg-ID="RMCTalkSport.fr" tvg-name="FR- RMC TALK SPORT" group-title="EU- FR RMC SPORTS",FR- RMC TALK SPORT
-https://it-zone.tech/proxy/1742957
+http://tv.it-zone.tech.tech/proxy/1742957
 #EXTINF:-1 tvg-ID="" tvg-name="FR- RMC SPORT 1 SD" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 1 SD
-https://it-zone.tech/proxy/121406
+http://tv.it-zone.tech.tech/proxy/121406
 #EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="FR- RMC SPORT 2 SD" tvg-logo="https://i.imgur.com/nZd8aPo.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 2 SD
-https://it-zone.tech/proxy/121407
+http://tv.it-zone.tech.tech/proxy/121407
 #EXTINF:-1 tvg-ID="rmcsport3.fr" tvg-name="FR- RMC SPORT 3 SD" tvg-logo="https://i.imgur.com/37GNibZ.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 3 SD
-https://it-zone.tech/proxy/121408
+http://tv.it-zone.tech.tech/proxy/121408
 #EXTINF:-1 tvg-ID="rmcsport4.fr" tvg-name="FR- RMC SPORT 4 SD" tvg-logo="https://i.imgur.com/86gygYV.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 4 SD
-https://it-zone.tech/proxy/121409
+http://tv.it-zone.tech.tech/proxy/121409
 #EXTINF:-1 tvg-ID="" tvg-name="FR- RMC SPORT 5 SD" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 5 SD
-https://it-zone.tech/proxy/936354
+http://tv.it-zone.tech.tech/proxy/936354
 #EXTINF:-1 tvg-ID="rmcsport1.fr" tvg-name="FR- RMC SPORT 1 4K" tvg-logo="https://i.imgur.com/NsFTG7u.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 1 4K
-https://it-zone.tech/proxy/962618
+http://tv.it-zone.tech.tech/proxy/962618
 #EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="FR- RMC SPORT 2 4K" tvg-logo="https://i.imgur.com/nZd8aPo.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 2 4K
-https://it-zone.tech/proxy/962619
+http://tv.it-zone.tech.tech/proxy/962619
 #EXTINF:-1 tvg-ID="01tv.fr" tvg-name="FR- RMC SPORT 3 4K" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 3 4K
-https://it-zone.tech/proxy/962620
+http://tv.it-zone.tech.tech/proxy/962620
 #EXTINF:-1 tvg-ID="01tv.fr" tvg-name="FR- RMC SPORT 4 4K" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 4 4K
-https://it-zone.tech/proxy/962621
+http://tv.it-zone.tech.tech/proxy/962621
 #EXTINF:-1 tvg-ID="rmcsportlive5.fr" tvg-name="FR- RMC SPORT 5 4K" tvg-logo="https://i.imgur.com/rkhDtbF.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 5 4K
-https://it-zone.tech/proxy/962622
+http://tv.it-zone.tech.tech/proxy/962622
 #EXTINF:-1 tvg-ID="MultiSports1.fr" tvg-name="MULTISPORTS 1" tvg-logo="https://i.imgur.com/sWKVs7F.png" group-title="EU- FR MULTISPORT",MULTISPORTS 1
-https://it-zone.tech/proxy/637724
+http://tv.it-zone.tech.tech/proxy/637724
 #EXTINF:-1 tvg-ID="MultiSports2.fr" tvg-name="MULTISPORTS 2" tvg-logo="https://i.imgur.com/AXSgo41.png" group-title="EU- FR MULTISPORT",MULTISPORTS 2
-https://it-zone.tech/proxy/637725
+http://tv.it-zone.tech.tech/proxy/637725
 #EXTINF:-1 tvg-ID="MultiSports3.fr" tvg-name="MULTISPORTS 3" tvg-logo="https://i.imgur.com/ol2qxLM.png" group-title="EU- FR MULTISPORT",MULTISPORTS 3
-https://it-zone.tech/proxy/637726
+http://tv.it-zone.tech.tech/proxy/637726
 #EXTINF:-1 tvg-ID="MultiSports4.fr" tvg-name="MULTISPORTS 4" tvg-logo="https://i.imgur.com/tgvNLyy.png" group-title="EU- FR MULTISPORT",MULTISPORTS 4
-https://it-zone.tech/proxy/637727
+http://tv.it-zone.tech.tech/proxy/637727
 #EXTINF:-1 tvg-ID="MultiSports5.fr" tvg-name="MULTISPORTS 5" tvg-logo="https://i.imgur.com/fFmTJwV.png" group-title="EU- FR MULTISPORT",MULTISPORTS 5
-https://it-zone.tech/proxy/637728
+http://tv.it-zone.tech.tech/proxy/637728
 #EXTINF:-1 tvg-ID="MultiSports6.fr" tvg-name="MULTISPORTS 6" tvg-logo="https://i.imgur.com/qD53BMA.png" group-title="EU- FR MULTISPORT",MULTISPORTS 6
-https://it-zone.tech/proxy/637729
+http://tv.it-zone.tech.tech/proxy/637729
 #EXTINF:-1 tvg-ID="MultiSports7.fr" tvg-name="MULTISPORTS 7" group-title="EU- FR MULTISPORT",MULTISPORTS 7
-https://it-zone.tech/proxy/637730
+http://tv.it-zone.tech.tech/proxy/637730
 #EXTINF:-1 tvg-ID="re#160625" tvg-name="C+AF- CANAL+ SPORTS 1 SD" tvg-logo="http://102.177.177.154/logos/picons/logos/canalplussporthd.png" group-title="AF- C+ SPORTS",C+AF- CANAL+ SPORTS 1 SD
-https://it-zone.tech/proxy/1163433
+http://tv.it-zone.tech.tech/proxy/1163433
 #EXTINF:-1 tvg-ID="re#160124" tvg-name="C+AF- CANAL+ SPORTS 2 SD" tvg-logo="http://102.177.177.154/logos/picons/logos/canalplussporthd2.png" group-title="AF- C+ SPORTS",C+AF- CANAL+ SPORTS 2 SD
-https://it-zone.tech/proxy/1163435
+http://tv.it-zone.tech.tech/proxy/1163435
 #EXTINF:-1 tvg-ID="re#160149" tvg-name="C+AF- CANAL+ SPORTS 3 SD" tvg-logo="http://102.177.177.154/logos/picons/logos/canalplussporthd3.png" group-title="AF- C+ SPORTS",C+AF- CANAL+ SPORTS 3 SD
-https://it-zone.tech/proxy/1163437
+http://tv.it-zone.tech.tech/proxy/1163437
 #EXTINF:-1 tvg-ID="re#160393" tvg-name="C+AF- CANAL+ SPORTS 4 SD" tvg-logo="http://102.177.177.154/logos/picons/logos/canalplussporthd4.png" group-title="AF- C+ SPORTS",C+AF- CANAL+ SPORTS 4 SD
-https://it-zone.tech/proxy/1163439
+http://tv.it-zone.tech.tech/proxy/1163439
 #EXTINF:-1 tvg-ID="re#160394" tvg-name="C+AF- CANAL+ SPORTS 5 sd" tvg-logo="http://102.177.177.154/logos/picons/logos/canalplussporthd.png" group-title="AF- C+ SPORTS",C+AF- CANAL+ SPORTS 5 sd
-https://it-zone.tech/proxy/1163441
+http://tv.it-zone.tech.tech/proxy/1163441
 #EXTINF:-1 tvg-ID="re#160394" tvg-name="C+AF- CANAL+ SPORTS 5HD" tvg-logo="http://102.177.177.154/logos/picons/logos/canalplussporthd.png" group-title="AF- C+ SPORTS",C+AF- CANAL+ SPORTS 5HD
-https://it-zone.tech/proxy/1163440
+http://tv.it-zone.tech.tech/proxy/1163440
 #EXTINF:-1 tvg-ID="" tvg-name="C+AF- CANAL+ Formule 1" group-title="AF- C+ SPORTS",C+AF- CANAL+ Formule 1
-https://it-zone.tech/proxy/1163442
+http://tv.it-zone.tech.tech/proxy/1163442
 #EXTINF:-1 tvg-ID="" tvg-name="C+AF- CANAL+ Moto GP" group-title="AF- C+ SPORTS",C+AF- CANAL+ Moto GP
-https://it-zone.tech/proxy/1163443
+http://tv.it-zone.tech.tech/proxy/1163443
 #EXTINF:-1 tvg-ID="" tvg-name="C+ RÉU- REUNION 1ERE" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/REUNION-1ERE.png" group-title="AF- C+ RÉUNION",C+ RÉU- REUNION 1ERE
-https://it-zone.tech/proxy/1163420
+http://tv.it-zone.tech.tech/proxy/1163420
 #EXTINF:-1 tvg-ID="re#160799" tvg-name="C+ RÉU- NOVEGASY" group-title="AF- C+ RÉUNION",C+ RÉU- NOVEGASY
-https://it-zone.tech/proxy/1163347
+http://tv.it-zone.tech.tech/proxy/1163347
 #EXTINF:-1 tvg-ID="re#160333" tvg-name="C+ RÉU- VIVA" group-title="AF- C+ RÉUNION",C+ RÉU- VIVA
-https://it-zone.tech/proxy/1163367
+http://tv.it-zone.tech.tech/proxy/1163367
 #EXTINF:-1 tvg-ID="re#160330" tvg-name="C+ RÉU- TV PLUS" group-title="AF- C+ RÉUNION",C+ RÉU- TV PLUS
-https://it-zone.tech/proxy/1163390
+http://tv.it-zone.tech.tech/proxy/1163390
 #EXTINF:-1 tvg-ID="re#160194" tvg-name="C+ RÉU- TVM" group-title="AF- C+ RÉUNION",C+ RÉU- TVM
-https://it-zone.tech/proxy/1163391
+http://tv.it-zone.tech.tech/proxy/1163391
 #EXTINF:-1 tvg-ID="re#160331" tvg-name="C+ RÉU- KOLO TV" group-title="AF- C+ RÉUNION",C+ RÉU- KOLO TV
-https://it-zone.tech/proxy/1163384
+http://tv.it-zone.tech.tech/proxy/1163384
 #EXTINF:-1 tvg-ID="" tvg-name="C+ RÉU- RTA" group-title="AF- C+ RÉUNION",C+ RÉU- RTA
-https://it-zone.tech/proxy/1163397
+http://tv.it-zone.tech.tech/proxy/1163397
 #EXTINF:-1 tvg-ID="re#160413" tvg-name="C+ RÉU- RECORD" group-title="AF- C+ RÉUNION",C+ RÉU- RECORD
-https://it-zone.tech/proxy/1163394
+http://tv.it-zone.tech.tech/proxy/1163394
 #EXTINF:-1 tvg-ID="abcnewslive.us" tvg-name="US- ABC NEWS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/ABC-.png" group-title="VIP US- NEWS",US- ABC NEWS
-https://it-zone.tech/proxy/966972
+http://tv.it-zone.tech.tech/proxy/966972
 #EXTINF:-1 tvg-ID="nbc4knbc.us" tvg-name="US- NBC LOS ANGELES" tvg-logo="http://logo.protv.cc/picons/logos/USA/NBC-LOS-ANGELES.png" group-title="VIP US- NEWS",US- NBC LOS ANGELES
-https://it-zone.tech/proxy/967006
+http://tv.it-zone.tech.tech/proxy/967006
 #EXTINF:-1 tvg-ID="nbc10wcau.us" tvg-name="US- NBC PHILADELPHIA" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/NBC-10-PHILADELPHIA.jpg" group-title="VIP US- NEWS",US- NBC PHILADELPHIA
-https://it-zone.tech/proxy/967007
+http://tv.it-zone.tech.tech/proxy/967007
 #EXTINF:-1 tvg-ID="" tvg-name="US- ABC  2 (KQTV ) ST JOSEPH" tvg-logo="http://logo.protv.cc/picons/logos/ABC-28-LUBBOCK.jpg" group-title="VIP US- ABC NETWORK",US- ABC  2 (KQTV ) ST JOSEPH
-https://it-zone.tech/proxy/972267
+http://tv.it-zone.tech.tech/proxy/972267
 #EXTINF:-1 tvg-ID="abcnewslive.us" tvg-name="US- ABC NEWS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/ABC-.png" group-title="VIP US- NEWS",US- ABC NEWS
-https://it-zone.tech/proxy/966972
+http://tv.it-zone.tech.tech/proxy/966972
 #EXTINF:-1 tvg-ID="wcbs.us" tvg-name="US- CBS NEWS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/cbsnews.png" group-title="VIP US- NEWS",US- CBS NEWS
-https://it-zone.tech/proxy/966980
+http://tv.it-zone.tech.tech/proxy/966980
 #EXTINF:-1 tvg-ID="bravo.us" tvg-name="US- BRAVO" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bravo.png" group-title="VIP US- ENTERTAINMENT",US- BRAVO
-https://it-zone.tech/proxy/967071
+http://tv.it-zone.tech.tech/proxy/967071
 #EXTINF:-1 tvg-ID="eentertainment.us" tvg-name="US- E! ENTERTAINMENT" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/eentertainmenthd.png" group-title="VIP US- ENTERTAINMENT",US- E! ENTERTAINMENT
-https://it-zone.tech/proxy/967098
+http://tv.it-zone.tech.tech/proxy/967098
 #EXTINF:-1 tvg-ID="tnt.us" tvg-name="US- TNT" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/TNT-HD.png" group-title="VIP US- ENTERTAINMENT",US- TNT
-https://it-zone.tech/proxy/967212
+http://tv.it-zone.tech.tech/proxy/967212
 #EXTINF:-1 tvg-ID="tlc.us" tvg-name="US- TLC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/TLC-WEST-HD.png" group-title="VIP US- ENTERTAINMENT",US- TLC
-https://it-zone.tech/proxy/967210
+http://tv.it-zone.tech.tech/proxy/967210
 #EXTINF:-1 tvg-ID="mtv.us" tvg-name="US- MTV" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/mtv.png" group-title="VIP US- ENTERTAINMENT",US- MTV
-https://it-zone.tech/proxy/967159
+http://tv.it-zone.tech.tech/proxy/967159
 #EXTINF:-1 tvg-ID="pbskids.us" tvg-name="US- PBS KIDS" tvg-logo="http://logo.protv.cc/picons/logos/PBS-KIDS.jpg" group-title="VIP US- KIDS",US- PBS KIDS
-https://it-zone.tech/proxy/973069
+http://tv.it-zone.tech.tech/proxy/973069
 #EXTINF:-1 tvg-ID="historychannel.us" tvg-name="US- HISTORY" tvg-logo="http://logo.protv.cc/picons/logos/HISTORY-HD.jpg" group-title="VIP US- ENTERTAINMENT",US- HISTORY
-https://it-zone.tech/proxy/967134
+http://tv.it-zone.tech.tech/proxy/967134
 #EXTINF:-1 tvg-ID="discoverychannel.us" tvg-name="US- DISCOVERY" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/discoverys.png" group-title="VIP US- ENTERTAINMENT",US- DISCOVERY
-https://it-zone.tech/proxy/967091
+http://tv.it-zone.tech.tech/proxy/967091
 #EXTINF:-1 tvg-ID="vh1.us" tvg-name="US- VH1" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/vh1.png" group-title="VIP US- ENTERTAINMENT",US- VH1
-https://it-zone.tech/proxy/967229
+http://tv.it-zone.tech.tech/proxy/967229
 #EXTINF:-1 tvg-ID="" tvg-name="US- ESPN 2" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/espn2.png" group-title="VIP US- USA SPORTS",US- ESPN 2
-https://it-zone.tech/proxy/969811
+http://tv.it-zone.tech.tech/proxy/969811
 #EXTINF:-1 tvg-ID="espn.us" tvg-name="US- ESPN" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/espnhd.png" group-title="VIP US- USA SPORTS",US- ESPN
-https://it-zone.tech/proxy/969810
+http://tv.it-zone.tech.tech/proxy/969810
 #EXTINF:-1 tvg-ID="espnnews.us" tvg-name="US- ESPN NEWS" tvg-logo="http://logo.protv.cc/picons/logos/ESPN-NEWS-HD.png" group-title="VIP US- USA SPORTS",US- ESPN NEWS
-https://it-zone.tech/proxy/969812
+http://tv.it-zone.tech.tech/proxy/969812
 #EXTINF:-1 tvg-ID="espnu.us" tvg-name="US- ESPN U" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/ESPN-U-HD.png" group-title="VIP US- USA SPORTS",US- ESPN U
-https://it-zone.tech/proxy/969813
+http://tv.it-zone.tech.tech/proxy/969813
 #EXTINF:-1 tvg-ID="" tvg-name="US- NAT GEO" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/natgeohd.png" group-title="VIP US- ENTERTAINMENT",US- NAT GEO
-https://it-zone.tech/proxy/967172
+http://tv.it-zone.tech.tech/proxy/967172
 #EXTINF:-1 tvg-ID="" tvg-name="US- NAT GEO WILD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/laz.natgeowildhd.png" group-title="VIP US- ENTERTAINMENT",US- NAT GEO WILD
-https://it-zone.tech/proxy/967173
+http://tv.it-zone.tech.tech/proxy/967173
 #EXTINF:-1 tvg-ID="" tvg-name="XXX- Cum 4k UHD" tvg-logo="" group-title="Foradults",XXX- Cum 4k UHD
-https://it-zone.tech/proxy/1602752
+http://tv.it-zone.tech.tech/proxy/1602752
 #EXTINF:-1 tvg-ID="" tvg-name="XXX- Brazzers" tvg-logo="" group-title="Foradults",XXX- Brazzers
-https://it-zone.tech/proxy/1602732
+http://tv.it-zone.tech.tech/proxy/1602732
 #EXTINF:-1 tvg-ID="" tvg-name="XXX- Public Agent" tvg-logo="" group-title="Foradults",XXX- Public Agent
-https://it-zone.tech/proxy/1602750
+http://tv.it-zone.tech.tech/proxy/1602750
