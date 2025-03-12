@@ -471,6 +471,8 @@ https://tv.it-zone.tech/proxy/963582
 https://tv.it-zone.tech/proxy/963583
 #EXTINF:-1 tvg-name="FR- TF1 SERIES / FILMS FHD"tvg-logo="https://i.imgur.com/4CJIDKQ.png"group-title="EU- FR GENERAL",FR- TF1 SERIES / FILMS FHD
 https://tv.it-zone.tech/proxy/963584
+#EXTINF:-1 tvg-name="UK- BBC News"tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/bbcnewshd.png"group-title="EU- UK GENERAL",UK- BBC News
+https://tv.it-zone.tech/proxy/416583
 #EXTINF:-1 tvg-name="FR 4K- CANAL+ UHD"tvg-logo="https://i.imgur.com/5HcyMnW.png"group-title="EU- FR 4K UHD",FR 4K- CANAL+ UHD
 https://tv.it-zone.tech/proxy/964914
 #EXTINF:-1 tvg-name="FR 4K- CANAL+"tvg-logo="https://i.imgur.com/5HcyMnW.png"group-title="EU- FR 4K UHD",FR 4K- CANAL+
@@ -663,8 +665,6 @@ https://tv.it-zone.tech/proxy/964250
 https://tv.it-zone.tech/proxy/964251
 #EXTINF:-1 tvg-name="FR- FRANCE INFO FHD"tvg-logo="https://i.imgur.com/eITXz6A.png"group-title="EU- FR INFORMATION",FR- FRANCE INFO FHD
 https://tv.it-zone.tech/proxy/964252
-#EXTINF:-1 tvg-name="UK- BBC News"tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/bbcnewshd.png"group-title="EU- UK GENERAL",UK- BBC News
-https://tv.it-zone.tech/proxy/416583
 #EXTINF:-1 tvg-name="FR 4K- CANAL+ SPORT"tvg-logo="https://i.imgur.com/EOXnU15.png"group-title="EU- FR 4K UHD",FR 4K- CANAL+ SPORT
 https://tv.it-zone.tech/proxy/964823
 #EXTINF:-1 tvg-name="FR- CANAL+ SPORT SD"tvg-logo="https://i.imgur.com/EOXnU15.png"group-title="EU- FR SPORTS",FR- CANAL+ SPORT SD
