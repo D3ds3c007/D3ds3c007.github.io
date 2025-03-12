@@ -375,6 +375,8 @@ https://tv.it-zone.tech/proxy/964923
 https://tv.it-zone.tech/proxy/964924
 #EXTINF:-1 tvg-name="EUROSPORT 360 8"tvg-logo=""group-title="EU- FR EUROSPORT 360",EUROSPORT 360 8
 https://tv.it-zone.tech/proxy/964925
+#EXTINF:-1 tvg-ID="" tvg-name="DSTV  SuperSport MáXimo 1" tvg-logo="http://102.177.177.154/logos/picons/logos/supersport1maximo.png" group-title="AF- DSTV SPORTS",DSTV  SuperSport MáXimo 1
+https://tv.it-zone.tech/proxy/1524118
 #EXTINF:-1 tvg-name="FR- BEIN  SPORTS MAX 8 HEVC"tvg-logo=""group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 8 HEVC
 https://tv.it-zone.tech/proxy/936432
 #EXTINF:-1 tvg-name="FR- RMC TALK SPORT"tvg-logo=""group-title="EU- FR RMC SPORTS",FR- RMC TALK SPORT
