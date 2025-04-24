@@ -779,6 +779,12 @@ https://tv.it-zone.tech/proxy/964122
 https://tv.it-zone.tech/proxy/964123
 #EXTINF:-1 tvg-ID="animaux.fr" tvg-name="FR- ANIMAUX FHD" tvg-logo="https://i.imgur.com/FM9FVAG.png" group-title="EU- FR CULTURE",FR- ANIMAUX FHD
 https://tv.it-zone.tech/proxy/964124
+#EXTINF:-1 tvg-ID="museum.fr" tvg-name="FR- E! ENTERTAINMENT SD" tvg-logo="http://102.177.177.154/logos/picons/logos/E!-ENTERTAINMENT-HD.jpg" group-title="EU- FR CULTURE",FR- E! ENTERTAINMENT SD
+https://tv.it-zone.tech/proxy/1758244
+#EXTINF:-1 tvg-ID="museum.fr" tvg-name="FR- E! ENTERTAINMENT HD" tvg-logo="http://102.177.177.154/logos/picons/logos/E!-ENTERTAINMENT-HD.jpg" group-title="EU- FR CULTURE",FR- E! ENTERTAINMENT HD
+https://tv.it-zone.tech/proxy/1758243
+#EXTINF:-1 tvg-ID="museum.fr" tvg-name="FR- E! ENTERTAINMENT FHD" tvg-logo="http://102.177.177.154/logos/picons/logos/E!-ENTERTAINMENT-HD.jpg" group-title="EU- FR CULTURE",FR- E! ENTERTAINMENT FHD
+https://tv.it-zone.tech/proxy/1758242
 #EXTINF:-1 tvg-ID="canalplusdocs.fr" tvg-name="FR- CANAL+ DOCS SD" tvg-logo="https://i.imgur.com/WFXhE8f.png" group-title="EU- FR CULTURE",FR- CANAL+ DOCS SD
 https://tv.it-zone.tech/proxy/964077
 #EXTINF:-1 tvg-ID="canalplusdocs.fr" tvg-name="FR- CANAL+ DOCS HD" tvg-logo="https://i.imgur.com/WFXhE8f.png" group-title="EU- FR CULTURE",FR- CANAL+ DOCS HD
