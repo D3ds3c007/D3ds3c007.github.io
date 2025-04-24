@@ -1015,80 +1015,223 @@ https://tv.it-zone.tech/proxy/1036202
 https://tv.it-zone.tech/proxy/1036201
 #EXTINF:-1 tvg-ID="" tvg-name="SKWEEK  24/7 FHD" group-title="EU- FR SKWEEK EVENT",SKWEEK  24/7 FHD
 https://tv.it-zone.tech/proxy/1092332
-#EXTINF:-1 tvg-ID="canalplussport360.fr" tvg-name="FR- CANAL+ SPORT 360 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="EU- FR SPORTS",FR- CANAL+ SPORT 360 SD
-https://tv.it-zone.tech/proxy/963903
-#EXTINF:-1 tvg-ID="canalplussport360.fr" tvg-name="FR- CANAL+ SPORT 360 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="EU- FR SPORTS",FR- CANAL+ SPORT 360 HD
-https://tv.it-zone.tech/proxy/963904
-#EXTINF:-1 tvg-ID="canalplussport360.fr" tvg-name="FR-  CANAL+ SPORT 360 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="EU- FR SPORTS",FR-  CANAL+ SPORT 360 FHD
-https://tv.it-zone.tech/proxy/963905
-#EXTINF:-1 tvg-ID="canalplusfoot.fr" tvg-name="FR- CANAL+ FOOT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png" group-title="EU- FR SPORTS",FR- CANAL+ FOOT SD
-https://tv.it-zone.tech/proxy/963900
-#EXTINF:-1 tvg-ID="canalplusfoot.fr" tvg-name="FR- CANAL+ FOOT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png" group-title="EU- FR SPORTS",FR- CANAL+ FOOT HD
-https://tv.it-zone.tech/proxy/963901
-#EXTINF:-1 tvg-ID="canalplusfoot.fr" tvg-name="FR- CANAL+ FOOT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png" group-title="EU- FR SPORTS",FR- CANAL+ FOOT FHD
-https://tv.it-zone.tech/proxy/963902
-#EXTINF:-1 tvg-ID="canalpluspremierleague.fr" tvg-name="FR- CANAL+ PREMIER LEAGUE SD" tvg-logo="https://i.imgur.com/aKFlhRO.png" group-title="EU- FR SPORTS",FR- CANAL+ PREMIER LEAGUE SD
-https://tv.it-zone.tech/proxy/963906
-#EXTINF:-1 tvg-ID="canalplussport.fr" tvg-name="FR- CANAL+ SPORT SD" tvg-logo="https://i.imgur.com/EOXnU15.png" group-title="EU- FR SPORTS",FR- CANAL+ SPORT SD
-https://tv.it-zone.tech/proxy/963897
-#EXTINF:-1 tvg-ID="canalplussport.fr" tvg-name="FR- CANAL+ SPORT HD" tvg-logo="https://i.imgur.com/EOXnU15.png" group-title="EU- FR SPORTS",FR- CANAL+ SPORT HD
-https://tv.it-zone.tech/proxy/963898
-#EXTINF:-1 tvg-ID="canalplussport.fr" tvg-name="FR- CANAL+ SPORT FHD" tvg-logo="https://i.imgur.com/EOXnU15.png" group-title="EU- FR SPORTS",FR- CANAL+ SPORT FHD
-https://tv.it-zone.tech/proxy/963899
-#EXTINF:-1 tvg-ID="LEquipe21.fr" tvg-name="FR- L'EQUIPE 21 SD" group-title="EU- FR SPORTS",FR- L'EQUIPE 21 SD
-https://tv.it-zone.tech/proxy/963927
-#EXTINF:-1 tvg-ID="LEquipe21.fr" tvg-name="FR- L'EQUIPE 21 HD" group-title="EU- FR SPORTS",FR- L'EQUIPE 21 HD
-https://tv.it-zone.tech/proxy/963928
-#EXTINF:-1 tvg-ID="LEquipe21.fr" tvg-name="FR- L'EQUIPE 21 FHD" group-title="EU- FR SPORTS",FR- L'EQUIPE 21 FHD
-https://tv.it-zone.tech/proxy/963929
-#EXTINF:-1 tvg-ID="equidia.fr" tvg-name="FR- EQUIDIA LIVE SD" tvg-logo="https://i.imgur.com/QPpbRcZ.png" group-title="EU- FR SPORTS",FR- EQUIDIA LIVE SD
-https://tv.it-zone.tech/proxy/963945
-#EXTINF:-1 tvg-ID="equidia.fr" tvg-name="FR- EQUIDIA LIVE HD" tvg-logo="https://i.imgur.com/QPpbRcZ.png" group-title="EU- FR SPORTS",FR- EQUIDIA LIVE HD
-https://tv.it-zone.tech/proxy/963946
-#EXTINF:-1 tvg-ID="equidia.fr" tvg-name="FR- EQUIDIA LIVE FHD" tvg-logo="https://i.imgur.com/QPpbRcZ.png" group-title="EU- FR SPORTS",FR- EQUIDIA LIVE FHD
-https://tv.it-zone.tech/proxy/963947
-#EXTINF:-1 tvg-ID="infosportplus.fr" tvg-name="FR- INFOSPORT+ SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Infosport%2B_%282016%29.svg/langfr-512px-Infosport%2B_%282016%29.svg.png" group-title="EU- FR SPORTS",FR- INFOSPORT+ SD
-https://tv.it-zone.tech/proxy/964407
-#EXTINF:-1 tvg-ID="infosportplus.fr" tvg-name="FR- INFOSPORT+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Infosport%2B_%282016%29.svg/langfr-512px-Infosport%2B_%282016%29.svg.png" group-title="EU- FR SPORTS",FR- INFOSPORT+ HD
-https://tv.it-zone.tech/proxy/964408
-#EXTINF:-1 tvg-ID="infosportplus.fr" tvg-name="FR-  INFOSPORT+ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Infosport%2B_%282016%29.svg/langfr-512px-Infosport%2B_%282016%29.svg.png" group-title="EU- FR SPORTS",FR-  INFOSPORT+ FHD
-https://tv.it-zone.tech/proxy/964409
-#EXTINF:-1 tvg-ID="Automotolachaine.fr" tvg-name="FR- AUTO MOTO LA CHAINE FHD" tvg-logo="https://i.imgur.com/ebf2uc7.png" group-title="EU- FR SPORTS",FR- AUTO MOTO LA CHAINE FHD
-https://tv.it-zone.tech/proxy/963941
-#EXTINF:-1 tvg-ID="Automotolachaine.fr" tvg-name="FR- AUTO MOTO LA CHAINE HD" tvg-logo="https://i.imgur.com/ebf2uc7.png" group-title="EU- FR SPORTS",FR- AUTO MOTO LA CHAINE HD
-https://tv.it-zone.tech/proxy/963940
-#EXTINF:-1 tvg-ID="Automotolachaine.fr" tvg-name="FR- AUTO MOTO LA CHAINE SD" tvg-logo="https://i.imgur.com/ebf2uc7.png" group-title="EU- FR SPORTS",FR- AUTO MOTO LA CHAINE SD
-https://tv.it-zone.tech/proxy/963939
-#EXTINF:-1 tvg-ID="eurosport1.fr" tvg-name="FR- EUROSPORT 1 HD" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="EU- FR SPORTS",FR- EUROSPORT 1 HD
-https://tv.it-zone.tech/proxy/963922
-#EXTINF:-1 tvg-ID="eurosport1.fr" tvg-name="FR- EUROSPORT 1 FHD" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="EU- FR SPORTS",FR- EUROSPORT 1 FHD
-https://tv.it-zone.tech/proxy/963923
-#EXTINF:-1 tvg-ID="eurosport2.fr" tvg-name="FR- EUROSPORT 2 SD" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="EU- FR SPORTS",FR- EUROSPORT 2 SD
-https://tv.it-zone.tech/proxy/963924
-#EXTINF:-1 tvg-ID="eurosport2.fr" tvg-name="FR- EUROSPORT 2 HD" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="EU- FR SPORTS",FR- EUROSPORT 2 HD
-https://tv.it-zone.tech/proxy/963925
-#EXTINF:-1 tvg-ID="eurosport2.fr" tvg-name="FR- EUROSPORT 2 FHD" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="EU- FR SPORTS",FR- EUROSPORT 2 FHD
-https://tv.it-zone.tech/proxy/963926
-#EXTINF:-1 tvg-ID="golfplus.fr" tvg-name="FR- GOLF + SD" tvg-logo="https://i.imgur.com/WHnddkg.png" group-title="EU- FR SPORTS",FR- GOLF + SD
-https://tv.it-zone.tech/proxy/963933
-#EXTINF:-1 tvg-ID="golfplus.fr" tvg-name="FR- GOLF + HD" tvg-logo="https://i.imgur.com/WHnddkg.png" group-title="EU- FR SPORTS",FR- GOLF + HD
-https://tv.it-zone.tech/proxy/963934
-#EXTINF:-1 tvg-ID="golfplus.fr" tvg-name="FR- GOLF+ FHD" tvg-logo="https://i.imgur.com/WHnddkg.png" group-title="EU- FR SPORTS",FR- GOLF+ FHD
-https://tv.it-zone.tech/proxy/963935
-#EXTINF:-1 tvg-ID="golfchannel.fr" tvg-name="FR- GOLF CHANNEL FHD" group-title="EU- FR SPORTS",FR- GOLF CHANNEL FHD
-https://tv.it-zone.tech/proxy/963932
-#EXTINF:-1 tvg-ID="nauticalchannel.fr" tvg-name="FR- NAUTICAL CHANNEL SD" group-title="EU- FR SPORTS",FR- NAUTICAL CHANNEL SD
-https://tv.it-zone.tech/proxy/963948
-#EXTINF:-1 tvg-ID="nauticalchannel.fr" tvg-name="FR- NAUTICAL CHANNEL HD" group-title="EU- FR SPORTS",FR- NAUTICAL CHANNEL HD
-https://tv.it-zone.tech/proxy/963949
-#EXTINF:-1 tvg-ID="nauticalchannel.fr" tvg-name="FR- NAUTICAL CHANNEL FHD" group-title="EU- FR SPORTS",FR- NAUTICAL CHANNEL FHD
-https://tv.it-zone.tech/proxy/963950
-#EXTINF:-1 tvg-ID="2837" tvg-name="FR- Sport en France SD" group-title="EU- FR SPORTS",FR- Sport en France SD
-https://tv.it-zone.tech/proxy/963951
-#EXTINF:-1 tvg-ID="2837" tvg-name="FR- Sport en France HD" group-title="EU- FR SPORTS",FR- Sport en France HD
-https://tv.it-zone.tech/proxy/963952
-#EXTINF:-1 tvg-ID="2837" tvg-name="FR- Sport en France FHD" group-title="EU- FR SPORTS",FR- Sport en France FHD
-https://tv.it-zone.tech/proxy/963953
+
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ 360 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10038.png?13147" group-title="FR| SPORT HD/4K",FR: CANAL+ 360 HD
+https://tv.it-zone.tech/proxy2/394813
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ FOOT 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10020.jpg?ver=11693" group-title="FR| SPORT HD/4K",FR: CANAL+ FOOT 4K
+https://tv.it-zone.tech/proxy2/394814
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ SPORT 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6333.jpg?14261" group-title="FR| SPORT HD/4K",FR: CANAL+ SPORT 4K
+https://tv.it-zone.tech/proxy2/599983
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ SPORT HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6333.jpg?14261" group-title="FR| SPORT HD/4K",FR: CANAL+ SPORT HD
+https://tv.it-zone.tech/proxy2/207154
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ FORMULA1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13263.png?78854" group-title="FR| SPORT HD/4K",FR: CANAL+ FORMULA1 4K
+https://tv.it-zone.tech/proxy2/529213
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Ligue1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12477.jpg?84603" group-title="FR| SPORT HD/4K",FR: CANAL+ Ligue1 4K
+https://tv.it-zone.tech/proxy2/636429
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1366.png?45033" group-title="FR| SPORT HD/4K",FR: BEIN SPORTS 1 4K
+https://tv.it-zone.tech/proxy2/107005
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN SPORTS 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1366.png?45033" group-title="FR| SPORT HD/4K",FR: beIN SPORTS 1 HD
+https://tv.it-zone.tech/proxy2/220942
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN SPORTS 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/532.png?33638" group-title="FR| SPORT HD/4K",FR: beIN SPORTS 2 HD
+https://tv.it-zone.tech/proxy2/220941
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 2 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/532.png?48273" group-title="FR| SPORT HD/4K",FR: BEIN SPORTS 2 4K
+https://tv.it-zone.tech/proxy2/107006
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 3 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/533.png?52675" group-title="FR| SPORT HD/4K",FR: BEIN SPORTS 3 4K
+https://tv.it-zone.tech/proxy2/107007
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN SPORTS 3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/533.png?53803" group-title="FR| SPORT HD/4K",FR: beIN SPORTS 3 HD
+https://tv.it-zone.tech/proxy2/220940
+#EXTINF:-1 tvg-id="Bein4Max.fr" tvg-name="FR: BEIN MAX 4 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6347.jpg?49213" group-title="FR| SPORT HD/4K",FR: BEIN MAX 4 HD
+https://tv.it-zone.tech/proxy2/207216
+#EXTINF:-1 tvg-id="Bein5Max.fr" tvg-name="FR: BEIN MAX 5 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6354.jpg?70649" group-title="FR| SPORT HD/4K",FR: BEIN MAX 5 HD
+https://tv.it-zone.tech/proxy2/207217
+#EXTINF:-1 tvg-id="Bein6Max.fr" tvg-name="FR: BEIN MAX 6 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6349.jpg?84083" group-title="FR| SPORT HD/4K",FR: BEIN MAX 6 HD
+https://tv.it-zone.tech/proxy2/207218
+#EXTINF:-1 tvg-id="Bein7Max.fr" tvg-name="FR: BEIN MAX 7 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6346.jpg?26585" group-title="FR| SPORT HD/4K",FR: BEIN MAX 7 HD
+https://tv.it-zone.tech/proxy2/207219
+#EXTINF:-1 tvg-id="Bein8Max.fr" tvg-name="FR: BEIN MAX 8 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6344.jpg?59439" group-title="FR| SPORT HD/4K",FR: BEIN MAX 8 HD
+https://tv.it-zone.tech/proxy2/207220
+#EXTINF:-1 tvg-id="Bein9Max.fr" tvg-name="FR: BEIN MAX 9 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6343.jpg?76444" group-title="FR| SPORT HD/4K",FR: BEIN MAX 9 HD
+https://tv.it-zone.tech/proxy2/207221
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN MAX 10 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6371.png?82852" group-title="FR| SPORT HD/4K",FR: BEIN MAX 10 HD
+https://tv.it-zone.tech/proxy2/207222
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 4 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6342.png?5203" group-title="FR| SPORT HD/4K",FR: BEIN SPORT MAX 4 HD
+https://tv.it-zone.tech/proxy2/220909
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 5 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6340.png?59507" group-title="FR| SPORT HD/4K",FR: BEIN SPORT MAX 5 HD
+https://tv.it-zone.tech/proxy2/220908
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 6 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11501.png?7722" group-title="FR| SPORT HD/4K",FR: BEIN SPORT MAX 6 HD
+https://tv.it-zone.tech/proxy2/220907
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 7 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8299.png?25953" group-title="FR| SPORT HD/4K",FR: BEIN SPORT MAX 7 HD
+https://tv.it-zone.tech/proxy2/220906
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 8 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11500.png?17909" group-title="FR| SPORT HD/4K",FR: BEIN SPORT MAX 8 HD
+https://tv.it-zone.tech/proxy2/220905
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 9 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11498.png?74251" group-title="FR| SPORT HD/4K",FR: BEIN SPORT MAX 9 HD
+https://tv.it-zone.tech/proxy2/220904
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 10 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12240.png?22618" group-title="FR| SPORT HD/4K",FR: BEIN SPORT MAX 10 HD
+https://tv.it-zone.tech/proxy2/220903
+#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT 1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/615.jpg?35441" group-title="FR| SPORT HD/4K",FR: EUROSPORT 1 4K
+https://tv.it-zone.tech/proxy2/106946
+#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/615.jpg?83779" group-title="FR| SPORT HD/4K",FR: EUROSPORT 1 HD
+https://tv.it-zone.tech/proxy2/207225
+#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/627.png?91177" group-title="FR| SPORT HD/4K",FR: EUROSPORT 2 HD
+https://tv.it-zone.tech/proxy2/207224
+#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT 2 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/722.png?35425" group-title="FR| SPORT HD/4K",FR: EUROSPORT 2 4K
+https://tv.it-zone.tech/proxy2/106947
+#EXTINF:-1 tvg-id="" tvg-name="FR:  EUROSPORT 360 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12985.png?63984" group-title="FR| SPORT HD/4K",FR:  EUROSPORT 360 1 HD
+https://tv.it-zone.tech/proxy2/536689
+#EXTINF:-1 tvg-id="" tvg-name="FR:  EUROSPORT 360 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12985.png?63984" group-title="FR| SPORT HD/4K",FR:  EUROSPORT 360 2 HD
+https://tv.it-zone.tech/proxy2/536690
+#EXTINF:-1 tvg-id="" tvg-name="FR:  EUROSPORT 360 3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12985.png?63984" group-title="FR| SPORT HD/4K",FR:  EUROSPORT 360 3 HD
+https://tv.it-zone.tech/proxy2/536691
+#EXTINF:-1 tvg-id="" tvg-name="FR:  EUROSPORT 360 4 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12985.png?63984" group-title="FR| SPORT HD/4K",FR:  EUROSPORT 360 4 HD
+https://tv.it-zone.tech/proxy2/536692
+#EXTINF:-1 tvg-id="" tvg-name="FR:  EUROSPORT 360 5 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12985.png?63984" group-title="FR| SPORT HD/4K",FR:  EUROSPORT 360 5 HD
+https://tv.it-zone.tech/proxy2/536693
+#EXTINF:-1 tvg-id="" tvg-name="FR:  EUROSPORT 360 7 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12985.png?63984" group-title="FR| SPORT HD/4K",FR:  EUROSPORT 360 7 HD
+https://tv.it-zone.tech/proxy2/536695
+#EXTINF:-1 tvg-id="" tvg-name="FR:  EUROSPORT 360 8 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12985.png?63984" group-title="FR| SPORT HD/4K",FR:  EUROSPORT 360 8 HD
+https://tv.it-zone.tech/proxy2/536696
+#EXTINF:-1 tvg-id="" tvg-name="FR: EXTREME SPORTS HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/619.png?10311" group-title="FR| SPORT HD/4K",FR: EXTREME SPORTS HD
+https://tv.it-zone.tech/proxy2/220936
+#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF channel 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12776.png?16355" group-title="FR| SPORT HD/4K",FR: GOLF channel 4K
+https://tv.it-zone.tech/proxy2/106948
+#EXTINF:-1 tvg-id="" tvg-name="FR: Golf Channel HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6282.png?72794" group-title="FR| SPORT HD/4K",FR: Golf Channel HD
+https://tv.it-zone.tech/proxy2/220896
+#EXTINF:-1 tvg-id="" tvg-name="FR: Golf Plus HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6282.png?17966" group-title="FR| SPORT HD/4K",FR: Golf Plus HD
+https://tv.it-zone.tech/proxy2/220937
+#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF+ 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6282.png?85353" group-title="FR| SPORT HD/4K",FR: GOLF+ 4K
+https://tv.it-zone.tech/proxy2/106949
+#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF+ HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6282.png?41996" group-title="FR| SPORT HD/4K",FR: GOLF+ HD
+https://tv.it-zone.tech/proxy2/207257
+#EXTINF:-1 tvg-id="" tvg-name="FR: INFOSPORT+ HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6278.jpg?96502" group-title="FR| SPORT HD/4K",FR: INFOSPORT+ HD
+https://tv.it-zone.tech/proxy2/207223
+#EXTINF:-1 tvg-id="" tvg-name="FR: Equidia Live" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6304.jpg?49487" group-title="FR| SPORT HD/4K",FR: Equidia Live
+https://tv.it-zone.tech/proxy2/633876
+#EXTINF:-1 tvg-id="" tvg-name="FR:L`EQUIPE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12404.png?5769" group-title="FR| SPORT HD/4K",FR:L`EQUIPE HD
+https://tv.it-zone.tech/proxy2/832049
+#EXTINF:-1 tvg-id="" tvg-name="FR: L`EQUIPE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12404.png?5769" group-title="FR| SPORT HD/4K",FR: L`EQUIPE
+https://tv.it-zone.tech/proxy2/832050
+#EXTINF:-1 tvg-id="" tvg-name="FR: L`EQUIPE 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12404.png?5769" group-title="FR| SPORT HD/4K",FR: L`EQUIPE 4K
+https://tv.it-zone.tech/proxy2/832048
+#EXTINF:-1 tvg-id="" tvg-name="FR: Infosport HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6278.jpg?66231" group-title="FR| SPORT HD/4K",FR: Infosport HD
+https://tv.it-zone.tech/proxy2/220898
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6352.jpg?53476" group-title="FR| SPORT HD/4K",FR: AB1 4K
+https://tv.it-zone.tech/proxy2/106921
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6352.jpg?2491" group-title="FR| SPORT HD/4K",FR: AB1 HD
+https://tv.it-zone.tech/proxy2/207148
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ CAN" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12736.jpg?ver=83751" group-title="FR| SPORT HD/4K",FR: Canal+ CAN
+https://tv.it-zone.tech/proxy2/694616
+#EXTINF:-1 tvg-id="" tvg-name="FR: EQUIDIA LIVE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6304.jpg?18596" group-title="FR| SPORT HD/4K",FR: EQUIDIA LIVE HD
+https://tv.it-zone.tech/proxy2/207227
+#EXTINF:-1 tvg-id="FootPlus24.fr" tvg-name="FR: FOOT 24/24 + HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6293.jpg?95528" group-title="FR| SPORT HD/4K",FR: FOOT 24/24 + HD
+https://tv.it-zone.tech/proxy2/207228
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC ACCESS SPORT 1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13606.png?13240" group-title="FR| SPORT HD/4K",FR: RMC ACCESS SPORT 1 4K
+https://tv.it-zone.tech/proxy2/165079
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC ACCESS SPORT 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13606.png?27746" group-title="FR| SPORT HD/4K",FR: RMC ACCESS SPORT 1 HD
+https://tv.it-zone.tech/proxy2/220925
+#EXTINF:-1 tvg-id="" tvg-name="FR: OL TV 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1959.png?74594" group-title="FR| SPORT HD/4K",FR: OL TV 4K
+https://tv.it-zone.tech/proxy2/696383
+#EXTINF:-1 tvg-id="" tvg-name="FR: Foot24 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6293.jpg?14473" group-title="FR| SPORT HD/4K",FR: Foot24 HD
+https://tv.it-zone.tech/proxy2/220897
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13609.png?71208" group-title="FR| SPORT HD/4K",FR: RMC SPORT 1 4K
+https://tv.it-zone.tech/proxy2/107008
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13609.png?71208" group-title="FR| SPORT HD/4K",FR: RMC SPORT 1 HD
+https://tv.it-zone.tech/proxy2/106913
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 2 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13610.jpg?90550" group-title="FR| SPORT HD/4K",FR: RMC SPORT 2 4K
+https://tv.it-zone.tech/proxy2/107009
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13610.jpg?3750" group-title="FR| SPORT HD/4K",FR: RMC SPORT 2 HD
+https://tv.it-zone.tech/proxy2/207258
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 3 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13611.png?16781" group-title="FR| SPORT HD/4K",FR: RMC SPORT 3 4K
+https://tv.it-zone.tech/proxy2/107010
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13611.png?69416" group-title="FR| SPORT HD/4K",FR: RMC SPORT 3 HD
+https://tv.it-zone.tech/proxy2/207259
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 4 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13613.jpg?83453" group-title="FR| SPORT HD/4K",FR: RMC SPORT 4 4K
+https://tv.it-zone.tech/proxy2/107011
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 4 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13613.jpg?19042" group-title="FR| SPORT HD/4K",FR: RMC SPORT 4 HD
+https://tv.it-zone.tech/proxy2/207260
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 5 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13612.png?26347" group-title="FR| SPORT HD/4K",FR: RMC SPORT 5 4K
+https://tv.it-zone.tech/proxy2/165703
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 6 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13595.png?56170" group-title="FR| SPORT HD/4K",FR: RMC SPORT 6 4K
+https://tv.it-zone.tech/proxy2/165704
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 7 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13596.jpg?13832" group-title="FR| SPORT HD/4K",FR: RMC SPORT 7 4K
+https://tv.it-zone.tech/proxy2/165705
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 8 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13597.jpg?389" group-title="FR| SPORT HD/4K",FR: RMC SPORT 8 4K
+https://tv.it-zone.tech/proxy2/165706
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 9 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13598.jpg?54624" group-title="FR| SPORT HD/4K",FR: RMC SPORT 9 4K
+https://tv.it-zone.tech/proxy2/165707
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 10 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13599.png?59511" group-title="FR| SPORT HD/4K",FR: RMC SPORT 10 4K
+https://tv.it-zone.tech/proxy2/165708
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 11 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13600.png?23453" group-title="FR| SPORT HD/4K",FR: RMC SPORT 11 4K
+https://tv.it-zone.tech/proxy2/165709
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 12 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13602.png?20736" group-title="FR| SPORT HD/4K",FR: RMC SPORT 12 4K
+https://tv.it-zone.tech/proxy2/165710
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 13 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13602.png?20736" group-title="FR| SPORT HD/4K",FR: RMC SPORT 13 4K
+https://tv.it-zone.tech/proxy2/165711
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 14 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13603.png?10943" group-title="FR| SPORT HD/4K",FR: RMC SPORT 14 4K
+https://tv.it-zone.tech/proxy2/165712
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 15 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13604.png?83066" group-title="FR| SPORT HD/4K",FR: RMC SPORT 15 4K
+https://tv.it-zone.tech/proxy2/165713
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 16 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13605.png?90518" group-title="FR| SPORT HD/4K",FR: RMC Sport Live 16 4K
+https://tv.it-zone.tech/proxy2/585273
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 17 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6116.jpg?13414" group-title="FR| SPORT HD/4K",FR: RMC Sport Live 17 4K
+https://tv.it-zone.tech/proxy2/585274
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13609.png?11241" group-title="FR| SPORT HD/4K",FR: RMC Sport Live 1 4K
+https://tv.it-zone.tech/proxy2/220888
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13609.png?53417" group-title="FR| SPORT HD/4K",FR: RMC Sport Live 1 HD
+https://tv.it-zone.tech/proxy2/220902
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 2 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13610.jpg?3750" group-title="FR| SPORT HD/4K",FR: RMC Sport Live 2 4K
+https://tv.it-zone.tech/proxy2/220889
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13610.jpg?43046" group-title="FR| SPORT HD/4K",FR: RMC Sport Live 2 HD
+https://tv.it-zone.tech/proxy2/220901
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 3 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13611.png?41046" group-title="FR| SPORT HD/4K",FR: RMC Sport Live 3 4K
+https://tv.it-zone.tech/proxy2/220890
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13611.png?51219" group-title="FR| SPORT HD/4K",FR: RMC Sport Live 3 HD
+https://tv.it-zone.tech/proxy2/220900
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 4 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13613.jpg?19042" group-title="FR| SPORT HD/4K",FR: RMC Sport Live 4 4K
+https://tv.it-zone.tech/proxy2/220891
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 4 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12776.png?16355" group-title="FR| SPORT HD/4K",FR: RMC Sport Live 4 HD
+https://tv.it-zone.tech/proxy2/220939
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 5 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13612.png?26347" group-title="FR| SPORT HD/4K",FR: RMC Sport Live 5 HD
+https://tv.it-zone.tech/proxy2/220899
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 6 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13595.png?7200" group-title="FR| SPORT HD/4K",FR: RMC Sport Live 6 4K
+https://tv.it-zone.tech/proxy2/220953
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 7 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13596.jpg?89946" group-title="FR| SPORT HD/4K",FR: RMC Sport Live 7 4K
+https://tv.it-zone.tech/proxy2/220952
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 8 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13597.jpg?44457" group-title="FR| SPORT HD/4K",FR: RMC Sport Live 8 HD
+https://tv.it-zone.tech/proxy2/220951
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 9 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13598.jpg?27176" group-title="FR| SPORT HD/4K",FR: RMC Sport Live 9 HD
+https://tv.it-zone.tech/proxy2/220950
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 10 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13599.png?47084" group-title="FR| SPORT HD/4K",FR: RMC Sport Live 10 HD
+https://tv.it-zone.tech/proxy2/220949
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 11 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13600.png?37936" group-title="FR| SPORT HD/4K",FR: RMC Sport Live 11 HD
+https://tv.it-zone.tech/proxy2/220948
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 13 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13601.png?9293" group-title="FR| SPORT HD/4K",FR: RMC Sport Live 13 HD
+https://tv.it-zone.tech/proxy2/220946
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 14 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6140.png?70310" group-title="FR| SPORT HD/4K",FR: RMC Sport Live 14 HD
+https://tv.it-zone.tech/proxy2/220945
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 12 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13601.png?64858" group-title="FR| SPORT HD/4K",FR: RMC Sport Live 12 HD
+https://tv.it-zone.tech/proxy2/220947
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 15 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13604.png?55790" group-title="FR| SPORT HD/4K",FR: RMC Sport Live 15 HD
+https://tv.it-zone.tech/proxy2/220944
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 16 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13605.png?90518" group-title="FR| SPORT HD/4K",FR: RMC Sport Live 16 HD
+https://tv.it-zone.tech/proxy2/220943
+#EXTINF:-1 tvg-id="" tvg-name="FR: AUTOMOTO TV HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12553.jpg?33706" group-title="FR| SPORT HD/4K",FR: AUTOMOTO TV HD
+https://tv.it-zone.tech/proxy2/207245
+#EXTINF:-1 tvg-id="" tvg-name="FR: AUTOMOTO HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12553.jpg?52530" group-title="FR| SPORT HD/4K",FR: AUTOMOTO HD
+https://tv.it-zone.tech/proxy2/106922
+#EXTINF:-1 tvg-id="Automoto.fr" tvg-name="FR: AUTOMOTO HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12553.jpg?51355" group-title="FR| SPORT HD/4K",FR: AUTOMOTO HD
+https://tv.it-zone.tech/proxy2/207226
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6576.png?ver=29759" group-title="FR| SPORT HD/4K",FR: MULTISPORTS 1 HD
+https://tv.it-zone.tech/proxy2/612643
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6576.png?ver=29759" group-title="FR| SPORT HD/4K",FR: MULTISPORTS 2 HD
+https://tv.it-zone.tech/proxy2/612644
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6576.png?ver=29759" group-title="FR| SPORT HD/4K",FR: MULTISPORTS 3 HD
+https://tv.it-zone.tech/proxy2/612645
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 4 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6576.png?ver=29759" group-title="FR| SPORT HD/4K",FR: MULTISPORTS 4 HD
+https://tv.it-zone.tech/proxy2/612646
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 5 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6576.png?ver=29759" group-title="FR| SPORT HD/4K",FR: MULTISPORTS 5 HD
+https://tv.it-zone.tech/proxy2/612647
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 6 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6576.png?ver=29759" group-title="FR| SPORT HD/4K",FR: MULTISPORTS 6 HD
+https://tv.it-zone.tech/proxy2/612648
 #EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 360 1" group-title="EU- FR EUROSPORT 360",EUROSPORT 360 1
 https://tv.it-zone.tech/proxy/964918
 #EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 360 2" group-title="EU- FR EUROSPORT 360",EUROSPORT 360 2
@@ -1105,158 +1248,6 @@ https://tv.it-zone.tech/proxy/964923
 https://tv.it-zone.tech/proxy/964924
 #EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 360 8" group-title="EU- FR EUROSPORT 360",EUROSPORT 360 8
 https://tv.it-zone.tech/proxy/964925
-#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="FR- BEIN  SPORTS 1 HD" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS 1 HD
-https://tv.it-zone.tech/proxy/65653
-#EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="FR- BEIN  SPORTS 2 HD" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS 2 HD
-https://tv.it-zone.tech/proxy/65652
-#EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="FR- BEIN  SPORTS 3 HD" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS 3 HD
-https://tv.it-zone.tech/proxy/65651
-#EXTINF:-1 tvg-ID="beinsportsmax4.fr" tvg-name="FR- BEIN  SPORTS MAX 4 HD" tvg-logo="https://i.imgur.com/bwHNMLh.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 4 HD
-https://tv.it-zone.tech/proxy/65650
-#EXTINF:-1 tvg-ID="beinsportsmax5.fr" tvg-name="FR- BEIN  SPORTS MAX 5 HD" tvg-logo="https://i.imgur.com/8Hj8ZiT.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 5 HD
-https://tv.it-zone.tech/proxy/65649
-#EXTINF:-1 tvg-ID="beinsportsmax6.fr" tvg-name="FR- BEIN  SPORTS MAX 6 HD" tvg-logo="https://i.imgur.com/Eh1130b.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 6 HD
-https://tv.it-zone.tech/proxy/65648
-#EXTINF:-1 tvg-ID="beinsportsmax7.fr" tvg-name="FR- BEIN  SPORTS MAX 7 HD" tvg-logo="https://i.imgur.com/sMH0tFc.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 7 HD
-https://tv.it-zone.tech/proxy/65647
-#EXTINF:-1 tvg-ID="beinsportsmax8.fr" tvg-name="FR- BEIN  SPORTS MAX 8 HD" tvg-logo="https://i.imgur.com/VTzzoQP.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 8 HD
-https://tv.it-zone.tech/proxy/65646
-#EXTINF:-1 tvg-ID="beinsportsmax9.fr" tvg-name="FR- BEIN SPORTS MAX 9 HD" tvg-logo="https://i.imgur.com/dMTBut1.png" group-title="EU- FR BEIN SPORTS",FR- BEIN SPORTS MAX 9 HD
-https://tv.it-zone.tech/proxy/402311
-#EXTINF:-1 tvg-ID="beinsportsmax10.fr" tvg-name="FR- BEIN  SPORTS MAX 10 HD" tvg-logo="https://i.imgur.com/lVB4Ao9.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 10 HD
-https://tv.it-zone.tech/proxy/402312
-#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="FR- BEIN  SPORTS 1 FHD" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS 1 FHD
-https://tv.it-zone.tech/proxy/52862
-#EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="FR- BEIN  SPORTS 2 FHD" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS 2 FHD
-https://tv.it-zone.tech/proxy/52861
-#EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="FR- BEIN  SPORTS 3 FHD" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS 3 FHD
-https://tv.it-zone.tech/proxy/52860
-#EXTINF:-1 tvg-ID="beinsportsmax4.fr" tvg-name="FR- BEIN  SPORTS MAX 4 FHD" tvg-logo="https://i.imgur.com/bwHNMLh.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 4 FHD
-https://tv.it-zone.tech/proxy/936417
-#EXTINF:-1 tvg-ID="beinsportsmax5.fr" tvg-name="FR- BEIN  SPORTS MAX 5 FHD" tvg-logo="https://i.imgur.com/8Hj8ZiT.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 5 FHD
-https://tv.it-zone.tech/proxy/936421
-#EXTINF:-1 tvg-ID="beinsportsmax6.fr" tvg-name="FR- BEIN  SPORTS MAX 6 FHD" tvg-logo="https://i.imgur.com/Eh1130b.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 6 FHD
-https://tv.it-zone.tech/proxy/936420
-#EXTINF:-1 tvg-ID="beinsportsmax7.fr" tvg-name="FR- BEIN  SPORTS MAX 7 FHD" tvg-logo="https://i.imgur.com/sMH0tFc.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 7 FHD
-https://tv.it-zone.tech/proxy/936419
-#EXTINF:-1 tvg-ID="beinsportsmax8.fr" tvg-name="FR- BEIN  SPORTS MAX 8 FHD" tvg-logo="https://i.imgur.com/VTzzoQP.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 8 FHD
-https://tv.it-zone.tech/proxy/936418
-#EXTINF:-1 tvg-ID="beinsportsmax9.fr" tvg-name="FR- BEIN SPORTS MAX 9 FHD" tvg-logo="https://i.imgur.com/dMTBut1.png" group-title="EU- FR BEIN SPORTS",FR- BEIN SPORTS MAX 9 FHD
-https://tv.it-zone.tech/proxy/936422
-#EXTINF:-1 tvg-ID="beinsportsmax10.fr" tvg-name="FR- BEIN  SPORTS MAX 10 FHD" tvg-logo="https://i.imgur.com/lVB4Ao9.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 10 FHD
-https://tv.it-zone.tech/proxy/936423
-#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="FR- BEIN SPORT 1 SD" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="EU- FR BEIN SPORTS",FR- BEIN SPORT 1 SD
-https://tv.it-zone.tech/proxy/121403
-#EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="FR- BEIN SPORT 2 SD" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="EU- FR BEIN SPORTS",FR- BEIN SPORT 2 SD
-https://tv.it-zone.tech/proxy/121404
-#EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="FR- BEIN SPORT 3 SD" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="EU- FR BEIN SPORTS",FR- BEIN SPORT 3 SD
-https://tv.it-zone.tech/proxy/121405
-#EXTINF:-1 tvg-ID="beinsportsmax4.fr" tvg-name="FR- BEIN  SPORTS MAX 4 SD" tvg-logo="https://i.imgur.com/bwHNMLh.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 4 SD
-https://tv.it-zone.tech/proxy/936424
-#EXTINF:-1 tvg-ID="beinsportsmax5.fr" tvg-name="FR- BEIN  SPORTS MAX 5 SD" tvg-logo="https://i.imgur.com/8Hj8ZiT.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 5 SD
-https://tv.it-zone.tech/proxy/936428
-#EXTINF:-1 tvg-ID="beinsportsmax6.fr" tvg-name="FR- BEIN  SPORTS MAX 6 SD" tvg-logo="https://i.imgur.com/Eh1130b.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 6 SD
-https://tv.it-zone.tech/proxy/936427
-#EXTINF:-1 tvg-ID="beinsportsmax7.fr" tvg-name="FR- BEIN  SPORTS MAX 7 SD" tvg-logo="https://i.imgur.com/sMH0tFc.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 7 SD
-https://tv.it-zone.tech/proxy/936426
-#EXTINF:-1 tvg-ID="beinsportsmax8.fr" tvg-name="FR- BEIN  SPORTS MAX 8 SD" tvg-logo="https://i.imgur.com/VTzzoQP.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 8 SD
-https://tv.it-zone.tech/proxy/936425
-#EXTINF:-1 tvg-ID="beinsportsmax9.fr" tvg-name="FR- BEIN SPORTS MAX 9 SD" tvg-logo="https://i.imgur.com/dMTBut1.png" group-title="EU- FR BEIN SPORTS",FR- BEIN SPORTS MAX 9 SD
-https://tv.it-zone.tech/proxy/936429
-#EXTINF:-1 tvg-ID="beinsportsmax10.fr" tvg-name="FR- BEIN  SPORTS MAX 10 SD" tvg-logo="https://i.imgur.com/lVB4Ao9.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 10 SD
-https://tv.it-zone.tech/proxy/936430
-#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="FR- BEIN  SPORTS 1 4K" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS 1 4K
-https://tv.it-zone.tech/proxy/962495
-#EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="FR- BEIN  SPORTS 2 4K" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS 2 4K
-https://tv.it-zone.tech/proxy/962496
-#EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="FR- BEIN  SPORTS 3 4K FR" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS 3 4K FR
-https://tv.it-zone.tech/proxy/962497
-#EXTINF:-1 tvg-ID="beinsportsmax4.fr" tvg-name="FR- BEIN  SPORTS MAX 4 4K" tvg-logo="https://i.imgur.com/bwHNMLh.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 4 4K
-https://tv.it-zone.tech/proxy/962498
-#EXTINF:-1 tvg-ID="beinsportsmax5.fr" tvg-name="FR- BEIN  SPORTS MAX 5 4K" tvg-logo="https://i.imgur.com/8Hj8ZiT.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 5 4K
-https://tv.it-zone.tech/proxy/962499
-#EXTINF:-1 tvg-ID="beinsportsmax6.fr" tvg-name="FR- BEIN  SPORTS MAX 6 4K" tvg-logo="https://i.imgur.com/Eh1130b.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 6 4K
-https://tv.it-zone.tech/proxy/962500
-#EXTINF:-1 tvg-ID="beinsportsmax7.fr" tvg-name="FR- BEIN  SPORTS MAX 7 4K" tvg-logo="https://i.imgur.com/sMH0tFc.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 7 4K
-https://tv.it-zone.tech/proxy/962501
-#EXTINF:-1 tvg-ID="beinsportsmax8.fr" tvg-name="FR- BEIN  SPORTS MAX 8 4K" tvg-logo="https://i.imgur.com/VTzzoQP.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 8 4K
-https://tv.it-zone.tech/proxy/962502
-#EXTINF:-1 tvg-ID="beinsportsmax9.fr" tvg-name="FR- BEIN SPORTS MAX 9 4K" tvg-logo="https://i.imgur.com/dMTBut1.png" group-title="EU- FR BEIN SPORTS",FR- BEIN SPORTS MAX 9 4K
-https://tv.it-zone.tech/proxy/962503
-#EXTINF:-1 tvg-ID="beinsportsmax10.fr" tvg-name="FR- BEIN  SPORTS MAX 10 4K" tvg-logo="https://i.imgur.com/lVB4Ao9.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 10 4K
-https://tv.it-zone.tech/proxy/962504
-#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="FR- BEIN  SPORTS 1 HEVC" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS 1 HEVC
-https://tv.it-zone.tech/proxy/130543
-#EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="FR- BEIN  SPORTS 2 HEVC" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS 2 HEVC
-https://tv.it-zone.tech/proxy/130544
-#EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="FR- BEIN  SPORTS 3 HEVC FR" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS 3 HEVC FR
-https://tv.it-zone.tech/proxy/130545
-#EXTINF:-1 tvg-ID="beinsportsmax4.fr" tvg-name="FR- BEIN  SPORTS MAX 4 HEVC" tvg-logo="https://i.imgur.com/bwHNMLh.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 4 HEVC
-https://tv.it-zone.tech/proxy/936431
-#EXTINF:-1 tvg-ID="beinsportsmax5.fr" tvg-name="FR- BEIN  SPORTS MAX 5 HEVC" tvg-logo="https://i.imgur.com/8Hj8ZiT.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 5 HEVC
-https://tv.it-zone.tech/proxy/936435
-#EXTINF:-1 tvg-ID="beinsportsmax6.fr" tvg-name="FR- BEIN  SPORTS MAX 6 HEVC" tvg-logo="https://i.imgur.com/Eh1130b.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 6 HEVC
-https://tv.it-zone.tech/proxy/936434
-#EXTINF:-1 tvg-ID="beinsportsmax7.fr" tvg-name="FR- BEIN  SPORTS MAX 7 HEVC" tvg-logo="https://i.imgur.com/sMH0tFc.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 7 HEVC
-https://tv.it-zone.tech/proxy/936433
-#EXTINF:-1 tvg-ID="" tvg-name="FR- BEIN  SPORTS MAX 8 HEVC" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 8 HEVC
-https://tv.it-zone.tech/proxy/936432
-#EXTINF:-1 tvg-ID="beinsportsmax9.fr" tvg-name="FR- BEIN SPORTS MAX 9 HEVC" tvg-logo="https://i.imgur.com/dMTBut1.png" group-title="EU- FR BEIN SPORTS",FR- BEIN SPORTS MAX 9 HEVC
-https://tv.it-zone.tech/proxy/936436
-#EXTINF:-1 tvg-ID="beinsportsmax10.fr" tvg-name="FR- BEIN  SPORTS MAX 10 HEVC" tvg-logo="https://i.imgur.com/lVB4Ao9.png" group-title="EU- FR BEIN SPORTS",FR- BEIN  SPORTS MAX 10 HEVC
-https://tv.it-zone.tech/proxy/936437
-#EXTINF:-1 tvg-ID="RMCTalkSport.fr" tvg-name="FR- RMC TALK SPORT" group-title="EU- FR RMC SPORTS",FR- RMC TALK SPORT
-https://tv.it-zone.tech/proxy/1742957
-#EXTINF:-1 tvg-ID="rmcsport1.fr" tvg-name="FR- RMC SPORT 1 HD" tvg-logo="https://i.imgur.com/NsFTG7u.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 1 HD
-https://tv.it-zone.tech/proxy/65639
-#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="FR- RMC SPORT 2 HD" tvg-logo="https://i.imgur.com/nZd8aPo.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 2 HD
-https://tv.it-zone.tech/proxy/65638
-#EXTINF:-1 tvg-ID="rmcsport3.fr" tvg-name="FR- RMC SPORT 3 HD" tvg-logo="https://i.imgur.com/37GNibZ.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 3 HD
-https://tv.it-zone.tech/proxy/65637
-#EXTINF:-1 tvg-ID="rmcsport1.fr" tvg-name="FR- RMC SPORT 1 FHD" tvg-logo="https://i.imgur.com/NsFTG7u.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 1 FHD
-https://tv.it-zone.tech/proxy/52863
-#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="FR- RMC SPORT 2 FHD" tvg-logo="https://i.imgur.com/nZd8aPo.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 2 FHD
-https://tv.it-zone.tech/proxy/52864
-#EXTINF:-1 tvg-ID="rmcsport3.fr" tvg-name="FR- RMC SPORT 3 FHD" tvg-logo="https://i.imgur.com/37GNibZ.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 3 FHD
-https://tv.it-zone.tech/proxy/52865
-#EXTINF:-1 tvg-ID="rmcsport4.fr" tvg-name="FR- RMC SPORT 4 FHD" tvg-logo="https://i.imgur.com/86gygYV.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 4 FHD
-https://tv.it-zone.tech/proxy/52866
-#EXTINF:-1 tvg-ID="rmcsportlive5.fr" tvg-name="FR- RMC SPORT 5 FHD" tvg-logo="https://i.imgur.com/rkhDtbF.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 5 FHD
-https://tv.it-zone.tech/proxy/936342
-#EXTINF:-1 tvg-ID="" tvg-name="FR- RMC SPORT 1 SD" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 1 SD
-https://tv.it-zone.tech/proxy/121406
-#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="FR- RMC SPORT 2 SD" tvg-logo="https://i.imgur.com/nZd8aPo.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 2 SD
-https://tv.it-zone.tech/proxy/121407
-#EXTINF:-1 tvg-ID="rmcsport3.fr" tvg-name="FR- RMC SPORT 3 SD" tvg-logo="https://i.imgur.com/37GNibZ.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 3 SD
-https://tv.it-zone.tech/proxy/121408
-#EXTINF:-1 tvg-ID="rmcsport4.fr" tvg-name="FR- RMC SPORT 4 SD" tvg-logo="https://i.imgur.com/86gygYV.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 4 SD
-https://tv.it-zone.tech/proxy/121409
-#EXTINF:-1 tvg-ID="" tvg-name="FR- RMC SPORT 5 SD" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 5 SD
-https://tv.it-zone.tech/proxy/936354
-#EXTINF:-1 tvg-ID="rmcsport1.fr" tvg-name="FR- RMC SPORT 1 4K" tvg-logo="https://i.imgur.com/NsFTG7u.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 1 4K
-https://tv.it-zone.tech/proxy/962618
-#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="FR- RMC SPORT 2 4K" tvg-logo="https://i.imgur.com/nZd8aPo.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 2 4K
-https://tv.it-zone.tech/proxy/962619
-#EXTINF:-1 tvg-ID="01tv.fr" tvg-name="FR- RMC SPORT 3 4K" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 3 4K
-https://tv.it-zone.tech/proxy/962620
-#EXTINF:-1 tvg-ID="01tv.fr" tvg-name="FR- RMC SPORT 4 4K" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 4 4K
-https://tv.it-zone.tech/proxy/962621
-#EXTINF:-1 tvg-ID="rmcsportlive5.fr" tvg-name="FR- RMC SPORT 5 4K" tvg-logo="https://i.imgur.com/rkhDtbF.png" group-title="EU- FR RMC SPORTS",FR- RMC SPORT 5 4K
-https://tv.it-zone.tech/proxy/962622
-#EXTINF:-1 tvg-ID="MultiSports1.fr" tvg-name="MULTISPORTS 1" tvg-logo="https://i.imgur.com/sWKVs7F.png" group-title="EU- FR MULTISPORT",MULTISPORTS 1
-https://tv.it-zone.tech/proxy/637724
-#EXTINF:-1 tvg-ID="MultiSports2.fr" tvg-name="MULTISPORTS 2" tvg-logo="https://i.imgur.com/AXSgo41.png" group-title="EU- FR MULTISPORT",MULTISPORTS 2
-https://tv.it-zone.tech/proxy/637725
-#EXTINF:-1 tvg-ID="MultiSports3.fr" tvg-name="MULTISPORTS 3" tvg-logo="https://i.imgur.com/ol2qxLM.png" group-title="EU- FR MULTISPORT",MULTISPORTS 3
-https://tv.it-zone.tech/proxy/637726
-#EXTINF:-1 tvg-ID="MultiSports4.fr" tvg-name="MULTISPORTS 4" tvg-logo="https://i.imgur.com/tgvNLyy.png" group-title="EU- FR MULTISPORT",MULTISPORTS 4
-https://tv.it-zone.tech/proxy/637727
-#EXTINF:-1 tvg-ID="MultiSports5.fr" tvg-name="MULTISPORTS 5" tvg-logo="https://i.imgur.com/fFmTJwV.png" group-title="EU- FR MULTISPORT",MULTISPORTS 5
-https://tv.it-zone.tech/proxy/637728
-#EXTINF:-1 tvg-ID="MultiSports6.fr" tvg-name="MULTISPORTS 6" tvg-logo="https://i.imgur.com/qD53BMA.png" group-title="EU- FR MULTISPORT",MULTISPORTS 6
-https://tv.it-zone.tech/proxy/637729
-#EXTINF:-1 tvg-ID="MultiSports7.fr" tvg-name="MULTISPORTS 7" group-title="EU- FR MULTISPORT",MULTISPORTS 7
-https://tv.it-zone.tech/proxy/637730
 #EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ SPORT 1" tvg-logo=""http://102.177.177.154/logos/picons/logos/canalplussporthd.png" group-title="FR| CANAL+ AFRICA",AF: CANAL+ SPORT 1
 https://tv.it-zone.tech/proxy2/293306
 #EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ SPORT 2" tvg-logo="http://102.177.177.154/logos/picons/logos/canalplussporthd2.png" group-title="FR| CANAL+ AFRICA",AF: CANAL+ SPORT 2
