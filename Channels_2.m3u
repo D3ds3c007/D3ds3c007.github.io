@@ -1257,26 +1257,16 @@ https://tv.it-zone.tech/proxy/637728
 https://tv.it-zone.tech/proxy/637729
 #EXTINF:-1 tvg-ID="MultiSports7.fr" tvg-name="MULTISPORTS 7" group-title="EU- FR MULTISPORT",MULTISPORTS 7
 https://tv.it-zone.tech/proxy/637730
-#EXTINF:-1 tvg-ID="re#160625" tvg-name="C+AF- CANAL+ SPORTS 1 SD" tvg-logo="http://102.177.177.154/logos/picons/logos/canalplussporthd.png" group-title="AF- C+ SPORTS",C+AF- CANAL+ SPORTS 1 SD
-https://tv.it-zone.tech/proxy/1163433
-#EXTINF:-1 tvg-ID="re#160625" tvg-name="C+AF- CANAL+ SPORTS 1 HD" tvg-logo="http://102.177.177.154/logos/picons/logos/canalplussporthd.png" group-title="AF- C+ SPORTS",C+AF- CANAL+ SPORTS 1 HD
-https://tv.it-zone.tech/proxy/1163432
-#EXTINF:-1 tvg-ID="re#160124" tvg-name="C+AF- CANAL+ SPORTS 2 SD" tvg-logo="http://102.177.177.154/logos/picons/logos/canalplussporthd2.png" group-title="AF- C+ SPORTS",C+AF- CANAL+ SPORTS 2 SD
-https://tv.it-zone.tech/proxy/1163435
-#EXTINF:-1 tvg-ID="re#160124" tvg-name="C+AF- CANAL+ SPORTS 2 HD" tvg-logo="http://102.177.177.154/logos/picons/logos/canalplussporthd2.png" group-title="AF- C+ SPORTS",C+AF- CANAL+ SPORTS 2 HD
-https://tv.it-zone.tech/proxy/1163434
-#EXTINF:-1 tvg-ID="re#160149" tvg-name="C+AF- CANAL+ SPORTS 3 SD" tvg-logo="http://102.177.177.154/logos/picons/logos/canalplussporthd3.png" group-title="AF- C+ SPORTS",C+AF- CANAL+ SPORTS 3 SD
-https://tv.it-zone.tech/proxy/1163437
-#EXTINF:-1 tvg-ID="re#160149" tvg-name="C+AF- CANAL+ SPORTS 3 HD" tvg-logo="http://102.177.177.154/logos/picons/logos/canalplussporthd3.png" group-title="AF- C+ SPORTS",C+AF- CANAL+ SPORTS 3 HD
-https://tv.it-zone.tech/proxy/1163436
-#EXTINF:-1 tvg-ID="re#160393" tvg-name="C+AF- CANAL+ SPORTS 4 SD" tvg-logo="http://102.177.177.154/logos/picons/logos/canalplussporthd4.png" group-title="AF- C+ SPORTS",C+AF- CANAL+ SPORTS 4 SD
-https://tv.it-zone.tech/proxy/1163439
-#EXTINF:-1 tvg-ID="re#160393" tvg-name="C+AF- CANAL+ SPORTS 4 HD" tvg-logo="http://102.177.177.154/logos/picons/logos/canalplussporthd4.png" group-title="AF- C+ SPORTS",C+AF- CANAL+ SPORTS 4 HD
-https://tv.it-zone.tech/proxy/1163438
-#EXTINF:-1 tvg-ID="re#160394" tvg-name="C+AF- CANAL+ SPORTS 5 sd" tvg-logo="http://102.177.177.154/logos/picons/logos/canalplussporthd.png" group-title="AF- C+ SPORTS",C+AF- CANAL+ SPORTS 5 sd
-https://tv.it-zone.tech/proxy/1163441
-#EXTINF:-1 tvg-ID="re#160394" tvg-name="C+AF- CANAL+ SPORTS 5HD" tvg-logo="http://102.177.177.154/logos/picons/logos/canalplussporthd.png" group-title="AF- C+ SPORTS",C+AF- CANAL+ SPORTS 5HD
-https://tv.it-zone.tech/proxy/1163440
+#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ SPORT 1" tvg-logo=""http://102.177.177.154/logos/picons/logos/canalplussporthd.png" group-title="FR| CANAL+ AFRICA",AF: CANAL+ SPORT 1
+https://tv.it-zone.tech/proxy2/293306
+#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ SPORT 2" tvg-logo="http://102.177.177.154/logos/picons/logos/canalplussporthd2.png" group-title="FR| CANAL+ AFRICA",AF: CANAL+ SPORT 2
+https://tv.it-zone.tech/proxy2/293307
+#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ SPORT 3" tvg-logo="http://102.177.177.154/logos/picons/logos/canalplussporthd3.png" group-title="FR| CANAL+ AFRICA",AF: CANAL+ SPORT 3
+https://tv.it-zone.tech/proxy2/293308
+#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ SPORT 4" tvg-logo="http://102.177.177.154/logos/picons/logos/canalplussporthd4.png" group-title="FR| CANAL+ AFRICA",AF: CANAL+ SPORT 4
+https://tv.it-zone.tech/proxy2/293309
+#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ SPORT 5" tvg-logo="http://102.177.177.154/logos/picons/logos/canalplussporthd.png" group-title="FR| CANAL+ AFRICA",AF: CANAL+ SPORT 5
+https://tv.it-zone.tech/proxy2/293310
 #EXTINF:-1 tvg-ID="ad#180396" tvg-name="C+AF- Zee Magic" tvg-logo="http://102.177.177.154/logos/picons/logos/ZEE-MAGIC.png" group-title="AF- C+ CINEMA",C+AF- Zee Magic
 https://tv.it-zone.tech/proxy/1163487
 #EXTINF:-1 tvg-ID="" tvg-name="C+ RÉU- ANTENNE REUNION HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/ANTENNE-REUNION.jpg" group-title="AF- C+ RÉUNION",C+ RÉU- ANTENNE REUNION HD
